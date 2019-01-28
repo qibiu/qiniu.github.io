@@ -2,29 +2,24 @@
 
 
 
+
+
+
+
+
+
+
+
+
   
 
 
 <html class="theme-next muse use-motion" lang="_en">
 <head>
   <meta charset="UTF-8"/>
-<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2"/>
-<meta name="theme-color" content="#222">
-
-
-
-
-
-
-
-
-
-
-
-
-<meta http-equiv="Cache-Control" content="no-transform" />
-<meta http-equiv="Cache-Control" content="no-siteapp" />
+<meta name="theme-color" content="#222"/>
 
 
 
@@ -47,37 +42,39 @@
 
 
 
-<link href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css" />
-
-<link href="/css/main.css?v=6.0.6" rel="stylesheet" type="text/css" />
-
-
-  <link rel="apple-touch-icon" sizes="180x180" href="/favicon.ico?v=6.0.6">
-
-
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon.ico?v=6.0.6">
-
-
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon.ico?v=6.0.6">
-
-
-  <link rel="mask-icon" href="/favicon.ico?v=6.0.6" color="#222">
 
 
 
 
+<link rel="stylesheet" href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2"/>
+
+<link rel="stylesheet" href="/css/main.css?v=6.7.0"/>
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png?v=6.7.0">
+
+
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png?v=6.7.0">
+
+
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png?v=6.7.0">
+
+
+  <link rel="mask-icon" href="/images/logo.svg?v=6.7.0" color="#222">
 
 
 
 
 
-<script type="text/javascript" id="hexo.configurations">
+
+
+<script id="hexo.configurations">
   var NexT = window.NexT || {};
   var CONFIG = {
     root: '/',
     scheme: 'Muse',
-    version: '6.0.6',
-    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":true,"onmobile":false},
+    version: '6.7.0',
+    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":false,"onmobile":false},
     fancybox: false,
     fastclick: false,
     lazyload: false,
@@ -109,7 +106,7 @@
 
 
 
-  <link rel="alternate" href="/atom.xml" title="QIQI x BIUBIU" type="application/atom+xml" />
+  <link rel="alternate" href="/atom.xml" title="QIQI x BIUBIU" type="application/atom+xml"/>
 
 
 
@@ -118,7 +115,7 @@
 
 
 
-<script type="text/javascript" id="page.configurations">
+<script id="page.configurations">
   CONFIG.page = {
     sidebar: "",
   };
@@ -135,30 +132,31 @@
 
 
 
+
+
+
   <noscript>
-  <style type="text/css">
-    .use-motion .motion-element,
-    .use-motion .brand,
-    .use-motion .menu-item,
-    .sidebar-inner,
-    .use-motion .post-block,
-    .use-motion .pagination,
-    .use-motion .comments,
-    .use-motion .post-header,
-    .use-motion .post-body,
-    .use-motion .collection-title { opacity: initial; }
+  <style>
+  .use-motion .motion-element,
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-title { opacity: initial; }
 
-    .use-motion .logo,
-    .use-motion .site-title,
-    .use-motion .site-subtitle {
-      opacity: initial;
-      top: initial;
-    }
+  .use-motion .logo,
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
 
-    .use-motion {
-      .logo-line-before i { left: initial; }
-      .logo-line-after i { right: initial; }
-    }
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
   </style>
 </noscript>
 
@@ -176,10 +174,8 @@
     <div class="headband"></div>
 
     <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
-      <div class="header-inner"> 
-
-<div class="site-brand-wrapper">
-  <div class="site-meta ">
+      <div class="header-inner"><div class="site-brand-wrapper">
+  <div class="site-meta">
     
 
     <div class="custom-logo-site-title">
@@ -189,9 +185,8 @@
         <span class="logo-line-after"><i></i></span>
       </a>
     </div>
-      
-        <p class="site-subtitle"></p>
-      
+    
+    
   </div>
 
   <div class="site-nav-toggle">
@@ -203,67 +198,48 @@
   </div>
 </div>
 
-<nav class="site-nav">
-  
 
+
+<nav class="site-nav">
   
     <ul id="menu" class="menu">
       
         
         
-          
-  <li class="menu-item menu-item-home">
-    <a href="/" rel="section">
-      <i class="menu-item-icon fa fa-fw fa-home"></i> <br />首页</a>
-</li>
-
-      
-        
         
           
-  <li class="menu-item menu-item-tags">
-    <a href="/tags/" rel="section">
-      <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />标签</a>
-</li>
+          <li class="menu-item menu-item-home">
 
+    
+    
+    
       
-        
-        
-          
-  <li class="menu-item menu-item-categories">
-    <a href="/categories/" rel="section">
-      <i class="menu-item-icon fa fa-fw fa-th"></i> <br />分类</a>
-</li>
+    
 
-      
+    
+
+    <a href="/" rel="section"><i class="menu-item-icon fa fa-fw fa-home"></i> <br/>Home</a>
+
+  </li>
+        
         
         
           
-  <li class="menu-item menu-item-archives">
-    <a href="/archives/" rel="section">
-      <i class="menu-item-icon fa fa-fw fa-archive"></i> <br />归档</a>
-</li>
+          <li class="menu-item menu-item-archives">
+
+    
+    
+    
+      
+    
+
+    
+
+    <a href="/archives/" rel="section"><i class="menu-item-icon fa fa-fw fa-archive"></i> <br/>Archives</a>
+
+  </li>
 
       
-        
-        
-          
-  <li class="menu-item menu-item-tetris">
-    <a href="/tetris/" rel="section">
-      <i class="menu-item-icon fa fa-fw fa-gamepad"></i> <br />俄罗斯方块</a>
-</li>
-
-      
-        
-        
-          
-  <li class="menu-item menu-item-mario">
-    <a href="/mario/" rel="section">
-      <i class="menu-item-icon fa fa-fw fa-trophy"></i> <br />超级马里奥</a>
-</li>
-
-      
-
       
     </ul>
   
@@ -271,42 +247,18 @@
   
     
 
-    
-    
-      
-      
-    
-      
-      
-    
-      
-      
-    
-      
-      
-    
-      
-      
-    
-      
-      
-    
-    
-
-  
-
-
   
 
   
 </nav>
 
 
+
   
 
 
 
- </div>
+</div>
     </header>
 
     
@@ -335,16 +287,16 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="https://blog.qibiu.com/2018/06/16/充实的宝宝/">
+    <link itemprop="mainEntityOfPage" href="https://blog.qibiu.com/2018/06/16/充实的宝宝/"/>
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="name" content="Edison">
-      <meta itemprop="description" content="">
-      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Edison"/>
+      <meta itemprop="description" content=""/>
+      <meta itemprop="image" content="/images/avatar.gif"/>
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="QIQI x BIUBIU">
+      <meta itemprop="name" content="QIQI x BIUBIU"/>
     </span>
 
     
@@ -354,11 +306,20 @@
         
           <h1 class="post-title" itemprop="name headline">
                 
-                <a class="post-title-link" href="/2018/06/16/充实的宝宝/" itemprop="url">充实的宝宝</a></h1>
+                
+                <a href="/2018/06/16/充实的宝宝/" class="post-title-link" itemprop="url">充实的宝宝</a>
+              
+            
+          </h1>
         
 
         <div class="post-meta">
           <span class="post-time">
+
+            
+            
+            
+
             
               <span class="post-meta-item-icon">
                 <i class="fa fa-calendar-o"></i>
@@ -366,17 +327,35 @@
               
                 <span class="post-meta-item-text">Posted on</span>
               
-              <time title="Post created" itemprop="dateCreated datePublished" datetime="2018-06-16T12:32:18+08:00">2018-06-16</time>
+
+              
+                
+              
+
+              <time title="Created: 2018-06-16 12:32:18" itemprop="dateCreated datePublished" datetime="2018-06-16T12:32:18+08:00">2018-06-16</time>
             
 
             
-            
+              
 
+              
+                
+                <span class="post-meta-divider">|</span>
+                
+
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-calendar-check-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">Edited on</span>
+                
+                <time title="Modified: 2018-06-17 00:42:29" itemprop="dateModified" datetime="2018-06-17T00:42:29+08:00">2018-06-17</time>
+              
             
           </span>
 
           
-            <span class="post-category" >
+            <span class="post-category">
             
               <span class="post-meta-divider">|</span>
             
@@ -396,6 +375,7 @@
           
 
           
+            
             
           
 
@@ -424,11 +404,13 @@
         
           <p>和七七认识的第85天</p>
           <!--noindex-->
-          <div class="post-button text-center">
-            <a class="btn" href="/2018/06/16/充实的宝宝/#more" rel="contents">
-              Read more &raquo;
-            </a>
-          </div>
+          
+            <div class="post-button text-center">
+              <a class="btn" href="/2018/06/16/充实的宝宝/#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          
           <!--/noindex-->
         
       
@@ -442,6 +424,9 @@
 
     
 
+    
+      
+    
     
 
     
@@ -481,16 +466,16 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="https://blog.qibiu.com/2018/06/15/能够照顾宝宝很开心/">
+    <link itemprop="mainEntityOfPage" href="https://blog.qibiu.com/2018/06/15/能够照顾宝宝很开心/"/>
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="name" content="Edison">
-      <meta itemprop="description" content="">
-      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Edison"/>
+      <meta itemprop="description" content=""/>
+      <meta itemprop="image" content="/images/avatar.gif"/>
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="QIQI x BIUBIU">
+      <meta itemprop="name" content="QIQI x BIUBIU"/>
     </span>
 
     
@@ -500,11 +485,20 @@
         
           <h1 class="post-title" itemprop="name headline">
                 
-                <a class="post-title-link" href="/2018/06/15/能够照顾宝宝很开心/" itemprop="url">能够照顾宝宝很开心</a></h1>
+                
+                <a href="/2018/06/15/能够照顾宝宝很开心/" class="post-title-link" itemprop="url">能够照顾宝宝很开心</a>
+              
+            
+          </h1>
         
 
         <div class="post-meta">
           <span class="post-time">
+
+            
+            
+            
+
             
               <span class="post-meta-item-icon">
                 <i class="fa fa-calendar-o"></i>
@@ -512,17 +506,23 @@
               
                 <span class="post-meta-item-text">Posted on</span>
               
-              <time title="Post created" itemprop="dateCreated datePublished" datetime="2018-06-15T18:26:26+08:00">2018-06-15</time>
+
+              
+                
+              
+
+              <time title="Created: 2018-06-15 18:26:26 / Modified: 18:29:42" itemprop="dateCreated datePublished" datetime="2018-06-15T18:26:26+08:00">2018-06-15</time>
             
 
             
-            
+              
 
+              
             
           </span>
 
           
-            <span class="post-category" >
+            <span class="post-category">
             
               <span class="post-meta-divider">|</span>
             
@@ -542,6 +542,7 @@
           
 
           
+            
             
           
 
@@ -574,11 +575,13 @@
 </blockquote>
 <p>和七七认识的第84天</p>
           <!--noindex-->
-          <div class="post-button text-center">
-            <a class="btn" href="/2018/06/15/能够照顾宝宝很开心/#more" rel="contents">
-              Read more &raquo;
-            </a>
-          </div>
+          
+            <div class="post-button text-center">
+              <a class="btn" href="/2018/06/15/能够照顾宝宝很开心/#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          
           <!--/noindex-->
         
       
@@ -592,6 +595,9 @@
 
     
 
+    
+      
+    
     
 
     
@@ -631,16 +637,16 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="https://blog.qibiu.com/2018/06/14/奇怪的我们/">
+    <link itemprop="mainEntityOfPage" href="https://blog.qibiu.com/2018/06/14/奇怪的我们/"/>
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="name" content="Edison">
-      <meta itemprop="description" content="">
-      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Edison"/>
+      <meta itemprop="description" content=""/>
+      <meta itemprop="image" content="/images/avatar.gif"/>
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="QIQI x BIUBIU">
+      <meta itemprop="name" content="QIQI x BIUBIU"/>
     </span>
 
     
@@ -650,11 +656,20 @@
         
           <h1 class="post-title" itemprop="name headline">
                 
-                <a class="post-title-link" href="/2018/06/14/奇怪的我们/" itemprop="url">奇怪的我们</a></h1>
+                
+                <a href="/2018/06/14/奇怪的我们/" class="post-title-link" itemprop="url">奇怪的我们</a>
+              
+            
+          </h1>
         
 
         <div class="post-meta">
           <span class="post-time">
+
+            
+            
+            
+
             
               <span class="post-meta-item-icon">
                 <i class="fa fa-calendar-o"></i>
@@ -662,17 +677,23 @@
               
                 <span class="post-meta-item-text">Posted on</span>
               
-              <time title="Post created" itemprop="dateCreated datePublished" datetime="2018-06-14T19:06:09+08:00">2018-06-14</time>
+
+              
+                
+              
+
+              <time title="Created: 2018-06-14 19:06:09 / Modified: 19:27:10" itemprop="dateCreated datePublished" datetime="2018-06-14T19:06:09+08:00">2018-06-14</time>
             
 
             
-            
+              
 
+              
             
           </span>
 
           
-            <span class="post-category" >
+            <span class="post-category">
             
               <span class="post-meta-divider">|</span>
             
@@ -692,6 +713,7 @@
           
 
           
+            
             
           
 
@@ -724,11 +746,13 @@
 </blockquote>
 <p>和七七认识的第83天</p>
           <!--noindex-->
-          <div class="post-button text-center">
-            <a class="btn" href="/2018/06/14/奇怪的我们/#more" rel="contents">
-              Read more &raquo;
-            </a>
-          </div>
+          
+            <div class="post-button text-center">
+              <a class="btn" href="/2018/06/14/奇怪的我们/#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          
           <!--/noindex-->
         
       
@@ -742,6 +766,9 @@
 
     
 
+    
+      
+    
     
 
     
@@ -781,16 +808,16 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="https://blog.qibiu.com/2018/06/13/不解风情的BIU/">
+    <link itemprop="mainEntityOfPage" href="https://blog.qibiu.com/2018/06/13/不解风情的BIU/"/>
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="name" content="Edison">
-      <meta itemprop="description" content="">
-      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Edison"/>
+      <meta itemprop="description" content=""/>
+      <meta itemprop="image" content="/images/avatar.gif"/>
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="QIQI x BIUBIU">
+      <meta itemprop="name" content="QIQI x BIUBIU"/>
     </span>
 
     
@@ -800,11 +827,20 @@
         
           <h1 class="post-title" itemprop="name headline">
                 
-                <a class="post-title-link" href="/2018/06/13/不解风情的BIU/" itemprop="url">不解风情的BIU</a></h1>
+                
+                <a href="/2018/06/13/不解风情的BIU/" class="post-title-link" itemprop="url">不解风情的BIU</a>
+              
+            
+          </h1>
         
 
         <div class="post-meta">
           <span class="post-time">
+
+            
+            
+            
+
             
               <span class="post-meta-item-icon">
                 <i class="fa fa-calendar-o"></i>
@@ -812,17 +848,23 @@
               
                 <span class="post-meta-item-text">Posted on</span>
               
-              <time title="Post created" itemprop="dateCreated datePublished" datetime="2018-06-13T18:57:08+08:00">2018-06-13</time>
+
+              
+                
+              
+
+              <time title="Created: 2018-06-13 18:57:08 / Modified: 21:29:09" itemprop="dateCreated datePublished" datetime="2018-06-13T18:57:08+08:00">2018-06-13</time>
             
 
             
-            
+              
 
+              
             
           </span>
 
           
-            <span class="post-category" >
+            <span class="post-category">
             
               <span class="post-meta-divider">|</span>
             
@@ -842,6 +884,7 @@
           
 
           
+            
             
           
 
@@ -870,11 +913,13 @@
         
           <p>和七七认识的第82天</p>
           <!--noindex-->
-          <div class="post-button text-center">
-            <a class="btn" href="/2018/06/13/不解风情的BIU/#more" rel="contents">
-              Read more &raquo;
-            </a>
-          </div>
+          
+            <div class="post-button text-center">
+              <a class="btn" href="/2018/06/13/不解风情的BIU/#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          
           <!--/noindex-->
         
       
@@ -888,6 +933,9 @@
 
     
 
+    
+      
+    
     
 
     
@@ -927,16 +975,16 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="https://blog.qibiu.com/2018/06/12/苦了宝了/">
+    <link itemprop="mainEntityOfPage" href="https://blog.qibiu.com/2018/06/12/苦了宝了/"/>
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="name" content="Edison">
-      <meta itemprop="description" content="">
-      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Edison"/>
+      <meta itemprop="description" content=""/>
+      <meta itemprop="image" content="/images/avatar.gif"/>
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="QIQI x BIUBIU">
+      <meta itemprop="name" content="QIQI x BIUBIU"/>
     </span>
 
     
@@ -946,11 +994,20 @@
         
           <h1 class="post-title" itemprop="name headline">
                 
-                <a class="post-title-link" href="/2018/06/12/苦了宝了/" itemprop="url">苦了宝了</a></h1>
+                
+                <a href="/2018/06/12/苦了宝了/" class="post-title-link" itemprop="url">苦了宝了</a>
+              
+            
+          </h1>
         
 
         <div class="post-meta">
           <span class="post-time">
+
+            
+            
+            
+
             
               <span class="post-meta-item-icon">
                 <i class="fa fa-calendar-o"></i>
@@ -958,17 +1015,35 @@
               
                 <span class="post-meta-item-text">Posted on</span>
               
-              <time title="Post created" itemprop="dateCreated datePublished" datetime="2018-06-12T20:27:19+08:00">2018-06-12</time>
+
+              
+                
+              
+
+              <time title="Created: 2018-06-12 20:27:19" itemprop="dateCreated datePublished" datetime="2018-06-12T20:27:19+08:00">2018-06-12</time>
             
 
             
-            
+              
 
+              
+                
+                <span class="post-meta-divider">|</span>
+                
+
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-calendar-check-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">Edited on</span>
+                
+                <time title="Modified: 2018-06-13 18:57:48" itemprop="dateModified" datetime="2018-06-13T18:57:48+08:00">2018-06-13</time>
+              
             
           </span>
 
           
-            <span class="post-category" >
+            <span class="post-category">
             
               <span class="post-meta-divider">|</span>
             
@@ -988,6 +1063,7 @@
           
 
           
+            
             
           
 
@@ -1016,11 +1092,13 @@
         
           <p>和七七认识的第81天</p>
           <!--noindex-->
-          <div class="post-button text-center">
-            <a class="btn" href="/2018/06/12/苦了宝了/#more" rel="contents">
-              Read more &raquo;
-            </a>
-          </div>
+          
+            <div class="post-button text-center">
+              <a class="btn" href="/2018/06/12/苦了宝了/#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          
           <!--/noindex-->
         
       
@@ -1034,6 +1112,9 @@
 
     
 
+    
+      
+    
     
 
     
@@ -1073,16 +1154,16 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="https://blog.qibiu.com/2018/06/11/80天纪念日/">
+    <link itemprop="mainEntityOfPage" href="https://blog.qibiu.com/2018/06/11/80天纪念日/"/>
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="name" content="Edison">
-      <meta itemprop="description" content="">
-      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Edison"/>
+      <meta itemprop="description" content=""/>
+      <meta itemprop="image" content="/images/avatar.gif"/>
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="QIQI x BIUBIU">
+      <meta itemprop="name" content="QIQI x BIUBIU"/>
     </span>
 
     
@@ -1092,11 +1173,20 @@
         
           <h1 class="post-title" itemprop="name headline">
                 
-                <a class="post-title-link" href="/2018/06/11/80天纪念日/" itemprop="url">80天纪念日</a></h1>
+                
+                <a href="/2018/06/11/80天纪念日/" class="post-title-link" itemprop="url">80天纪念日</a>
+              
+            
+          </h1>
         
 
         <div class="post-meta">
           <span class="post-time">
+
+            
+            
+            
+
             
               <span class="post-meta-item-icon">
                 <i class="fa fa-calendar-o"></i>
@@ -1104,17 +1194,23 @@
               
                 <span class="post-meta-item-text">Posted on</span>
               
-              <time title="Post created" itemprop="dateCreated datePublished" datetime="2018-06-11T18:50:40+08:00">2018-06-11</time>
+
+              
+                
+              
+
+              <time title="Created: 2018-06-11 18:50:40 / Modified: 22:44:39" itemprop="dateCreated datePublished" datetime="2018-06-11T18:50:40+08:00">2018-06-11</time>
             
 
             
-            
+              
 
+              
             
           </span>
 
           
-            <span class="post-category" >
+            <span class="post-category">
             
               <span class="post-meta-divider">|</span>
             
@@ -1134,6 +1230,7 @@
           
 
           
+            
             
           
 
@@ -1163,11 +1260,13 @@
           <p><img src="/images/80.png" alt=""></p>
 <p>和七七认识的第80天</p>
           <!--noindex-->
-          <div class="post-button text-center">
-            <a class="btn" href="/2018/06/11/80天纪念日/#more" rel="contents">
-              Read more &raquo;
-            </a>
-          </div>
+          
+            <div class="post-button text-center">
+              <a class="btn" href="/2018/06/11/80天纪念日/#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          
           <!--/noindex-->
         
       
@@ -1181,6 +1280,9 @@
 
     
 
+    
+      
+    
     
 
     
@@ -1220,16 +1322,16 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="https://blog.qibiu.com/2018/06/10/需要宝/">
+    <link itemprop="mainEntityOfPage" href="https://blog.qibiu.com/2018/06/10/需要宝/"/>
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="name" content="Edison">
-      <meta itemprop="description" content="">
-      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Edison"/>
+      <meta itemprop="description" content=""/>
+      <meta itemprop="image" content="/images/avatar.gif"/>
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="QIQI x BIUBIU">
+      <meta itemprop="name" content="QIQI x BIUBIU"/>
     </span>
 
     
@@ -1239,11 +1341,20 @@
         
           <h1 class="post-title" itemprop="name headline">
                 
-                <a class="post-title-link" href="/2018/06/10/需要宝/" itemprop="url">需要宝</a></h1>
+                
+                <a href="/2018/06/10/需要宝/" class="post-title-link" itemprop="url">需要宝</a>
+              
+            
+          </h1>
         
 
         <div class="post-meta">
           <span class="post-time">
+
+            
+            
+            
+
             
               <span class="post-meta-item-icon">
                 <i class="fa fa-calendar-o"></i>
@@ -1251,17 +1362,23 @@
               
                 <span class="post-meta-item-text">Posted on</span>
               
-              <time title="Post created" itemprop="dateCreated datePublished" datetime="2018-06-10T17:26:19+08:00">2018-06-10</time>
+
+              
+                
+              
+
+              <time title="Created: 2018-06-10 17:26:19 / Modified: 18:42:58" itemprop="dateCreated datePublished" datetime="2018-06-10T17:26:19+08:00">2018-06-10</time>
             
 
             
-            
+              
 
+              
             
           </span>
 
           
-            <span class="post-category" >
+            <span class="post-category">
             
               <span class="post-meta-divider">|</span>
             
@@ -1281,6 +1398,7 @@
           
 
           
+            
             
           
 
@@ -1309,11 +1427,13 @@
         
           <p>和七七认识的第79天</p>
           <!--noindex-->
-          <div class="post-button text-center">
-            <a class="btn" href="/2018/06/10/需要宝/#more" rel="contents">
-              Read more &raquo;
-            </a>
-          </div>
+          
+            <div class="post-button text-center">
+              <a class="btn" href="/2018/06/10/需要宝/#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          
           <!--/noindex-->
         
       
@@ -1327,6 +1447,9 @@
 
     
 
+    
+      
+    
     
 
     
@@ -1366,16 +1489,16 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="https://blog.qibiu.com/2018/06/09/罪人BIU/">
+    <link itemprop="mainEntityOfPage" href="https://blog.qibiu.com/2018/06/09/罪人BIU/"/>
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="name" content="Edison">
-      <meta itemprop="description" content="">
-      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Edison"/>
+      <meta itemprop="description" content=""/>
+      <meta itemprop="image" content="/images/avatar.gif"/>
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="QIQI x BIUBIU">
+      <meta itemprop="name" content="QIQI x BIUBIU"/>
     </span>
 
     
@@ -1385,11 +1508,20 @@
         
           <h1 class="post-title" itemprop="name headline">
                 
-                <a class="post-title-link" href="/2018/06/09/罪人BIU/" itemprop="url">罪人BIU</a></h1>
+                
+                <a href="/2018/06/09/罪人BIU/" class="post-title-link" itemprop="url">罪人BIU</a>
+              
+            
+          </h1>
         
 
         <div class="post-meta">
           <span class="post-time">
+
+            
+            
+            
+
             
               <span class="post-meta-item-icon">
                 <i class="fa fa-calendar-o"></i>
@@ -1397,17 +1529,23 @@
               
                 <span class="post-meta-item-text">Posted on</span>
               
-              <time title="Post created" itemprop="dateCreated datePublished" datetime="2018-06-09T23:50:43+08:00">2018-06-09</time>
+
+              
+                
+              
+
+              <time title="Created: 2018-06-09 23:50:43 / Modified: 23:59:38" itemprop="dateCreated datePublished" datetime="2018-06-09T23:50:43+08:00">2018-06-09</time>
             
 
             
-            
+              
 
+              
             
           </span>
 
           
-            <span class="post-category" >
+            <span class="post-category">
             
               <span class="post-meta-divider">|</span>
             
@@ -1427,6 +1565,7 @@
           
 
           
+            
             
           
 
@@ -1455,11 +1594,13 @@
         
           <p>和七七认识的第78天</p>
           <!--noindex-->
-          <div class="post-button text-center">
-            <a class="btn" href="/2018/06/09/罪人BIU/#more" rel="contents">
-              Read more &raquo;
-            </a>
-          </div>
+          
+            <div class="post-button text-center">
+              <a class="btn" href="/2018/06/09/罪人BIU/#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          
           <!--/noindex-->
         
       
@@ -1473,6 +1614,9 @@
 
     
 
+    
+      
+    
     
 
     
@@ -1512,16 +1656,16 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="https://blog.qibiu.com/2018/06/08/礼物补完计划/">
+    <link itemprop="mainEntityOfPage" href="https://blog.qibiu.com/2018/06/08/礼物补完计划/"/>
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="name" content="Edison">
-      <meta itemprop="description" content="">
-      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Edison"/>
+      <meta itemprop="description" content=""/>
+      <meta itemprop="image" content="/images/avatar.gif"/>
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="QIQI x BIUBIU">
+      <meta itemprop="name" content="QIQI x BIUBIU"/>
     </span>
 
     
@@ -1531,11 +1675,20 @@
         
           <h1 class="post-title" itemprop="name headline">
                 
-                <a class="post-title-link" href="/2018/06/08/礼物补完计划/" itemprop="url">礼物补完计划</a></h1>
+                
+                <a href="/2018/06/08/礼物补完计划/" class="post-title-link" itemprop="url">礼物补完计划</a>
+              
+            
+          </h1>
         
 
         <div class="post-meta">
           <span class="post-time">
+
+            
+            
+            
+
             
               <span class="post-meta-item-icon">
                 <i class="fa fa-calendar-o"></i>
@@ -1543,17 +1696,35 @@
               
                 <span class="post-meta-item-text">Posted on</span>
               
-              <time title="Post created" itemprop="dateCreated datePublished" datetime="2018-06-08T18:22:58+08:00">2018-06-08</time>
+
+              
+                
+              
+
+              <time title="Created: 2018-06-08 18:22:58" itemprop="dateCreated datePublished" datetime="2018-06-08T18:22:58+08:00">2018-06-08</time>
             
 
             
-            
+              
 
+              
+                
+                <span class="post-meta-divider">|</span>
+                
+
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-calendar-check-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">Edited on</span>
+                
+                <time title="Modified: 2018-09-21 23:35:20" itemprop="dateModified" datetime="2018-09-21T23:35:20+08:00">2018-09-21</time>
+              
             
           </span>
 
           
-            <span class="post-category" >
+            <span class="post-category">
             
               <span class="post-meta-divider">|</span>
             
@@ -1573,6 +1744,7 @@
           
 
           
+            
             
           
 
@@ -1601,11 +1773,13 @@
         
           <p>礼物补完计划</p>
           <!--noindex-->
-          <div class="post-button text-center">
-            <a class="btn" href="/2018/06/08/礼物补完计划/#more" rel="contents">
-              Read more &raquo;
-            </a>
-          </div>
+          
+            <div class="post-button text-center">
+              <a class="btn" href="/2018/06/08/礼物补完计划/#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          
           <!--/noindex-->
         
       
@@ -1619,6 +1793,9 @@
 
     
 
+    
+      
+    
     
 
     
@@ -1658,16 +1835,16 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="https://blog.qibiu.com/2018/06/08/和七七的77天纪念日/">
+    <link itemprop="mainEntityOfPage" href="https://blog.qibiu.com/2018/06/08/和七七的77天纪念日/"/>
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="name" content="Edison">
-      <meta itemprop="description" content="">
-      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Edison"/>
+      <meta itemprop="description" content=""/>
+      <meta itemprop="image" content="/images/avatar.gif"/>
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="QIQI x BIUBIU">
+      <meta itemprop="name" content="QIQI x BIUBIU"/>
     </span>
 
     
@@ -1677,11 +1854,20 @@
         
           <h1 class="post-title" itemprop="name headline">
                 
-                <a class="post-title-link" href="/2018/06/08/和七七的77天纪念日/" itemprop="url">和七七的77天纪念日</a></h1>
+                
+                <a href="/2018/06/08/和七七的77天纪念日/" class="post-title-link" itemprop="url">和七七的77天纪念日</a>
+              
+            
+          </h1>
         
 
         <div class="post-meta">
           <span class="post-time">
+
+            
+            
+            
+
             
               <span class="post-meta-item-icon">
                 <i class="fa fa-calendar-o"></i>
@@ -1689,17 +1875,23 @@
               
                 <span class="post-meta-item-text">Posted on</span>
               
-              <time title="Post created" itemprop="dateCreated datePublished" datetime="2018-06-08T18:06:20+08:00">2018-06-08</time>
+
+              
+                
+              
+
+              <time title="Created: 2018-06-08 18:06:20 / Modified: 18:24:46" itemprop="dateCreated datePublished" datetime="2018-06-08T18:06:20+08:00">2018-06-08</time>
             
 
             
-            
+              
 
+              
             
           </span>
 
           
-            <span class="post-category" >
+            <span class="post-category">
             
               <span class="post-meta-divider">|</span>
             
@@ -1719,6 +1911,7 @@
           
 
           
+            
             
           
 
@@ -1751,11 +1944,13 @@
 </blockquote>
 <p>和七七认识的第77天</p>
           <!--noindex-->
-          <div class="post-button text-center">
-            <a class="btn" href="/2018/06/08/和七七的77天纪念日/#more" rel="contents">
-              Read more &raquo;
-            </a>
-          </div>
+          
+            <div class="post-button text-center">
+              <a class="btn" href="/2018/06/08/和七七的77天纪念日/#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          
           <!--/noindex-->
         
       
@@ -1769,6 +1964,9 @@
 
     
 
+    
+      
+    
     
 
     
@@ -1825,7 +2023,7 @@
 
       
 
-      <section class="site-overview-wrap sidebar-panel sidebar-panel-active">
+      <div class="site-overview-wrap sidebar-panel sidebar-panel-active">
         <div class="site-overview">
           <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
             
@@ -2032,7 +2230,6 @@
           
 
           
-          
 
           
           
@@ -2043,7 +2240,7 @@
           
 
         </div>
-      </section>
+      </div>
 
       
 
@@ -2060,7 +2257,7 @@
     <footer id="footer" class="footer">
       <div class="footer-inner">
         <div class="copyright">&copy; <span itemprop="copyrightYear">2019</span>
-  <span class="with-love" id="animate"> 
+  <span class="with-love" id="animate">
     <i class="fa fa-user"></i>
   </span>
   <span class="author" itemprop="copyrightHolder">Edison</span>
@@ -2071,34 +2268,20 @@
 </div>
 
 
+  <div class="powered-by">Powered by <a href="https://hexo.io" class="theme-link" rel="noopener" target="_blank">Hexo</a> v3.7.1</div>
 
 
 
+  <span class="post-meta-divider">|</span>
 
 
+
+  <div class="theme-info">Theme – <a href="https://theme-next.org" class="theme-link" rel="noopener" target="_blank">NexT.Muse</a> v6.7.0</div>
 
 
 
 
         
-<div class="busuanzi-count">
-  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-
-  
-    <span class="site-uv" title="Total Visitors">
-      <i class="fa fa-user"></i>
-      <span class="busuanzi-value" id="busuanzi_value_site_uv"></span>
-    </span>
-  
-
-  
-    <span class="site-pv" title="Total Views">
-      <i class="fa fa-eye"></i>
-      <span class="busuanzi-value" id="busuanzi_value_site_pv"></span>
-    </span>
-  
-</div>
-
 
 
 
@@ -2115,18 +2298,19 @@
       <div class="back-to-top">
         <i class="fa fa-arrow-up"></i>
         
-          <span id="scrollpercent"><span>0</span>%</span>
-        
       </div>
     
 
     
 
+    
+
+    
   </div>
 
   
 
-<script type="text/javascript">
+<script>
   if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
     window.Promise = null;
   }
@@ -2158,58 +2342,42 @@
 
 
   
-  
-    <script type="text/javascript" src="/lib/jquery/index.js?v=2.1.3"></script>
-  
+  <script src="/lib/jquery/index.js?v=2.1.3"></script>
 
   
-  
-    <script type="text/javascript" src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
-  
+  <script src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
 
   
-  
-    <script type="text/javascript" src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
-  
+  <script src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
 
 
   
 
 
-  <script type="text/javascript" src="/js/src/utils.js?v=6.0.6"></script>
+  <script src="/js/src/utils.js?v=6.7.0"></script>
 
-  <script type="text/javascript" src="/js/src/motion.js?v=6.0.6"></script>
+  <script src="/js/src/motion.js?v=6.7.0"></script>
 
 
 
   
   
 
-  
 
-  
-
-
-  <script type="text/javascript" src="/js/src/bootstrap.js?v=6.0.6"></script>
+  <script src="/js/src/schemes/muse.js?v=6.7.0"></script>
 
 
 
   
 
+  
 
 
-
+  <script src="/js/src/bootstrap.js?v=6.7.0"></script>
 
 
 
   
-
-
-
-
-
-
-
 
 
 
@@ -2228,7 +2396,6 @@
   
 
   
-  
 
   
 
@@ -2238,5 +2405,15 @@
 
   
 
+  
+
+  
+
+  
+
+  
+
+  <!--崩溃欺骗-->
+<script type="text/javascript" src="/js/src/crash_cheat.js"></script>
 </body>
 </html>

@@ -2,29 +2,24 @@
 
 
 
+
+
+
+
+
+
+
+
+
   
 
 
 <html class="theme-next muse use-motion" lang="_en">
 <head>
   <meta charset="UTF-8"/>
-<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2"/>
-<meta name="theme-color" content="#222">
-
-
-
-
-
-
-
-
-
-
-
-
-<meta http-equiv="Cache-Control" content="no-transform" />
-<meta http-equiv="Cache-Control" content="no-siteapp" />
+<meta name="theme-color" content="#222"/>
 
 
 
@@ -47,37 +42,39 @@
 
 
 
-<link href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css" />
-
-<link href="/css/main.css?v=6.0.6" rel="stylesheet" type="text/css" />
-
-
-  <link rel="apple-touch-icon" sizes="180x180" href="/favicon.ico?v=6.0.6">
-
-
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon.ico?v=6.0.6">
-
-
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon.ico?v=6.0.6">
-
-
-  <link rel="mask-icon" href="/favicon.ico?v=6.0.6" color="#222">
 
 
 
 
+<link rel="stylesheet" href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2"/>
+
+<link rel="stylesheet" href="/css/main.css?v=6.7.0"/>
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png?v=6.7.0">
+
+
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png?v=6.7.0">
+
+
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png?v=6.7.0">
+
+
+  <link rel="mask-icon" href="/images/logo.svg?v=6.7.0" color="#222">
 
 
 
 
 
-<script type="text/javascript" id="hexo.configurations">
+
+
+<script id="hexo.configurations">
   var NexT = window.NexT || {};
   var CONFIG = {
     root: '/',
     scheme: 'Muse',
-    version: '6.0.6',
-    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":true,"onmobile":false},
+    version: '6.7.0',
+    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":false,"onmobile":false},
     fancybox: false,
     fastclick: false,
     lazyload: false,
@@ -109,7 +106,7 @@
 
 
 
-  <link rel="alternate" href="/atom.xml" title="QIQI x BIUBIU" type="application/atom+xml" />
+  <link rel="alternate" href="/atom.xml" title="QIQI x BIUBIU" type="application/atom+xml"/>
 
 
 
@@ -118,7 +115,7 @@
 
 
 
-<script type="text/javascript" id="page.configurations">
+<script id="page.configurations">
   CONFIG.page = {
     sidebar: "",
   };
@@ -135,30 +132,31 @@
 
 
 
+
+
+
   <noscript>
-  <style type="text/css">
-    .use-motion .motion-element,
-    .use-motion .brand,
-    .use-motion .menu-item,
-    .sidebar-inner,
-    .use-motion .post-block,
-    .use-motion .pagination,
-    .use-motion .comments,
-    .use-motion .post-header,
-    .use-motion .post-body,
-    .use-motion .collection-title { opacity: initial; }
+  <style>
+  .use-motion .motion-element,
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-title { opacity: initial; }
 
-    .use-motion .logo,
-    .use-motion .site-title,
-    .use-motion .site-subtitle {
-      opacity: initial;
-      top: initial;
-    }
+  .use-motion .logo,
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
 
-    .use-motion {
-      .logo-line-before i { left: initial; }
-      .logo-line-after i { right: initial; }
-    }
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
   </style>
 </noscript>
 
@@ -175,10 +173,8 @@
     <div class="headband"></div>
 
     <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
-      <div class="header-inner"> 
-
-<div class="site-brand-wrapper">
-  <div class="site-meta ">
+      <div class="header-inner"><div class="site-brand-wrapper">
+  <div class="site-meta">
     
 
     <div class="custom-logo-site-title">
@@ -188,9 +184,8 @@
         <span class="logo-line-after"><i></i></span>
       </a>
     </div>
-      
-        <p class="site-subtitle"></p>
-      
+    
+    
   </div>
 
   <div class="site-nav-toggle">
@@ -202,67 +197,48 @@
   </div>
 </div>
 
-<nav class="site-nav">
-  
 
+
+<nav class="site-nav">
   
     <ul id="menu" class="menu">
       
         
         
-          
-  <li class="menu-item menu-item-home">
-    <a href="/" rel="section">
-      <i class="menu-item-icon fa fa-fw fa-home"></i> <br />首页</a>
-</li>
-
-      
-        
         
           
-  <li class="menu-item menu-item-tags">
-    <a href="/tags/" rel="section">
-      <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />标签</a>
-</li>
+          <li class="menu-item menu-item-home">
 
+    
+    
+    
       
-        
-        
-          
-  <li class="menu-item menu-item-categories">
-    <a href="/categories/" rel="section">
-      <i class="menu-item-icon fa fa-fw fa-th"></i> <br />分类</a>
-</li>
+    
 
-      
+    
+
+    <a href="/" rel="section"><i class="menu-item-icon fa fa-fw fa-home"></i> <br/>Home</a>
+
+  </li>
+        
         
         
           
-  <li class="menu-item menu-item-archives">
-    <a href="/archives/" rel="section">
-      <i class="menu-item-icon fa fa-fw fa-archive"></i> <br />归档</a>
-</li>
+          <li class="menu-item menu-item-archives menu-item-active">
+
+    
+    
+    
+      
+    
+
+    
+
+    <a href="/archives/" rel="section"><i class="menu-item-icon fa fa-fw fa-archive"></i> <br/>Archives</a>
+
+  </li>
 
       
-        
-        
-          
-  <li class="menu-item menu-item-tetris">
-    <a href="/tetris/" rel="section">
-      <i class="menu-item-icon fa fa-fw fa-gamepad"></i> <br />俄罗斯方块</a>
-</li>
-
-      
-        
-        
-          
-  <li class="menu-item menu-item-mario">
-    <a href="/mario/" rel="section">
-      <i class="menu-item-icon fa fa-fw fa-trophy"></i> <br />超级马里奥</a>
-</li>
-
-      
-
       
     </ul>
   
@@ -271,18 +247,6 @@
     
 
     
-    
-      
-      
-    
-      
-      
-    
-      
-      
-    
-      
-      
     
       
       
@@ -301,11 +265,12 @@
 </nav>
 
 
+
   
 
 
 
- </div>
+</div>
     </header>
 
     
@@ -356,18 +321,18 @@
 
       <h2 class="post-title">
         
-            <a class="post-title-link" href="/2018/09/03/其实我一直都知道/" itemprop="url">
-              
-                <span itemprop="name">其实我一直都知道</span>
-              
-            </a>
+          <a class="post-title-link" href="/2018/09/03/其实我一直都知道/" itemprop="url">
+            
+              <span itemprop="name">其实我一直都知道</span>
+            
+          </a>
         
       </h2>
 
       <div class="post-meta">
         <time class="post-time" itemprop="dateCreated"
               datetime="2018-09-03T21:08:28+08:00"
-              content="2018-09-03" >
+              content="2018-09-03">
           09-03
         </time>
       </div>
@@ -393,18 +358,18 @@
 
       <h2 class="post-title">
         
-            <a class="post-title-link" href="/2018/09/02/有礼物咯/" itemprop="url">
-              
-                <span itemprop="name">有礼物咯</span>
-              
-            </a>
+          <a class="post-title-link" href="/2018/09/02/有礼物咯/" itemprop="url">
+            
+              <span itemprop="name">有礼物咯</span>
+            
+          </a>
         
       </h2>
 
       <div class="post-meta">
         <time class="post-time" itemprop="dateCreated"
               datetime="2018-09-02T14:23:48+08:00"
-              content="2018-09-02" >
+              content="2018-09-02">
           09-02
         </time>
       </div>
@@ -430,18 +395,18 @@
 
       <h2 class="post-title">
         
-            <a class="post-title-link" href="/2018/09/01/人生啊/" itemprop="url">
-              
-                <span itemprop="name">人生啊</span>
-              
-            </a>
+          <a class="post-title-link" href="/2018/09/01/人生啊/" itemprop="url">
+            
+              <span itemprop="name">人生啊</span>
+            
+          </a>
         
       </h2>
 
       <div class="post-meta">
         <time class="post-time" itemprop="dateCreated"
               datetime="2018-09-01T18:10:51+08:00"
-              content="2018-09-01" >
+              content="2018-09-01">
           09-01
         </time>
       </div>
@@ -467,18 +432,18 @@
 
       <h2 class="post-title">
         
-            <a class="post-title-link" href="/2018/08/31/啊不饥渴了/" itemprop="url">
-              
-                <span itemprop="name">啊不饥渴了</span>
-              
-            </a>
+          <a class="post-title-link" href="/2018/08/31/啊不饥渴了/" itemprop="url">
+            
+              <span itemprop="name">啊不饥渴了</span>
+            
+          </a>
         
       </h2>
 
       <div class="post-meta">
         <time class="post-time" itemprop="dateCreated"
               datetime="2018-08-31T19:56:05+08:00"
-              content="2018-08-31" >
+              content="2018-08-31">
           08-31
         </time>
       </div>
@@ -504,18 +469,18 @@
 
       <h2 class="post-title">
         
-            <a class="post-title-link" href="/2018/08/30/啊饥渴/" itemprop="url">
-              
-                <span itemprop="name">啊饥渴</span>
-              
-            </a>
+          <a class="post-title-link" href="/2018/08/30/啊饥渴/" itemprop="url">
+            
+              <span itemprop="name">啊饥渴</span>
+            
+          </a>
         
       </h2>
 
       <div class="post-meta">
         <time class="post-time" itemprop="dateCreated"
               datetime="2018-08-30T20:52:23+08:00"
-              content="2018-08-30" >
+              content="2018-08-30">
           08-30
         </time>
       </div>
@@ -541,18 +506,18 @@
 
       <h2 class="post-title">
         
-            <a class="post-title-link" href="/2018/08/29/小糊涂蛋/" itemprop="url">
-              
-                <span itemprop="name">小糊涂蛋</span>
-              
-            </a>
+          <a class="post-title-link" href="/2018/08/29/小糊涂蛋/" itemprop="url">
+            
+              <span itemprop="name">小糊涂蛋</span>
+            
+          </a>
         
       </h2>
 
       <div class="post-meta">
         <time class="post-time" itemprop="dateCreated"
               datetime="2018-08-29T21:04:19+08:00"
-              content="2018-08-29" >
+              content="2018-08-29">
           08-29
         </time>
       </div>
@@ -578,18 +543,18 @@
 
       <h2 class="post-title">
         
-            <a class="post-title-link" href="/2018/08/28/一丢丢小矛盾/" itemprop="url">
-              
-                <span itemprop="name">一丢丢小矛盾</span>
-              
-            </a>
+          <a class="post-title-link" href="/2018/08/28/一丢丢小矛盾/" itemprop="url">
+            
+              <span itemprop="name">一丢丢小矛盾</span>
+            
+          </a>
         
       </h2>
 
       <div class="post-meta">
         <time class="post-time" itemprop="dateCreated"
               datetime="2018-08-28T21:05:35+08:00"
-              content="2018-08-28" >
+              content="2018-08-28">
           08-28
         </time>
       </div>
@@ -615,18 +580,18 @@
 
       <h2 class="post-title">
         
-            <a class="post-title-link" href="/2018/08/27/回家家的宝宝/" itemprop="url">
-              
-                <span itemprop="name">回家家的宝宝</span>
-              
-            </a>
+          <a class="post-title-link" href="/2018/08/27/回家家的宝宝/" itemprop="url">
+            
+              <span itemprop="name">回家家的宝宝</span>
+            
+          </a>
         
       </h2>
 
       <div class="post-meta">
         <time class="post-time" itemprop="dateCreated"
               datetime="2018-08-27T21:09:25+08:00"
-              content="2018-08-27" >
+              content="2018-08-27">
           08-27
         </time>
       </div>
@@ -652,18 +617,18 @@
 
       <h2 class="post-title">
         
-            <a class="post-title-link" href="/2018/08/26/ti8/" itemprop="url">
-              
-                <span itemprop="name">ti8</span>
-              
-            </a>
+          <a class="post-title-link" href="/2018/08/26/ti8/" itemprop="url">
+            
+              <span itemprop="name">ti8</span>
+            
+          </a>
         
       </h2>
 
       <div class="post-meta">
         <time class="post-time" itemprop="dateCreated"
               datetime="2018-08-26T18:06:50+08:00"
-              content="2018-08-26" >
+              content="2018-08-26">
           08-26
         </time>
       </div>
@@ -689,18 +654,18 @@
 
       <h2 class="post-title">
         
-            <a class="post-title-link" href="/2018/08/25/傻瓜宝宝的竹🐟/" itemprop="url">
-              
-                <span itemprop="name">傻瓜宝宝的竹🐟</span>
-              
-            </a>
+          <a class="post-title-link" href="/2018/08/25/傻瓜宝宝的竹🐟/" itemprop="url">
+            
+              <span itemprop="name">傻瓜宝宝的竹🐟</span>
+            
+          </a>
         
       </h2>
 
       <div class="post-meta">
         <time class="post-time" itemprop="dateCreated"
               datetime="2018-08-25T22:29:19+08:00"
-              content="2018-08-25" >
+              content="2018-08-25">
           08-25
         </time>
       </div>
@@ -726,18 +691,18 @@
 
       <h2 class="post-title">
         
-            <a class="post-title-link" href="/2018/08/24/让老婆担心啦/" itemprop="url">
-              
-                <span itemprop="name">让老婆担心啦</span>
-              
-            </a>
+          <a class="post-title-link" href="/2018/08/24/让老婆担心啦/" itemprop="url">
+            
+              <span itemprop="name">让老婆担心啦</span>
+            
+          </a>
         
       </h2>
 
       <div class="post-meta">
         <time class="post-time" itemprop="dateCreated"
               datetime="2018-08-24T23:26:00+08:00"
-              content="2018-08-24" >
+              content="2018-08-24">
           08-24
         </time>
       </div>
@@ -763,18 +728,18 @@
 
       <h2 class="post-title">
         
-            <a class="post-title-link" href="/2018/08/23/哇，晕车真难受/" itemprop="url">
-              
-                <span itemprop="name">哇，晕车真难受</span>
-              
-            </a>
+          <a class="post-title-link" href="/2018/08/23/哇，晕车真难受/" itemprop="url">
+            
+              <span itemprop="name">哇，晕车真难受</span>
+            
+          </a>
         
       </h2>
 
       <div class="post-meta">
         <time class="post-time" itemprop="dateCreated"
               datetime="2018-08-23T20:55:01+08:00"
-              content="2018-08-23" >
+              content="2018-08-23">
           08-23
         </time>
       </div>
@@ -800,18 +765,18 @@
 
       <h2 class="post-title">
         
-            <a class="post-title-link" href="/2018/08/22/悲伤，又开始晕车了/" itemprop="url">
-              
-                <span itemprop="name">悲伤，又开始晕车了</span>
-              
-            </a>
+          <a class="post-title-link" href="/2018/08/22/悲伤，又开始晕车了/" itemprop="url">
+            
+              <span itemprop="name">悲伤，又开始晕车了</span>
+            
+          </a>
         
       </h2>
 
       <div class="post-meta">
         <time class="post-time" itemprop="dateCreated"
               datetime="2018-08-22T21:04:05+08:00"
-              content="2018-08-22" >
+              content="2018-08-22">
           08-22
         </time>
       </div>
@@ -837,18 +802,18 @@
 
       <h2 class="post-title">
         
-            <a class="post-title-link" href="/2018/08/21/变好的宝宝/" itemprop="url">
-              
-                <span itemprop="name">变好的宝宝</span>
-              
-            </a>
+          <a class="post-title-link" href="/2018/08/21/变好的宝宝/" itemprop="url">
+            
+              <span itemprop="name">变好的宝宝</span>
+            
+          </a>
         
       </h2>
 
       <div class="post-meta">
         <time class="post-time" itemprop="dateCreated"
               datetime="2018-08-21T20:53:54+08:00"
-              content="2018-08-21" >
+              content="2018-08-21">
           08-21
         </time>
       </div>
@@ -874,18 +839,18 @@
 
       <h2 class="post-title">
         
-            <a class="post-title-link" href="/2018/08/20/头晕加晕车/" itemprop="url">
-              
-                <span itemprop="name">头晕加晕车</span>
-              
-            </a>
+          <a class="post-title-link" href="/2018/08/20/头晕加晕车/" itemprop="url">
+            
+              <span itemprop="name">头晕加晕车</span>
+            
+          </a>
         
       </h2>
 
       <div class="post-meta">
         <time class="post-time" itemprop="dateCreated"
               datetime="2018-08-20T20:52:06+08:00"
-              content="2018-08-20" >
+              content="2018-08-20">
           08-20
         </time>
       </div>
@@ -911,18 +876,18 @@
 
       <h2 class="post-title">
         
-            <a class="post-title-link" href="/2018/08/19/想购物的冲动/" itemprop="url">
-              
-                <span itemprop="name">想购物的冲动</span>
-              
-            </a>
+          <a class="post-title-link" href="/2018/08/19/想购物的冲动/" itemprop="url">
+            
+              <span itemprop="name">想购物的冲动</span>
+            
+          </a>
         
       </h2>
 
       <div class="post-meta">
         <time class="post-time" itemprop="dateCreated"
               datetime="2018-08-19T20:02:15+08:00"
-              content="2018-08-19" >
+              content="2018-08-19">
           08-19
         </time>
       </div>
@@ -948,18 +913,18 @@
 
       <h2 class="post-title">
         
-            <a class="post-title-link" href="/2018/08/18/小猪宝宝/" itemprop="url">
-              
-                <span itemprop="name">小猪宝宝</span>
-              
-            </a>
+          <a class="post-title-link" href="/2018/08/18/小猪宝宝/" itemprop="url">
+            
+              <span itemprop="name">小猪宝宝</span>
+            
+          </a>
         
       </h2>
 
       <div class="post-meta">
         <time class="post-time" itemprop="dateCreated"
               datetime="2018-08-18T19:17:30+08:00"
-              content="2018-08-18" >
+              content="2018-08-18">
           08-18
         </time>
       </div>
@@ -985,18 +950,18 @@
 
       <h2 class="post-title">
         
-            <a class="post-title-link" href="/2018/08/17/我们的第一个七节/" itemprop="url">
-              
-                <span itemprop="name">我们的第一个七节</span>
-              
-            </a>
+          <a class="post-title-link" href="/2018/08/17/我们的第一个七节/" itemprop="url">
+            
+              <span itemprop="name">我们的第一个七节</span>
+            
+          </a>
         
       </h2>
 
       <div class="post-meta">
         <time class="post-time" itemprop="dateCreated"
               datetime="2018-08-17T20:33:05+08:00"
-              content="2018-08-17" >
+              content="2018-08-17">
           08-17
         </time>
       </div>
@@ -1022,18 +987,18 @@
 
       <h2 class="post-title">
         
-            <a class="post-title-link" href="/2018/08/16/七夕前夜/" itemprop="url">
-              
-                <span itemprop="name">七夕前夜</span>
-              
-            </a>
+          <a class="post-title-link" href="/2018/08/16/七夕前夜/" itemprop="url">
+            
+              <span itemprop="name">七夕前夜</span>
+            
+          </a>
         
       </h2>
 
       <div class="post-meta">
         <time class="post-time" itemprop="dateCreated"
               datetime="2018-08-16T22:59:03+08:00"
-              content="2018-08-16" >
+              content="2018-08-16">
           08-16
         </time>
       </div>
@@ -1059,18 +1024,18 @@
 
       <h2 class="post-title">
         
-            <a class="post-title-link" href="/2018/08/15/再多爱你一点/" itemprop="url">
-              
-                <span itemprop="name">再多爱你一点</span>
-              
-            </a>
+          <a class="post-title-link" href="/2018/08/15/再多爱你一点/" itemprop="url">
+            
+              <span itemprop="name">再多爱你一点</span>
+            
+          </a>
         
       </h2>
 
       <div class="post-meta">
         <time class="post-time" itemprop="dateCreated"
               datetime="2018-08-15T20:24:11+08:00"
-              content="2018-08-15" >
+              content="2018-08-15">
           08-15
         </time>
       </div>
@@ -1119,7 +1084,7 @@
 
       
 
-      <section class="site-overview-wrap sidebar-panel sidebar-panel-active">
+      <div class="site-overview-wrap sidebar-panel sidebar-panel-active">
         <div class="site-overview">
           <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
             
@@ -1326,7 +1291,6 @@
           
 
           
-          
 
           
           
@@ -1337,7 +1301,7 @@
           
 
         </div>
-      </section>
+      </div>
 
       
 
@@ -1354,7 +1318,7 @@
     <footer id="footer" class="footer">
       <div class="footer-inner">
         <div class="copyright">&copy; <span itemprop="copyrightYear">2019</span>
-  <span class="with-love" id="animate"> 
+  <span class="with-love" id="animate">
     <i class="fa fa-user"></i>
   </span>
   <span class="author" itemprop="copyrightHolder">Edison</span>
@@ -1365,34 +1329,20 @@
 </div>
 
 
+  <div class="powered-by">Powered by <a href="https://hexo.io" class="theme-link" rel="noopener" target="_blank">Hexo</a> v3.7.1</div>
 
 
 
+  <span class="post-meta-divider">|</span>
 
 
+
+  <div class="theme-info">Theme – <a href="https://theme-next.org" class="theme-link" rel="noopener" target="_blank">NexT.Muse</a> v6.7.0</div>
 
 
 
 
         
-<div class="busuanzi-count">
-  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-
-  
-    <span class="site-uv" title="Total Visitors">
-      <i class="fa fa-user"></i>
-      <span class="busuanzi-value" id="busuanzi_value_site_uv"></span>
-    </span>
-  
-
-  
-    <span class="site-pv" title="Total Views">
-      <i class="fa fa-eye"></i>
-      <span class="busuanzi-value" id="busuanzi_value_site_pv"></span>
-    </span>
-  
-</div>
-
 
 
 
@@ -1409,18 +1359,19 @@
       <div class="back-to-top">
         <i class="fa fa-arrow-up"></i>
         
-          <span id="scrollpercent"><span>0</span>%</span>
-        
       </div>
     
 
     
 
+    
+
+    
   </div>
 
   
 
-<script type="text/javascript">
+<script>
   if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
     window.Promise = null;
   }
@@ -1452,58 +1403,42 @@
 
 
   
-  
-    <script type="text/javascript" src="/lib/jquery/index.js?v=2.1.3"></script>
-  
+  <script src="/lib/jquery/index.js?v=2.1.3"></script>
 
   
-  
-    <script type="text/javascript" src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
-  
+  <script src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
 
   
-  
-    <script type="text/javascript" src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
-  
+  <script src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
 
 
   
 
 
-  <script type="text/javascript" src="/js/src/utils.js?v=6.0.6"></script>
+  <script src="/js/src/utils.js?v=6.7.0"></script>
 
-  <script type="text/javascript" src="/js/src/motion.js?v=6.0.6"></script>
+  <script src="/js/src/motion.js?v=6.7.0"></script>
 
 
 
   
   
 
-  
 
-  
-
-
-  <script type="text/javascript" src="/js/src/bootstrap.js?v=6.0.6"></script>
+  <script src="/js/src/schemes/muse.js?v=6.7.0"></script>
 
 
 
   
 
+  
 
 
-
+  <script src="/js/src/bootstrap.js?v=6.7.0"></script>
 
 
 
   
-
-
-
-
-
-
-
 
 
 
@@ -1522,7 +1457,6 @@
   
 
   
-  
 
   
 
@@ -1532,5 +1466,15 @@
 
   
 
+  
+
+  
+
+  
+
+  
+
+  <!--崩溃欺骗-->
+<script type="text/javascript" src="/js/src/crash_cheat.js"></script>
 </body>
 </html>

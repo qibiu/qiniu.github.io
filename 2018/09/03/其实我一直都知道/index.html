@@ -2,29 +2,24 @@
 
 
 
+
+
+
+
+
+
+
+
+
   
 
 
 <html class="theme-next muse use-motion" lang="_en">
 <head>
   <meta charset="UTF-8"/>
-<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2"/>
-<meta name="theme-color" content="#222">
-
-
-
-
-
-
-
-
-
-
-
-
-<meta http-equiv="Cache-Control" content="no-transform" />
-<meta http-equiv="Cache-Control" content="no-siteapp" />
+<meta name="theme-color" content="#222"/>
 
 
 
@@ -47,37 +42,39 @@
 
 
 
-<link href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css" />
-
-<link href="/css/main.css?v=6.0.6" rel="stylesheet" type="text/css" />
-
-
-  <link rel="apple-touch-icon" sizes="180x180" href="/favicon.ico?v=6.0.6">
-
-
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon.ico?v=6.0.6">
-
-
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon.ico?v=6.0.6">
-
-
-  <link rel="mask-icon" href="/favicon.ico?v=6.0.6" color="#222">
 
 
 
 
+<link rel="stylesheet" href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2"/>
+
+<link rel="stylesheet" href="/css/main.css?v=6.7.0"/>
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png?v=6.7.0">
+
+
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png?v=6.7.0">
+
+
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png?v=6.7.0">
+
+
+  <link rel="mask-icon" href="/images/logo.svg?v=6.7.0" color="#222">
 
 
 
 
 
-<script type="text/javascript" id="hexo.configurations">
+
+
+<script id="hexo.configurations">
   var NexT = window.NexT || {};
   var CONFIG = {
     root: '/',
     scheme: 'Muse',
-    version: '6.0.6',
-    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":true,"onmobile":false},
+    version: '6.7.0',
+    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":false,"onmobile":false},
     fancybox: false,
     fastclick: false,
     lazyload: false,
@@ -113,7 +110,7 @@
 
 
 
-  <link rel="alternate" href="/atom.xml" title="QIQI x BIUBIU" type="application/atom+xml" />
+  <link rel="alternate" href="/atom.xml" title="QIQI x BIUBIU" type="application/atom+xml"/>
 
 
 
@@ -122,7 +119,7 @@
 
 
 
-<script type="text/javascript" id="page.configurations">
+<script id="page.configurations">
   CONFIG.page = {
     sidebar: "",
   };
@@ -139,30 +136,31 @@
 
 
 
+
+
+
   <noscript>
-  <style type="text/css">
-    .use-motion .motion-element,
-    .use-motion .brand,
-    .use-motion .menu-item,
-    .sidebar-inner,
-    .use-motion .post-block,
-    .use-motion .pagination,
-    .use-motion .comments,
-    .use-motion .post-header,
-    .use-motion .post-body,
-    .use-motion .collection-title { opacity: initial; }
+  <style>
+  .use-motion .motion-element,
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-title { opacity: initial; }
 
-    .use-motion .logo,
-    .use-motion .site-title,
-    .use-motion .site-subtitle {
-      opacity: initial;
-      top: initial;
-    }
+  .use-motion .logo,
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
 
-    .use-motion {
-      .logo-line-before i { left: initial; }
-      .logo-line-after i { right: initial; }
-    }
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
   </style>
 </noscript>
 
@@ -179,10 +177,8 @@
     <div class="headband"></div>
 
     <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
-      <div class="header-inner"> 
-
-<div class="site-brand-wrapper">
-  <div class="site-meta ">
+      <div class="header-inner"><div class="site-brand-wrapper">
+  <div class="site-meta">
     
 
     <div class="custom-logo-site-title">
@@ -192,9 +188,8 @@
         <span class="logo-line-after"><i></i></span>
       </a>
     </div>
-      
-        <p class="site-subtitle"></p>
-      
+    
+    
   </div>
 
   <div class="site-nav-toggle">
@@ -206,67 +201,48 @@
   </div>
 </div>
 
-<nav class="site-nav">
-  
 
+
+<nav class="site-nav">
   
     <ul id="menu" class="menu">
       
         
         
-          
-  <li class="menu-item menu-item-home">
-    <a href="/" rel="section">
-      <i class="menu-item-icon fa fa-fw fa-home"></i> <br />首页</a>
-</li>
-
-      
-        
         
           
-  <li class="menu-item menu-item-tags">
-    <a href="/tags/" rel="section">
-      <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />标签</a>
-</li>
+          <li class="menu-item menu-item-home">
 
+    
+    
+    
       
-        
-        
-          
-  <li class="menu-item menu-item-categories">
-    <a href="/categories/" rel="section">
-      <i class="menu-item-icon fa fa-fw fa-th"></i> <br />分类</a>
-</li>
+    
 
-      
+    
+
+    <a href="/" rel="section"><i class="menu-item-icon fa fa-fw fa-home"></i> <br/>Home</a>
+
+  </li>
+        
         
         
           
-  <li class="menu-item menu-item-archives">
-    <a href="/archives/" rel="section">
-      <i class="menu-item-icon fa fa-fw fa-archive"></i> <br />归档</a>
-</li>
+          <li class="menu-item menu-item-archives">
+
+    
+    
+    
+      
+    
+
+    
+
+    <a href="/archives/" rel="section"><i class="menu-item-icon fa fa-fw fa-archive"></i> <br/>Archives</a>
+
+  </li>
 
       
-        
-        
-          
-  <li class="menu-item menu-item-tetris">
-    <a href="/tetris/" rel="section">
-      <i class="menu-item-icon fa fa-fw fa-gamepad"></i> <br />俄罗斯方块</a>
-</li>
-
-      
-        
-        
-          
-  <li class="menu-item menu-item-mario">
-    <a href="/mario/" rel="section">
-      <i class="menu-item-icon fa fa-fw fa-trophy"></i> <br />超级马里奥</a>
-</li>
-
-      
-
       
     </ul>
   
@@ -274,42 +250,18 @@
   
     
 
-    
-    
-      
-      
-    
-      
-      
-    
-      
-      
-    
-      
-      
-    
-      
-      
-    
-      
-      
-    
-    
-
-  
-
-
   
 
   
 </nav>
 
 
+
   
 
 
 
- </div>
+</div>
     </header>
 
     
@@ -338,16 +290,16 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="https://blog.qibiu.com/2018/09/03/其实我一直都知道/">
+    <link itemprop="mainEntityOfPage" href="https://blog.qibiu.com/2018/09/03/其实我一直都知道/"/>
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="name" content="Edison">
-      <meta itemprop="description" content="">
-      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Edison"/>
+      <meta itemprop="description" content=""/>
+      <meta itemprop="image" content="/images/avatar.gif"/>
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="QIQI x BIUBIU">
+      <meta itemprop="name" content="QIQI x BIUBIU"/>
     </span>
 
     
@@ -355,11 +307,20 @@
 
         
         
-          <h1 class="post-title" itemprop="name headline">其实我一直都知道</h1>
+          <h1 class="post-title" itemprop="name headline">其实我一直都知道
+
+              
+            
+          </h1>
         
 
         <div class="post-meta">
           <span class="post-time">
+
+            
+            
+            
+
             
               <span class="post-meta-item-icon">
                 <i class="fa fa-calendar-o"></i>
@@ -367,12 +328,30 @@
               
                 <span class="post-meta-item-text">Posted on</span>
               
-              <time title="Post created" itemprop="dateCreated datePublished" datetime="2018-09-03T21:08:28+08:00">2018-09-03</time>
+
+              
+                
+              
+
+              <time title="Created: 2018-09-03 21:08:28" itemprop="dateCreated datePublished" datetime="2018-09-03T21:08:28+08:00">2018-09-03</time>
             
 
             
-            
+              
 
+              
+                
+                <span class="post-meta-divider">|</span>
+                
+
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-calendar-check-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">Edited on</span>
+                
+                <time title="Modified: 2018-09-04 21:08:57" itemprop="dateModified" datetime="2018-09-04T21:08:57+08:00">2018-09-04</time>
+              
             
           </span>
 
@@ -380,19 +359,12 @@
 
           
             
+            
           
 
           
           
 
-          
-            <span class="post-meta-divider">|</span>
-            <span class="post-meta-item-icon"
-            >
-            <i class="fa fa-eye"></i>
-             Views: 
-            <span class="busuanzi-value" id="busuanzi_value_page_pv" ></span>
-            </span>
           
 
           
@@ -414,12 +386,9 @@
       
         <p>和七七认识的第164天，就像手中的沙，握的越紧，流的越快。</p>
 <a id="more"></a>
-<div class="note warning"><p>从前从前 有个人爱你很久</p>
-<p>但偏偏 风渐渐</p>
-<p>把距离吹得好远</p>
-<p>好不容易 又能再多爱一天</p>
-<p>但故事的最后</p>
-<p>你好像还是说了 拜拜</p></div>
+<div class="note warning">
+            <p>从前从前 有个人爱你很久</p><p>但偏偏 风渐渐</p><p>把距离吹得好远</p><p>好不容易 又能再多爱一天</p><p>但故事的最后</p><p>你好像还是说了 拜拜</p>
+          </div>
 <p><del>其实我一直都知道你不爱我了。</del></p>
 <p><del>喜欢一个人是藏不住的，同样的，不喜欢一个人，也是没办法伪装的。就像马蓉对王宝强， 我大概能明白王宝强的心情了，他一定很难过吧。什么我对你太好，让你有压力这种理由，就算啦。没有那么多的理由，你只是不爱我了。还记得你说过，两个人如果不爱了，就应该体面的分开。</del></p>
 <p><del>你的朋友圈从来没有我。包括情人节我送你吹风机，问你你也只是说不想炫耀。认识我之前发了那么多朋友圈，我们在一起之后就再也没有发过一条，你说成熟了不想什么都发朋友圈，其实你只是把我屏蔽掉了吧。</del></p>
@@ -445,6 +414,9 @@
 
     
 
+    
+      
+    
     
 
     
@@ -488,10 +460,6 @@
   </article>
 
 
-
-    <div class="post-spread">
-      
-    </div>
   </div>
 
 
@@ -522,7 +490,7 @@
 
       
 
-      <section class="site-overview-wrap sidebar-panel sidebar-panel-active">
+      <div class="site-overview-wrap sidebar-panel sidebar-panel-active">
         <div class="site-overview">
           <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
             
@@ -729,7 +697,6 @@
           
 
           
-          
 
           
           
@@ -740,7 +707,7 @@
           
 
         </div>
-      </section>
+      </div>
 
       
 
@@ -757,7 +724,7 @@
     <footer id="footer" class="footer">
       <div class="footer-inner">
         <div class="copyright">&copy; <span itemprop="copyrightYear">2019</span>
-  <span class="with-love" id="animate"> 
+  <span class="with-love" id="animate">
     <i class="fa fa-user"></i>
   </span>
   <span class="author" itemprop="copyrightHolder">Edison</span>
@@ -768,34 +735,20 @@
 </div>
 
 
+  <div class="powered-by">Powered by <a href="https://hexo.io" class="theme-link" rel="noopener" target="_blank">Hexo</a> v3.7.1</div>
 
 
 
+  <span class="post-meta-divider">|</span>
 
 
+
+  <div class="theme-info">Theme – <a href="https://theme-next.org" class="theme-link" rel="noopener" target="_blank">NexT.Muse</a> v6.7.0</div>
 
 
 
 
         
-<div class="busuanzi-count">
-  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-
-  
-    <span class="site-uv" title="Total Visitors">
-      <i class="fa fa-user"></i>
-      <span class="busuanzi-value" id="busuanzi_value_site_uv"></span>
-    </span>
-  
-
-  
-    <span class="site-pv" title="Total Views">
-      <i class="fa fa-eye"></i>
-      <span class="busuanzi-value" id="busuanzi_value_site_pv"></span>
-    </span>
-  
-</div>
-
 
 
 
@@ -812,18 +765,19 @@
       <div class="back-to-top">
         <i class="fa fa-arrow-up"></i>
         
-          <span id="scrollpercent"><span>0</span>%</span>
-        
       </div>
     
 
     
 
+    
+
+    
   </div>
 
   
 
-<script type="text/javascript">
+<script>
   if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
     window.Promise = null;
   }
@@ -855,63 +809,49 @@
 
 
   
-  
-    <script type="text/javascript" src="/lib/jquery/index.js?v=2.1.3"></script>
-  
+  <script src="/lib/jquery/index.js?v=2.1.3"></script>
 
   
-  
-    <script type="text/javascript" src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
-  
+  <script src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
 
   
-  
-    <script type="text/javascript" src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
-  
+  <script src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
 
 
   
 
 
-  <script type="text/javascript" src="/js/src/utils.js?v=6.0.6"></script>
+  <script src="/js/src/utils.js?v=6.7.0"></script>
 
-  <script type="text/javascript" src="/js/src/motion.js?v=6.0.6"></script>
+  <script src="/js/src/motion.js?v=6.7.0"></script>
 
 
 
   
   
 
-  
-  <script type="text/javascript" src="/js/src/scrollspy.js?v=6.0.6"></script>
-<script type="text/javascript" src="/js/src/post-details.js?v=6.0.6"></script>
+
+  <script src="/js/src/schemes/muse.js?v=6.7.0"></script>
 
 
 
   
-
-
-  <script type="text/javascript" src="/js/src/bootstrap.js?v=6.0.6"></script>
+  <script src="/js/src/scrollspy.js?v=6.7.0"></script>
+<script src="/js/src/post-details.js?v=6.7.0"></script>
 
 
 
   
 
 
-
-
+  <script src="/js/src/bootstrap.js?v=6.7.0"></script>
 
 
 
   
 
 
-
-
-
-
-
-
+  
 
 
   
@@ -929,7 +869,6 @@
   
 
   
-  
 
   
 
@@ -939,5 +878,15 @@
 
   
 
+  
+
+  
+
+  
+
+  
+
+  <!--崩溃欺骗-->
+<script type="text/javascript" src="/js/src/crash_cheat.js"></script>
 </body>
 </html>

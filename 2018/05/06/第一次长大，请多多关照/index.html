@@ -2,29 +2,24 @@
 
 
 
+
+
+
+
+
+
+
+
+
   
 
 
 <html class="theme-next muse use-motion" lang="_en">
 <head>
   <meta charset="UTF-8"/>
-<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2"/>
-<meta name="theme-color" content="#222">
-
-
-
-
-
-
-
-
-
-
-
-
-<meta http-equiv="Cache-Control" content="no-transform" />
-<meta http-equiv="Cache-Control" content="no-siteapp" />
+<meta name="theme-color" content="#222"/>
 
 
 
@@ -47,37 +42,39 @@
 
 
 
-<link href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css" />
-
-<link href="/css/main.css?v=6.0.6" rel="stylesheet" type="text/css" />
-
-
-  <link rel="apple-touch-icon" sizes="180x180" href="/favicon.ico?v=6.0.6">
-
-
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon.ico?v=6.0.6">
-
-
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon.ico?v=6.0.6">
-
-
-  <link rel="mask-icon" href="/favicon.ico?v=6.0.6" color="#222">
 
 
 
 
+<link rel="stylesheet" href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2"/>
+
+<link rel="stylesheet" href="/css/main.css?v=6.7.0"/>
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png?v=6.7.0">
+
+
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png?v=6.7.0">
+
+
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png?v=6.7.0">
+
+
+  <link rel="mask-icon" href="/images/logo.svg?v=6.7.0" color="#222">
 
 
 
 
 
-<script type="text/javascript" id="hexo.configurations">
+
+
+<script id="hexo.configurations">
   var NexT = window.NexT || {};
   var CONFIG = {
     root: '/',
     scheme: 'Muse',
-    version: '6.0.6',
-    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":true,"onmobile":false},
+    version: '6.7.0',
+    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":false,"onmobile":false},
     fancybox: false,
     fastclick: false,
     lazyload: false,
@@ -124,7 +121,7 @@
 
 
 
-  <link rel="alternate" href="/atom.xml" title="QIQI x BIUBIU" type="application/atom+xml" />
+  <link rel="alternate" href="/atom.xml" title="QIQI x BIUBIU" type="application/atom+xml"/>
 
 
 
@@ -133,7 +130,7 @@
 
 
 
-<script type="text/javascript" id="page.configurations">
+<script id="page.configurations">
   CONFIG.page = {
     sidebar: "",
   };
@@ -150,30 +147,31 @@
 
 
 
+
+
+
   <noscript>
-  <style type="text/css">
-    .use-motion .motion-element,
-    .use-motion .brand,
-    .use-motion .menu-item,
-    .sidebar-inner,
-    .use-motion .post-block,
-    .use-motion .pagination,
-    .use-motion .comments,
-    .use-motion .post-header,
-    .use-motion .post-body,
-    .use-motion .collection-title { opacity: initial; }
+  <style>
+  .use-motion .motion-element,
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-title { opacity: initial; }
 
-    .use-motion .logo,
-    .use-motion .site-title,
-    .use-motion .site-subtitle {
-      opacity: initial;
-      top: initial;
-    }
+  .use-motion .logo,
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
 
-    .use-motion {
-      .logo-line-before i { left: initial; }
-      .logo-line-after i { right: initial; }
-    }
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
   </style>
 </noscript>
 
@@ -190,10 +188,8 @@
     <div class="headband"></div>
 
     <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
-      <div class="header-inner"> 
-
-<div class="site-brand-wrapper">
-  <div class="site-meta ">
+      <div class="header-inner"><div class="site-brand-wrapper">
+  <div class="site-meta">
     
 
     <div class="custom-logo-site-title">
@@ -203,9 +199,8 @@
         <span class="logo-line-after"><i></i></span>
       </a>
     </div>
-      
-        <p class="site-subtitle"></p>
-      
+    
+    
   </div>
 
   <div class="site-nav-toggle">
@@ -217,67 +212,48 @@
   </div>
 </div>
 
-<nav class="site-nav">
-  
 
+
+<nav class="site-nav">
   
     <ul id="menu" class="menu">
       
         
         
-          
-  <li class="menu-item menu-item-home">
-    <a href="/" rel="section">
-      <i class="menu-item-icon fa fa-fw fa-home"></i> <br />首页</a>
-</li>
-
-      
-        
         
           
-  <li class="menu-item menu-item-tags">
-    <a href="/tags/" rel="section">
-      <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />标签</a>
-</li>
+          <li class="menu-item menu-item-home">
 
+    
+    
+    
       
-        
-        
-          
-  <li class="menu-item menu-item-categories">
-    <a href="/categories/" rel="section">
-      <i class="menu-item-icon fa fa-fw fa-th"></i> <br />分类</a>
-</li>
+    
 
-      
+    
+
+    <a href="/" rel="section"><i class="menu-item-icon fa fa-fw fa-home"></i> <br/>Home</a>
+
+  </li>
+        
         
         
           
-  <li class="menu-item menu-item-archives">
-    <a href="/archives/" rel="section">
-      <i class="menu-item-icon fa fa-fw fa-archive"></i> <br />归档</a>
-</li>
+          <li class="menu-item menu-item-archives">
+
+    
+    
+    
+      
+    
+
+    
+
+    <a href="/archives/" rel="section"><i class="menu-item-icon fa fa-fw fa-archive"></i> <br/>Archives</a>
+
+  </li>
 
       
-        
-        
-          
-  <li class="menu-item menu-item-tetris">
-    <a href="/tetris/" rel="section">
-      <i class="menu-item-icon fa fa-fw fa-gamepad"></i> <br />俄罗斯方块</a>
-</li>
-
-      
-        
-        
-          
-  <li class="menu-item menu-item-mario">
-    <a href="/mario/" rel="section">
-      <i class="menu-item-icon fa fa-fw fa-trophy"></i> <br />超级马里奥</a>
-</li>
-
-      
-
       
     </ul>
   
@@ -285,42 +261,18 @@
   
     
 
-    
-    
-      
-      
-    
-      
-      
-    
-      
-      
-    
-      
-      
-    
-      
-      
-    
-      
-      
-    
-    
-
-  
-
-
   
 
   
 </nav>
 
 
+
   
 
 
 
- </div>
+</div>
     </header>
 
     
@@ -349,16 +301,16 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="https://blog.qibiu.com/2018/05/06/第一次长大，请多多关照/">
+    <link itemprop="mainEntityOfPage" href="https://blog.qibiu.com/2018/05/06/第一次长大，请多多关照/"/>
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="name" content="Edison">
-      <meta itemprop="description" content="">
-      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Edison"/>
+      <meta itemprop="description" content=""/>
+      <meta itemprop="image" content="/images/avatar.gif"/>
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="QIQI x BIUBIU">
+      <meta itemprop="name" content="QIQI x BIUBIU"/>
     </span>
 
     
@@ -366,11 +318,20 @@
 
         
         
-          <h1 class="post-title" itemprop="name headline">第一次长大，请多多关照</h1>
+          <h1 class="post-title" itemprop="name headline">第一次长大，请多多关照
+
+              
+            
+          </h1>
         
 
         <div class="post-meta">
           <span class="post-time">
+
+            
+            
+            
+
             
               <span class="post-meta-item-icon">
                 <i class="fa fa-calendar-o"></i>
@@ -378,17 +339,23 @@
               
                 <span class="post-meta-item-text">Posted on</span>
               
-              <time title="Post created" itemprop="dateCreated datePublished" datetime="2018-05-06T20:19:19+08:00">2018-05-06</time>
+
+              
+                
+              
+
+              <time title="Created: 2018-05-06 20:19:19 / Modified: 23:30:33" itemprop="dateCreated datePublished" datetime="2018-05-06T20:19:19+08:00">2018-05-06</time>
             
 
             
-            
+              
 
+              
             
           </span>
 
           
-            <span class="post-category" >
+            <span class="post-category">
             
               <span class="post-meta-divider">|</span>
             
@@ -409,19 +376,12 @@
 
           
             
+            
           
 
           
           
 
-          
-            <span class="post-meta-divider">|</span>
-            <span class="post-meta-item-icon"
-            >
-            <i class="fa fa-eye"></i>
-             Views: 
-            <span class="busuanzi-value" id="busuanzi_value_page_pv" ></span>
-            </span>
           
 
           
@@ -445,27 +405,9 @@
 <p>还记得4月8日我给你推荐的一款游戏Florence</p>
 <p>看到一篇文章，转载过来，<a href="https://www.g-cores.com/articles/97708" target="_blank" rel="noopener">原文链接</a></p>
 <a id="more"></a>
-<div class="note info"><h4 id="成人生活"><a href="#成人生活" class="headerlink" title="成人生活"></a><strong>成人生活</strong></h4><p>进入第一章，游戏的画面切换到了七岁那年，那时候我们都幻想自己当一个公主，被全世界宠爱。看着戴着小皇冠的三个小可爱，随着年龄的增加，左右两边的女孩离我远去。长大后的女主戴着耳麦，刷着手机，左手一杯咖啡，就算有第二杯半价的活动也没机会参与，完美地诠释了越长大越孤独。</p>
-<p><img src="/images/1.jpg" alt="img"></p>
-<p>毕业后，我第一次一个人在陌生城市生活，突然发现交朋友变得越来越难。遇到一群合得来的同事变成了看运气的事，生活一度变得很丧，懒得接触新的圈子和朋友，似乎唯有游戏可以给人平淡而美好的陪伴。我们无法拒绝生活，不管是坦然相对、逆来顺受还是揭竿而起都是一种生活态度。</p>
-<p><img src="/images/2.jpg" alt="img"></p>
-<p>在我国，没有社交的游戏很难在市场上生存，每个人都想远离孤独，与世隔绝的日子对于大多数人来说更像一座监狱。人在孤独的时候，总是想找另外一个人来填补空缺。那些成天和姐妹们旅行、自拍、喝下午茶的小姐姐们都不忙着谈恋爱，他们有自己的生活和理想，独立而美好。一旦他们谈起恋爱之后，整个世界像是只剩下两个人一样，一些女生很容易失去自己去迎合男朋友，甚至丢了自己曾经的梦想。</p>
-<p><img src="/images/3.jpg" alt="img"></p>
-<p>我不是在鼓励独身主义，也没有在宣言单身更自由和幸福。恰恰相反，我觉得恋爱是一件非常幸福的事。游戏中的你遇到了一个与众不同的人，大概每次遇到爱情的时候，我们就像按下了LT键，所有目光都锁定在他的身上。一切漫不经心的路过都变成了巧妙的缘分，那些与你无数次擦肩而过的人，衣服都磨破了也擦不出火花。</p>
-<h4 id="恋爱"><a href="#恋爱" class="headerlink" title="恋爱"></a><strong>恋爱</strong></h4><p>女主开始恋爱了，如果我知道这终究是一场心碎的回忆，这段故事该不该开始呢？恋爱总是幸福而甜蜜的，一起的回忆挂满了墙壁，就算争吵也会理解和好。后来，不知为什么女主和男生争吵越来越多。我努力让女主少说两句，看着流着眼泪的两个人，总是一阵阵心酸。</p>
-<p><img src="/images/4.jpg" alt="img"></p>
-<p>也许作为局外人，也许是入戏太深，我总是想问：“这是怎么了？明明那么相爱的两个人，怎么就吵成这个样子。”也许，第一次恋爱，还没学会怎么处理好与爱人的关系，就把爱人弄丢了。</p>
-<p>我努力将他们两人拼成面对面的睡姿，却无济于事，对不上的拼图，终究不会有圆满。</p>
-<p><img src="/images/5.jpg" alt="img"></p>
-<p>撕碎的照片，再怎么拼凑也无法还原，他就这样渐渐从女主的生活中消失。我也分不清女主是对空白的恐惧还是对男生习惯性地依赖，只是没有了男生，一切看起来都那么难过。灰色的画面，放不开的手。</p>
-<p><img src="/images/6.jpg" alt="img"></p>
-<p>我以为就这样让男孩陪着女主一直走下去，终究会感动游戏制作人，让我就此完成了结局。就像陷入死局的女主，我已经那么努力了，你为什么还要离开我？不得不放手，醒来又像获得了新生。</p>
-<h4 id="成长"><a href="#成长" class="headerlink" title="成长"></a><strong>成长</strong></h4><p>女主开始学着花更多的时间在陪伴爱催婚的老妈，全身心投入到自己的画画兴趣上，有了猫和自己的工作室。捡起曾经的合影，坦然地放下，让所有不开心都随时间而去。看着窗外，对未来充满期待。</p>
-<p><img src="/images/7.jpg" alt="img"></p>
-<h4 id="故事"><a href="#故事" class="headerlink" title="故事"></a><strong>故事</strong></h4><p>昨天，闺蜜第一次恋爱了，我很兴奋却又十分担心。她开始了一场因游戏的网恋，问我的意见。我能怎么办？还不是支持你按照你喜欢的方式去相处喽。谁第一次恋爱不是充满期待，不管未来会遇到什么样的结局，你都会不得不学着去放手或努力经营。第一次长大，我祈求这个世界对你我好一点，让我们都遇见对的人，也让我们拥有面对一切的勇气。</p>
-<p><img src="/images/8.jpg" alt="img"></p>
-<p>就像游戏中告诉我们的一样，既然选择了，就要一步步按照剧情的安排去接受所有的幸福和难过。我们就这样第一次长大，所有痛苦不是你躲开就能心安理得的，不管什么时候，我还有游戏，你还有我。</p>
-<p>玩到这里，我才发觉这大概是一个失恋劝说游戏，告诉你对离开的人勇敢放手，去追求生活和理想。一碗纯纯的心灵鸡汤，赶紧干了再去热爱生活。</p></div>
+<div class="note info">
+            <h4 id="成人生活"><a href="#成人生活" class="headerlink" title="成人生活"></a><strong>成人生活</strong></h4><p>进入第一章，游戏的画面切换到了七岁那年，那时候我们都幻想自己当一个公主，被全世界宠爱。看着戴着小皇冠的三个小可爱，随着年龄的增加，左右两边的女孩离我远去。长大后的女主戴着耳麦，刷着手机，左手一杯咖啡，就算有第二杯半价的活动也没机会参与，完美地诠释了越长大越孤独。</p><p><img src="/images/1.jpg" alt="img"></p><p>毕业后，我第一次一个人在陌生城市生活，突然发现交朋友变得越来越难。遇到一群合得来的同事变成了看运气的事，生活一度变得很丧，懒得接触新的圈子和朋友，似乎唯有游戏可以给人平淡而美好的陪伴。我们无法拒绝生活，不管是坦然相对、逆来顺受还是揭竿而起都是一种生活态度。</p><p><img src="/images/2.jpg" alt="img"></p><p>在我国，没有社交的游戏很难在市场上生存，每个人都想远离孤独，与世隔绝的日子对于大多数人来说更像一座监狱。人在孤独的时候，总是想找另外一个人来填补空缺。那些成天和姐妹们旅行、自拍、喝下午茶的小姐姐们都不忙着谈恋爱，他们有自己的生活和理想，独立而美好。一旦他们谈起恋爱之后，整个世界像是只剩下两个人一样，一些女生很容易失去自己去迎合男朋友，甚至丢了自己曾经的梦想。</p><p><img src="/images/3.jpg" alt="img"></p><p>我不是在鼓励独身主义，也没有在宣言单身更自由和幸福。恰恰相反，我觉得恋爱是一件非常幸福的事。游戏中的你遇到了一个与众不同的人，大概每次遇到爱情的时候，我们就像按下了LT键，所有目光都锁定在他的身上。一切漫不经心的路过都变成了巧妙的缘分，那些与你无数次擦肩而过的人，衣服都磨破了也擦不出火花。</p><h4 id="恋爱"><a href="#恋爱" class="headerlink" title="恋爱"></a><strong>恋爱</strong></h4><p>女主开始恋爱了，如果我知道这终究是一场心碎的回忆，这段故事该不该开始呢？恋爱总是幸福而甜蜜的，一起的回忆挂满了墙壁，就算争吵也会理解和好。后来，不知为什么女主和男生争吵越来越多。我努力让女主少说两句，看着流着眼泪的两个人，总是一阵阵心酸。</p><p><img src="/images/4.jpg" alt="img"></p><p>也许作为局外人，也许是入戏太深，我总是想问：“这是怎么了？明明那么相爱的两个人，怎么就吵成这个样子。”也许，第一次恋爱，还没学会怎么处理好与爱人的关系，就把爱人弄丢了。</p><p>我努力将他们两人拼成面对面的睡姿，却无济于事，对不上的拼图，终究不会有圆满。</p><p><img src="/images/5.jpg" alt="img"></p><p>撕碎的照片，再怎么拼凑也无法还原，他就这样渐渐从女主的生活中消失。我也分不清女主是对空白的恐惧还是对男生习惯性地依赖，只是没有了男生，一切看起来都那么难过。灰色的画面，放不开的手。</p><p><img src="/images/6.jpg" alt="img"></p><p>我以为就这样让男孩陪着女主一直走下去，终究会感动游戏制作人，让我就此完成了结局。就像陷入死局的女主，我已经那么努力了，你为什么还要离开我？不得不放手，醒来又像获得了新生。</p><h4 id="成长"><a href="#成长" class="headerlink" title="成长"></a><strong>成长</strong></h4><p>女主开始学着花更多的时间在陪伴爱催婚的老妈，全身心投入到自己的画画兴趣上，有了猫和自己的工作室。捡起曾经的合影，坦然地放下，让所有不开心都随时间而去。看着窗外，对未来充满期待。</p><p><img src="/images/7.jpg" alt="img"></p><h4 id="故事"><a href="#故事" class="headerlink" title="故事"></a><strong>故事</strong></h4><p>昨天，闺蜜第一次恋爱了，我很兴奋却又十分担心。她开始了一场因游戏的网恋，问我的意见。我能怎么办？还不是支持你按照你喜欢的方式去相处喽。谁第一次恋爱不是充满期待，不管未来会遇到什么样的结局，你都会不得不学着去放手或努力经营。第一次长大，我祈求这个世界对你我好一点，让我们都遇见对的人，也让我们拥有面对一切的勇气。</p><p><img src="/images/8.jpg" alt="img"></p><p>就像游戏中告诉我们的一样，既然选择了，就要一步步按照剧情的安排去接受所有的幸福和难过。我们就这样第一次长大，所有痛苦不是你躲开就能心安理得的，不管什么时候，我还有游戏，你还有我。</p><p>玩到这里，我才发觉这大概是一个失恋劝说游戏，告诉你对离开的人勇敢放手，去追求生活和理想。一碗纯纯的心灵鸡汤，赶紧干了再去热爱生活。</p>
+          </div>
 <p>不准备谈恋爱了，有一次就够了，剩下的日子自己一个人好好过吧。</p>
 <p>update</p>
 <p>刚玩完游戏，我们就像游戏里面一样，邂逅，相爱，分手，终于明白了为什么相爱的人最终走不到一起，第一次恋爱，还没学会去爱人，就把爱人弄丢了。</p>
@@ -486,6 +428,9 @@
 
     
 
+    
+      
+    
     
 
     
@@ -535,10 +480,6 @@
   </article>
 
 
-
-    <div class="post-spread">
-      
-    </div>
   </div>
 
 
@@ -578,7 +519,7 @@
         </ul>
       
 
-      <section class="site-overview-wrap sidebar-panel">
+      <div class="site-overview-wrap sidebar-panel">
         <div class="site-overview">
           <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
             
@@ -785,7 +726,6 @@
           
 
           
-          
 
           
           
@@ -796,15 +736,16 @@
           
 
         </div>
-      </section>
+      </div>
 
       
       <!--noindex-->
-        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+        <div class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
           <div class="post-toc">
 
             
-              
+            
+            
             
 
             
@@ -812,7 +753,7 @@
             
 
           </div>
-        </section>
+        </div>
       <!--/noindex-->
       
 
@@ -829,7 +770,7 @@
     <footer id="footer" class="footer">
       <div class="footer-inner">
         <div class="copyright">&copy; <span itemprop="copyrightYear">2019</span>
-  <span class="with-love" id="animate"> 
+  <span class="with-love" id="animate">
     <i class="fa fa-user"></i>
   </span>
   <span class="author" itemprop="copyrightHolder">Edison</span>
@@ -840,34 +781,20 @@
 </div>
 
 
+  <div class="powered-by">Powered by <a href="https://hexo.io" class="theme-link" rel="noopener" target="_blank">Hexo</a> v3.7.1</div>
 
 
 
+  <span class="post-meta-divider">|</span>
 
 
+
+  <div class="theme-info">Theme – <a href="https://theme-next.org" class="theme-link" rel="noopener" target="_blank">NexT.Muse</a> v6.7.0</div>
 
 
 
 
         
-<div class="busuanzi-count">
-  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-
-  
-    <span class="site-uv" title="Total Visitors">
-      <i class="fa fa-user"></i>
-      <span class="busuanzi-value" id="busuanzi_value_site_uv"></span>
-    </span>
-  
-
-  
-    <span class="site-pv" title="Total Views">
-      <i class="fa fa-eye"></i>
-      <span class="busuanzi-value" id="busuanzi_value_site_pv"></span>
-    </span>
-  
-</div>
-
 
 
 
@@ -884,18 +811,19 @@
       <div class="back-to-top">
         <i class="fa fa-arrow-up"></i>
         
-          <span id="scrollpercent"><span>0</span>%</span>
-        
       </div>
     
 
     
 
+    
+
+    
   </div>
 
   
 
-<script type="text/javascript">
+<script>
   if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
     window.Promise = null;
   }
@@ -927,63 +855,49 @@
 
 
   
-  
-    <script type="text/javascript" src="/lib/jquery/index.js?v=2.1.3"></script>
-  
+  <script src="/lib/jquery/index.js?v=2.1.3"></script>
 
   
-  
-    <script type="text/javascript" src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
-  
+  <script src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
 
   
-  
-    <script type="text/javascript" src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
-  
+  <script src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
 
 
   
 
 
-  <script type="text/javascript" src="/js/src/utils.js?v=6.0.6"></script>
+  <script src="/js/src/utils.js?v=6.7.0"></script>
 
-  <script type="text/javascript" src="/js/src/motion.js?v=6.0.6"></script>
+  <script src="/js/src/motion.js?v=6.7.0"></script>
 
 
 
   
   
 
-  
-  <script type="text/javascript" src="/js/src/scrollspy.js?v=6.0.6"></script>
-<script type="text/javascript" src="/js/src/post-details.js?v=6.0.6"></script>
+
+  <script src="/js/src/schemes/muse.js?v=6.7.0"></script>
 
 
 
   
-
-
-  <script type="text/javascript" src="/js/src/bootstrap.js?v=6.0.6"></script>
+  <script src="/js/src/scrollspy.js?v=6.7.0"></script>
+<script src="/js/src/post-details.js?v=6.7.0"></script>
 
 
 
   
 
 
-
-
+  <script src="/js/src/bootstrap.js?v=6.7.0"></script>
 
 
 
   
 
 
-
-
-
-
-
-
+  
 
 
   
@@ -1001,7 +915,6 @@
   
 
   
-  
 
   
 
@@ -1011,5 +924,15 @@
 
   
 
+  
+
+  
+
+  
+
+  
+
+  <!--崩溃欺骗-->
+<script type="text/javascript" src="/js/src/crash_cheat.js"></script>
 </body>
 </html>
