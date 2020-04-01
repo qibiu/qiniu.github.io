@@ -28,7 +28,7 @@
 <meta property="og:site_name" content="secret base">
 <meta property="og:description" content="Symmetric Tree Level:Easy 题目: Given a binary tree, check whether it is a mirror of itself (ie, symmetric around its center). For example, this binary tree [1,2,2,3,4,4,3] is symmetric: 1   /   2   2 /">
 <meta property="og:locale" content="_en">
-<meta property="og:updated_time" content="2020-04-01T12:08:44.045Z">
+<meta property="og:updated_time" content="2020-04-01T12:44:29.309Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="LeetCode-101-Symmetric-Tree-Easy">
 <meta name="twitter:description" content="Symmetric Tree Level:Easy 题目: Given a binary tree, check whether it is a mirror of itself (ie, symmetric around its center). For example, this binary tree [1,2,2,3,4,4,3] is symmetric: 1   /   2   2 /">
@@ -203,7 +203,7 @@
               <span class="post-meta-item-text">Posted on</span>
               
 
-              <time title="Created: 2020-04-01 20:03:57 / Modified: 20:08:44" itemprop="dateCreated datePublished" datetime="2020-04-01T20:03:57+08:00">2020-04-01</time>
+              <time title="Created: 2020-04-01 20:03:57 / Modified: 20:44:29" itemprop="dateCreated datePublished" datetime="2020-04-01T20:03:57+08:00">2020-04-01</time>
             </span>
 
           <br>
@@ -239,6 +239,8 @@
 <p>But the following [1,2,2,null,3,null,3] is not:</p>
 <pre><code>1</code></pre><p>   / <br>  2   2<br>   \   <br>   3    3</p>
 <p>Note:<br>Bonus points if you could solve it both recursively and iteratively.</p>
+<!--*more*-->
+
 <p>思路，迭代判断第一层是否为空，第二层左右节点是否相等，第三层左子树的左节点是否等于右子树的右节点，并且左子树的右节点是否等于右子树的左节点。</p>
 <p>完整代码:</p>
 <figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">/**</span></span><br><span class="line"><span class="comment"> * Definition for a binary tree node.</span></span><br><span class="line"><span class="comment"> * public class TreeNode &#123;</span></span><br><span class="line"><span class="comment"> *     int val;</span></span><br><span class="line"><span class="comment"> *     TreeNode left;</span></span><br><span class="line"><span class="comment"> *     TreeNode right;</span></span><br><span class="line"><span class="comment"> *     TreeNode(int x) &#123; val = x; &#125;</span></span><br><span class="line"><span class="comment"> * &#125;</span></span><br><span class="line"><span class="comment"> */</span></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> </span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">boolean</span> <span class="title">isSymmetric</span><span class="params">(TreeNode root)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">if</span> (root == <span class="keyword">null</span>) &#123;</span><br><span class="line">            <span class="keyword">return</span> <span class="keyword">true</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> helper(root.left, root.right);</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">boolean</span> <span class="title">helper</span><span class="params">(TreeNode left, TreeNode right)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">if</span> (left == <span class="keyword">null</span> || right == <span class="keyword">null</span>) &#123;</span><br><span class="line">            <span class="keyword">return</span> left == right;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">if</span> (left.val != right.val) &#123;</span><br><span class="line">            <span class="keyword">return</span> <span class="keyword">false</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> helper(left.left, right.right) &amp;&amp; helper(left.right, right.left);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>

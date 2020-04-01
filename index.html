@@ -372,7 +372,7 @@
               <span class="post-meta-item-text">Posted on</span>
               
 
-              <time title="Created: 2020-04-01 20:03:57 / Modified: 20:08:44" itemprop="dateCreated datePublished" datetime="2020-04-01T20:03:57+08:00">2020-04-01</time>
+              <time title="Created: 2020-04-01 20:03:57 / Modified: 20:44:29" itemprop="dateCreated datePublished" datetime="2020-04-01T20:03:57+08:00">2020-04-01</time>
             </span>
 
           <br>
@@ -408,6 +408,8 @@
 <p>But the following [1,2,2,null,3,null,3] is not:</p>
 <pre><code>1</code></pre><p>   / <br>  2   2<br>   \   <br>   3    3</p>
 <p>Note:<br>Bonus points if you could solve it both recursively and iteratively.</p>
+<!--*more*-->
+
 <p>思路，迭代判断第一层是否为空，第二层左右节点是否相等，第三层左子树的左节点是否等于右子树的右节点，并且左子树的右节点是否等于右子树的左节点。</p>
 <p>完整代码:</p>
 <figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">/**</span></span><br><span class="line"><span class="comment"> * Definition for a binary tree node.</span></span><br><span class="line"><span class="comment"> * public class TreeNode &#123;</span></span><br><span class="line"><span class="comment"> *     int val;</span></span><br><span class="line"><span class="comment"> *     TreeNode left;</span></span><br><span class="line"><span class="comment"> *     TreeNode right;</span></span><br><span class="line"><span class="comment"> *     TreeNode(int x) &#123; val = x; &#125;</span></span><br><span class="line"><span class="comment"> * &#125;</span></span><br><span class="line"><span class="comment"> */</span></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> </span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">boolean</span> <span class="title">isSymmetric</span><span class="params">(TreeNode root)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">if</span> (root == <span class="keyword">null</span>) &#123;</span><br><span class="line">            <span class="keyword">return</span> <span class="keyword">true</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> helper(root.left, root.right);</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">boolean</span> <span class="title">helper</span><span class="params">(TreeNode left, TreeNode right)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">if</span> (left == <span class="keyword">null</span> || right == <span class="keyword">null</span>) &#123;</span><br><span class="line">            <span class="keyword">return</span> left == right;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">if</span> (left.val != right.val) &#123;</span><br><span class="line">            <span class="keyword">return</span> <span class="keyword">false</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> helper(left.left, right.right) &amp;&amp; helper(left.right, right.left);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
@@ -456,7 +458,7 @@
               <span class="post-meta-item-text">Posted on</span>
               
 
-              <time title="Created: 2020-04-01 20:03:51 / Modified: 20:08:58" itemprop="dateCreated datePublished" datetime="2020-04-01T20:03:51+08:00">2020-04-01</time>
+              <time title="Created: 2020-04-01 20:03:51 / Modified: 20:44:19" itemprop="dateCreated datePublished" datetime="2020-04-01T20:03:51+08:00">2020-04-01</time>
             </span>
 
           <br>
@@ -495,6 +497,8 @@
 <pre><code>[1,2],     [1,null,2]</code></pre><p>Output: false<br>Example 3:</p>
 <p>Input:     1         1<br>          / \       / <br>         2   1     1   2</p>
 <pre><code>[1,2,1],   [1,1,2]</code></pre><p>Output: false</p>
+<!--*more*-->
+
 <p>解答:</p>
 <p>脑海里的第一个想法就是遍历两棵树，然后比较相同节点的大小，但凡有一个不相等就说明不是同样的树。<br>具体思路:</p>
 <p>首先判断两个节点是否为空</p>
@@ -550,7 +554,7 @@
               <span class="post-meta-item-text">Posted on</span>
               
 
-              <time title="Created: 2020-04-01 20:03:26 / Modified: 20:04:47" itemprop="dateCreated datePublished" datetime="2020-04-01T20:03:26+08:00">2020-04-01</time>
+              <time title="Created: 2020-04-01 20:03:26 / Modified: 20:45:08" itemprop="dateCreated datePublished" datetime="2020-04-01T20:03:26+08:00">2020-04-01</time>
             </span>
 
           <br>
@@ -578,7 +582,9 @@
     <div class="post-body" itemprop="articleBody">
 
       
-          <h1 id="移民"><a href="#移民" class="headerlink" title="移民"></a>移民</h1><h2 id="加拿大-移民快速通道-Express-Entry"><a href="#加拿大-移民快速通道-Express-Entry" class="headerlink" title="加拿大 移民快速通道 Express Entry"></a>加拿大 移民快速通道 Express Entry</h2><h3 id="基本要求"><a href="#基本要求" class="headerlink" title="基本要求"></a>基本要求</h3><p>　　打算居住在魁北克以外的省份；<br>　　过去10年内，有带薪的、一年以上的连续的全职（或等同的兼职）工作，从事同一个职业，在NOC 0，A或者B类别中；<br>　　英语或法语至少达到CLB 7级（雅思4个6）；<br>　　六项打分超过67。</p>
+          <h1 id="移民"><a href="#移民" class="headerlink" title="移民"></a>移民</h1><!--*more*-->
+
+<h2 id="加拿大-移民快速通道-Express-Entry"><a href="#加拿大-移民快速通道-Express-Entry" class="headerlink" title="加拿大 移民快速通道 Express Entry"></a>加拿大 移民快速通道 Express Entry</h2><h3 id="基本要求"><a href="#基本要求" class="headerlink" title="基本要求"></a>基本要求</h3><p>　　打算居住在魁北克以外的省份；<br>　　过去10年内，有带薪的、一年以上的连续的全职（或等同的兼职）工作，从事同一个职业，在NOC 0，A或者B类别中；<br>　　英语或法语至少达到CLB 7级（雅思4个6）；<br>　　六项打分超过67。</p>
 <p>年龄: 27(30岁一下最高分) 12分<br>学历: 本科 21分(博士25(满分),硕士23(看能不能弄个硕士学位))<br>雅思: 6/6/6/6 16分<br>工作: 5 年 13分(满分15 6年)<br>单身: 0<br>总: 62<br>分数不够入池,除非找个女朋友或者雅思7</p>
 <h3 id="联邦技术移民-Federal-Skilled-Workers"><a href="#联邦技术移民-Federal-Skilled-Workers" class="headerlink" title="联邦技术移民 Federal Skilled Workers"></a>联邦技术移民 Federal Skilled Workers</h3><p>总分336差的太多</p>
 <h3 id="安省优才计划-–-快速通道"><a href="#安省优才计划-–-快速通道" class="headerlink" title="安省优才计划 – 快速通道"></a>安省优才计划 – 快速通道</h3><h3 id="NSNP新斯科舍省提名移民项目-NSNP紧缺职业EE类别-Catogory-B"><a href="#NSNP新斯科舍省提名移民项目-NSNP紧缺职业EE类别-Catogory-B" class="headerlink" title="NSNP新斯科舍省提名移民项目 - NSNP紧缺职业EE类别 - Catogory B"></a>NSNP新斯科舍省提名移民项目 - NSNP紧缺职业EE类别 - Catogory B</h3><p>不需要雇主offer</p>
@@ -641,7 +647,7 @@
                   <i class="fa fa-calendar-check-o"></i>
                 </span>
                 <span class="post-meta-item-text">Edited on</span>
-                <time title="Modified: 2020-03-26 21:33:52" itemprop="dateModified" datetime="2020-03-26T21:33:52+08:00">2020-03-26</time>
+                <time title="Modified: 2020-04-01 20:45:13" itemprop="dateModified" datetime="2020-04-01T20:45:13+08:00">2020-04-01</time>
               </span>
 
           <br>
@@ -650,7 +656,7 @@
                 <i class="fa fa-file-word-o"></i>
               </span>
                 <span class="post-meta-item-text">Symbols count in article: </span>
-              <span>435</span>
+              <span>437</span>
             </span>
             <span class="post-meta-item" title="Reading time">
               <span class="post-meta-item-icon">
@@ -669,7 +675,9 @@
     <div class="post-body" itemprop="articleBody">
 
       
-          <h1 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h1><h2 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h2><ul>
+          <h1 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h1><!--*more*-->
+
+<h2 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h2><ul>
 <li>iPad Pro 蹲一个教育优惠</li>
 <li>剑桥雅思真题9-14? 4-9?4-14? 正版太贵，尽量支持正版吧，不行就盗版。</li>
 <li>安静的地方，在附近物色一个图书馆，周末泡图书馆，6月房子到期，到时候还的重新找个。<ul>
@@ -755,10 +763,16 @@
                 <i class="fa fa-calendar-o"></i>
               </span>
               <span class="post-meta-item-text">Posted on</span>
-              
 
-              <time title="Created: 2020-03-24 20:39:20 / Modified: 21:00:41" itemprop="dateCreated datePublished" datetime="2020-03-24T20:39:20+08:00">2020-03-24</time>
+              <time title="Created: 2020-03-24 20:39:20" itemprop="dateCreated datePublished" datetime="2020-03-24T20:39:20+08:00">2020-03-24</time>
             </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-calendar-check-o"></i>
+                </span>
+                <span class="post-meta-item-text">Edited on</span>
+                <time title="Modified: 2020-04-01 20:45:23" itemprop="dateModified" datetime="2020-04-01T20:45:23+08:00">2020-04-01</time>
+              </span>
 
           <br>
             <span class="post-meta-item" title="Symbols count in article">
@@ -766,7 +780,7 @@
                 <i class="fa fa-file-word-o"></i>
               </span>
                 <span class="post-meta-item-text">Symbols count in article: </span>
-              <span>319</span>
+              <span>321</span>
             </span>
             <span class="post-meta-item" title="Reading time">
               <span class="post-meta-item-icon">
@@ -786,6 +800,8 @@
 
       
           <p>大学时的计划30岁之前移民的，不知不觉只剩5年了，再这样浑浑噩噩，感觉就实现不了了。</p>
+<!--*more*-->
+
 <p>要开始做一些详细的准备了，暂定这几个国家(特地不加地区)</p>
 <p>台湾：融入很方便</p>
 <p>日本：职场压力比较大的样子</p>
