@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[LeetCode-101-Symmetric-Tree-Easy]]></title>
+    <url>%2F2020%2F04%2F01%2FLeetCode-101%2F</url>
+    <content type="text"><![CDATA[Symmetric Tree Level:Easy 题目: Given a binary tree, check whether it is a mirror of itself (ie, symmetric around its center). For example, this binary tree [1,2,2,3,4,4,3] is symmetric: 1 / 2 2 / \ / 3 4 4 3 But the following [1,2,2,null,3,null,3] is not: 1 / 2 2 \ 3 3 Note:Bonus points if you could solve it both recursively and iteratively. 思路，迭代判断第一层是否为空，第二层左右节点是否相等，第三层左子树的左节点是否等于右子树的右节点，并且左子树的右节点是否等于右子树的左节点。 完整代码: 123456789101112131415161718192021222324252627/** * Definition for a binary tree node. * public class TreeNode &#123; * int val; * TreeNode left; * TreeNode right; * TreeNode(int x) &#123; val = x; &#125; * &#125; */class Solution &#123; public boolean isSymmetric(TreeNode root) &#123; if (root == null) &#123; return true; &#125; return helper(root.left, root.right); &#125; public boolean helper(TreeNode left, TreeNode right) &#123; if (left == null || right == null) &#123; return left == right; &#125; if (left.val != right.val) &#123; return false; &#125; return helper(left.left, right.right) &amp;&amp; helper(left.right, right.left); &#125;&#125;]]></content>
+      <tags>
+        <tag>LeetCode</tag>
+        <tag>Tree</tag>
+        <tag>Easy</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[LeetCode-100-Same-Tree]]></title>
+    <url>%2F2020%2F04%2F01%2FLeetCode-100%2F</url>
+    <content type="text"><![CDATA[Same Tree Level:Easy 题目: Given two binary trees, write a function to check if they are the same or not. Two binary trees are considered the same if they are structurally identical and the nodes have the same value. Example 1: Input: 1 1 / \ / 2 3 2 3 [1,2,3], [1,2,3]Output: trueExample 2: Input: 1 1 / 2 2 [1,2], [1,null,2]Output: falseExample 3: Input: 1 1 / \ / 2 1 1 2 [1,2,1], [1,1,2]Output: false 解答: 脑海里的第一个想法就是遍历两棵树，然后比较相同节点的大小，但凡有一个不相等就说明不是同样的树。具体思路: 首先判断两个节点是否为空 123456if(p==null&amp;&amp;q==null)&#123; return true;&#125;if(p!=null||q!=null)&#123; return false;&#125; 然后对比根节点root，根节点不同直接返回false，根节点相同再判断左右子节点。 12345if(p.val==q.val)&#123; return isSameTree(p.left==q.left)&amp;&amp;isSameTree(p.right==q.right);&#125;else&#123; return false;&#125; 完整代码 123456789101112131415161718192021/** * Definition for a binary tree node. * public class TreeNode &#123; * int val; * TreeNode left; * TreeNode right; * TreeNode(int x) &#123; val = x; &#125; * &#125; */class Solution &#123; public boolean isSameTree(TreeNode p, TreeNode q) &#123; if (p == null || q == null) &#123; return (p==q); &#125; if (p.val == q.val) &#123; return isSameTree(p.left, q.left) &amp;&amp; isSameTree(p.right, q.right); &#125; else &#123; return false; &#125; &#125;&#125;]]></content>
+      <tags>
+        <tag>LeetCode</tag>
+        <tag>Tree</tag>
+        <tag>Easy</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[移民计划]]></title>
+    <url>%2F2020%2F04%2F01%2F%E7%A7%BB%E6%B0%91%E8%AE%A1%E5%88%92%2F</url>
+    <content type="text"><![CDATA[移民加拿大 移民快速通道 Express Entry基本要求 打算居住在魁北克以外的省份； 过去10年内，有带薪的、一年以上的连续的全职（或等同的兼职）工作，从事同一个职业，在NOC 0，A或者B类别中； 英语或法语至少达到CLB 7级（雅思4个6）； 六项打分超过67。 年龄: 27(30岁一下最高分) 12分学历: 本科 21分(博士25(满分),硕士23(看能不能弄个硕士学位))雅思: 6/6/6/6 16分工作: 5 年 13分(满分15 6年)单身: 0总: 62分数不够入池,除非找个女朋友或者雅思7 联邦技术移民 Federal Skilled Workers总分336差的太多 安省优才计划 – 快速通道NSNP新斯科舍省提名移民项目 - NSNP紧缺职业EE类别 - Catogory B不需要雇主offer SINP萨省提名移民项目 - 2019- 萨省无雇主技术移民项目 SINP 技术移民EE类别（International Skilled Worker: Saskatchewan Express Entry） SINP 技术移民OID类别（International Skilled Worker: Occupation In-Demand） SINP EE类别申请条件 - 飞出国SINP技术移民EE类别要求申请人的职业在萨省紧缺职业列表当中，首先需满足联邦技术移民67分评分标准进入EE池，这也就意味着该类申请人雅思需要达到4个6的成绩，同时还需满足SINP评分60分的标准。 成功创建EE，并进入EE候选池，获得EE账户号码（Express Entry profile Number）和求职验证代码（Job Seeker Validation Code）；获得SINP萨省技术移民评分标准100分中的60分；提供指定考试机构出具的有效语言考试成绩，考试成绩应与EE账户中所提交的成绩相匹配；完成与加拿大教育体系相匹配的至少一年的高等教育、培训或学徒期，并获得文凭、证书或学位；海外学历申请人需通过指定机构的ECA学历认证；申请人的专业或受训职业必须符合以下所列条件之一：过去10年中至少1年非技工类有偿工作经验；过去5年中至少2年技工类有偿工作经验；或过去3年中至少12个月加拿大工作经验（技工类或非技工类均可）；职业必须在萨省紧缺职业列表当中，并且属于NOC 0、A、B类；如果申请人的职业在萨省为受管制职业，则需首先通过萨省认证，才能提交移民申请；具备充足的安家资金及定居计划。 SINP OID类别申请条件 - 飞出国SINP技术移民OID类别要求申请人的职业在萨省紧缺职业列表当中，满足SINP评分60分的标准，其中语言打分与EE类别略有不同，OID类别语言达到CLB 4即可得到12分加分，这一标准不适用于EE类别，因此许多雅思无法达到4个6的申请人，只要其他条件满足即可通过该途径申请移民。 获得SINP萨省技术移民评分标准100分中的60分；语言至少达到CLB4，雇主和监管机构可能会要求更高的语言成绩；完成与加拿大教育体系相匹配的至少一年的高等教育、培训或学徒期，并获得文凭、证书或学位；海外学历申请人需通过指定机构的ECA学历认证；过去十年内具备至少一年相关工作经验，职业类别属于NOC 0、A和B类；如果申请人的职业在萨省为受管制职业，则需首先通过萨省认证，才能提交移民申请；具备充足的安家资金及定居计划。 杂QSW 魁省，20180802后实施高分选，法语将变的最重要，其次是魁北克学历且高分专业，再次是有job offer的，三者有2项以上的基本无悬念。需要法语好或专业好，最新受训加分调整，计算机,会计，航空航天，银行和金融，生物，土木建筑，地球，电子电气，食品，地质，水文，机械，护理，物理，植物，食品加工等只有9分。SINP 萨省，20180716后改为 EOI 择优选，第一次邀请68分，有萨省亲属，有萨省留学和工作经验的申请人更占优势。分为EE和OID（非EE）两种类型，雅思要求低，适合工作经验久的申请人，热门紧缺职业：工程师经理，土木、计算机软硬件工程师，农业，园林，电子维修，经济学家可以申请；NSNP 新省，当前还是抢配额，2018年只开放一次，当前只有EE，核心紧缺职业：金融审计会计，广告，市场，公关，行政助理，财务出纳，土木工程，护士，大专院校讲师，社工，抢配额工作量大，而且职业清单和申请流程说变就变；另外20180802 NS LMP 增加了直接去EE池子里挑选紧缺职业的类别。OINP 安省 ，分为高分类别（HCP类EE分数400分以上有希望，偶尔有职业限制，当前邀请分数在430分以上，2018年4月后没有再邀请）和法语类别（法语B2，申请人少，无EE分数和配额限制）；安省认可大学的硕博可以无雇主offer移民，限定学校，学历，且需要毕业2年内申请NBNP NB省，有直系亲属，法语好或参加过宣讲会且职业属于计算机，厨师，酒店餐饮服务经理，会计出纳，健康护理经理，零售主管等，需要满足加拿大联邦EE要求。MPNP 曼省，有曼省紧缺职业工作经验且与曼省有紧密联系，包括曼省有亲戚朋友担保，有曼省留学、工作经验，有曼省自己的EOI评分，，分为 EE 和 HCP（非EE）PEIPNP PEI EE 类别允许无雇主offer，但要求与 PEI 有较紧密联系，例如PEI工作过，留学过，有亲属，有房产等，需要满足加拿大联邦EE要求 澳大利亚 技术移民 491]]></content>
+      <tags>
+        <tag>计划</tag>
+        <tag>移民</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[雅思备考计划]]></title>
     <url>%2F2020%2F03%2F25%2F%E9%9B%85%E6%80%9D%E5%A4%87%E8%80%83%E8%AE%A1%E5%88%92%2F</url>
     <content type="text"><![CDATA[计划准备 iPad Pro 蹲一个教育优惠 剑桥雅思真题9-14? 4-9?4-14? 正版太贵，尽量支持正版吧，不行就盗版。 安静的地方，在附近物色一个图书馆，周末泡图书馆，6月房子到期，到时候还的重新找个。 图书馆的准备 水杯 iPad 手机 耳机 书 笔记本 笔 充电宝？ 包 一个一起学习的女朋友 干净的着装 时间安排合理利用工作的空余时间，上下班的通勤时间，以及周末和假期。上下班通勤时间2个小时左右。刨去走路和骑车所花的时间，单在地铁车厢里的时间保守估计有1小时30分左右。 周末: 9点，起床，半个小时洗漱，吃早餐 9点30 出门 到图书馆时间未定 12点吃饭 午休一小时 1点继续 5点吃晚饭 离开时间待定 更细致的安排待定，比如背单词多少分钟，写作多少分钟，听力多少分钟。待早期的摸索和后期的调整。 考虑是否应该设置休息日，还是说每日余下的时间作为休息就足够了。 目的听/读/写/说 8/7/7/7找一个志同道合的女朋友]]></content>
