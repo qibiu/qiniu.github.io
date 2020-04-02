@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.tanxp.com/"/>
-  <updated>2020-04-01T12:55:26.585Z</updated>
+  <updated>2020-04-02T11:41:10.498Z</updated>
   <id>https://blog.tanxp.com/</id>
   
   <author>
@@ -17,11 +17,98 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>LeetCode-101-Symmetric-Tree-Easy</title>
+    <title>LeetCode-104 Maximum Depth of Binary Tree</title>
+    <link href="https://blog.tanxp.com/2020/04/02/LeetCode-104/"/>
+    <id>https://blog.tanxp.com/2020/04/02/LeetCode-104/</id>
+    <published>2020-04-02T11:37:57.000Z</published>
+    <updated>2020-04-02T11:41:10.498Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Maximum Depth of Binary Tree&lt;/p&gt;
+&lt;p&gt;Level: Easy&lt;/p&gt;
+&lt;p&gt;Given a binary tree, find its maximum depth.&lt;/p&gt;
+&lt;p&gt;The maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; A leaf is a node with no children.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Given binary tree &lt;code&gt;[3,9,20,null,null,15,7]&lt;/code&gt;,&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;  3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9  20&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  /  \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; 15   7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;return its depth = 3.&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="LeetCode" scheme="https://blog.tanxp.com/tags/LeetCode/"/>
+    
+      <category term="Tree" scheme="https://blog.tanxp.com/tags/Tree/"/>
+    
+      <category term="Easy" scheme="https://blog.tanxp.com/tags/Easy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode-103 Binary Tree Zigzag Level Order Traversal</title>
+    <link href="https://blog.tanxp.com/2020/04/02/LeetCode-103/"/>
+    <id>https://blog.tanxp.com/2020/04/02/LeetCode-103/</id>
+    <published>2020-04-02T11:37:50.000Z</published>
+    <updated>2020-04-02T11:43:21.748Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Level: Medium&lt;/p&gt;
+&lt;p&gt;Given a binary tree, return the &lt;em&gt;level order&lt;/em&gt; traversal of its nodes’ values. (ie, from left to right, level by level).&lt;/p&gt;
+&lt;p&gt;For example:&lt;br&gt;Given binary tree &lt;code&gt;[3,9,20,null,null,15,7]&lt;/code&gt;,&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;  3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9  20&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  /  \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; 15   7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;return its level order traversal as:&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;[&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  [3],&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  [9,20],&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  [15,7]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;]&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+    
+      <category term="LeetCode" scheme="https://blog.tanxp.com/tags/LeetCode/"/>
+    
+      <category term="Tree" scheme="https://blog.tanxp.com/tags/Tree/"/>
+    
+      <category term="Medium" scheme="https://blog.tanxp.com/tags/Medium/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode-102 Binary Tree Level Order Traversal</title>
+    <link href="https://blog.tanxp.com/2020/04/02/LeetCode-102/"/>
+    <id>https://blog.tanxp.com/2020/04/02/LeetCode-102/</id>
+    <published>2020-04-02T11:37:46.000Z</published>
+    <updated>2020-04-02T11:43:14.069Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Level: Medium&lt;/p&gt;
+&lt;p&gt;Given a binary tree, return the &lt;em&gt;level order&lt;/em&gt; traversal of its nodes’ values. (ie, from left to right, level by level).&lt;/p&gt;
+&lt;p&gt;For example:&lt;br&gt;Given binary tree &lt;code&gt;[3,9,20,null,null,15,7]&lt;/code&gt;,&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;  3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9  20&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  /  \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; 15   7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;return its level order traversal as:&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;[&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  [3],&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  [9,20],&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  [15,7]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;]&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+    
+      <category term="LeetCode" scheme="https://blog.tanxp.com/tags/LeetCode/"/>
+    
+      <category term="Tree" scheme="https://blog.tanxp.com/tags/Tree/"/>
+    
+      <category term="Medium" scheme="https://blog.tanxp.com/tags/Medium/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode-101 Symmetric Tree Easy</title>
     <link href="https://blog.tanxp.com/2020/04/01/LeetCode-101/"/>
     <id>https://blog.tanxp.com/2020/04/01/LeetCode-101/</id>
     <published>2020-04-01T12:03:57.000Z</published>
-    <updated>2020-04-01T12:55:26.585Z</updated>
+    <updated>2020-04-02T11:43:04.502Z</updated>
     
     <summary type="html">
     
@@ -52,11 +139,11 @@
   </entry>
   
   <entry>
-    <title>LeetCode-100-Same-Tree</title>
+    <title>LeetCode-100 Same Tree</title>
     <link href="https://blog.tanxp.com/2020/04/01/LeetCode-100/"/>
     <id>https://blog.tanxp.com/2020/04/01/LeetCode-100/</id>
     <published>2020-04-01T12:03:51.000Z</published>
-    <updated>2020-04-01T12:55:31.293Z</updated>
+    <updated>2020-04-02T11:42:46.119Z</updated>
     
     <summary type="html">
     
@@ -349,63 +436,6 @@
     <summary type="html">
     
       &lt;p&gt;txh是真的喜欢我，就像我当时那么哔哔哔哔哔 (我不想被车撞死&lt;/p&gt;
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>感冒了</title>
-    <link href="https://blog.tanxp.com/2019/05/04/%E6%84%9F%E5%86%92%E4%BA%86/"/>
-    <id>https://blog.tanxp.com/2019/05/04/感冒了/</id>
-    <published>2019-05-04T02:28:25.000Z</published>
-    <updated>2019-05-04T02:29:23.167Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Japan</title>
-    <link href="https://blog.tanxp.com/2019/04/04/Japan/"/>
-    <id>https://blog.tanxp.com/2019/04/04/Japan/</id>
-    <published>2019-04-04T08:45:45.000Z</published>
-    <updated>2019-04-21T14:09:12.546Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>想早点离开</title>
-    <link href="https://blog.tanxp.com/2019/02/24/%E6%83%B3%E6%97%A9%E7%82%B9%E7%A6%BB%E5%BC%80/"/>
-    <id>https://blog.tanxp.com/2019/02/24/想早点离开/</id>
-    <published>2019-02-24T05:58:53.000Z</published>
-    <updated>2019-02-24T05:58:53.356Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
     
     </summary>
     

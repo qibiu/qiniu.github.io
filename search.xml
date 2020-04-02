@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[LeetCode-101-Symmetric-Tree-Easy]]></title>
+    <title><![CDATA[LeetCode-104 Maximum Depth of Binary Tree]]></title>
+    <url>%2F2020%2F04%2F02%2FLeetCode-104%2F</url>
+    <content type="text"><![CDATA[Maximum Depth of Binary Tree Level: Easy Given a binary tree, find its maximum depth. The maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node. Note: A leaf is a node with no children. Example: Given binary tree [3,9,20,null,null,15,7], 12345 3 / \9 20 / \ 15 7 return its depth = 3. 思路: ​ 这题比较简单，用递归实现，中途想像平常的DFS一样直接return，想了想发现不行，然后卡了会。得把左右都算出来，比较一下，深度再加1。 12345678910111213141516171819202122232425/** * Definition for a binary tree node. * public class TreeNode &#123; * int val; * TreeNode left; * TreeNode right; * TreeNode(int x) &#123; val = x; &#125; * &#125; */class Solution &#123; public int maxDepth(TreeNode root) &#123; if (root == null)&#123; return 0; &#125; int left = 0; int right = 0; if (root.left != null)&#123; left = maxDepth(root.left); &#125; if (root.right != null)&#123; right = maxDepth(root.right); &#125; return left&gt;=right?left+1:right+1; &#125;&#125; 总体写下来还比较顺，没用idea，页面里纯手写，一次编译运行通过。虽然是个Easy难度的题目，但还是能感受到因为进步带来的小小的成就感。 提交完，照旧看了下讨论区。发现别人只要一行就实现了，淦。 1234567public class Solution &#123; public int maxDepth(TreeNode root) &#123; return root==null? 0 : Math.max(maxDepth(root.left), maxDepth(root.right))+1; &#125;&#125;//https://leetcode.com/problems/maximum-depth-of-binary-tree/discuss/34216/Simple-solution-using-Java// author:dennyrong 看了下，大致 的思路是一样的。三元运算符我也用到了，只不过真没想过用Math.max()这个函数，还是得继续努力呀。]]></content>
+      <tags>
+        <tag>LeetCode</tag>
+        <tag>Tree</tag>
+        <tag>Easy</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[LeetCode-103 Binary Tree Zigzag Level Order Traversal]]></title>
+    <url>%2F2020%2F04%2F02%2FLeetCode-103%2F</url>
+    <content type="text"><![CDATA[Level: Medium Given a binary tree, return the level order traversal of its nodes’ values. (ie, from left to right, level by level). For example:Given binary tree [3,9,20,null,null,15,7], 12345 3 / \9 20 / \ 15 7 return its level order traversal as: 12345[ [3], [9,20], [15,7]] 思路: ​ 题目的需求跟102题很相似，第一反应就是先照着102写，然后在这个基础之上改改。主要是想着改下面这一段，左改右，右改左之类的。 123456if (node.left != null) &#123; queue.add(node.left);&#125;if (node.right != null) &#123; queue.add(node.right);&#125; 而然改了半天，发现做不到题目要求的效果。于是乎又求助评论区。果然在原有的基础上加了个标志位，并且新增了一段 123456if (zigzag) &#123; level.add(0, node.val);&#125;else &#123; level.add(node.val);&#125; 这个代码后，就能符合题目的要求了，和我心里的预期是相符的。 但是没看懂这一段的意义，就去了leetcode cn，希望能找个中文的思路看下。结果让我没想到的是，力扣中国这题的写法居然完全换了一种思路。属实8行。]]></content>
+      <tags>
+        <tag>LeetCode</tag>
+        <tag>Tree</tag>
+        <tag>Medium</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[LeetCode-102 Binary Tree Level Order Traversal]]></title>
+    <url>%2F2020%2F04%2F02%2FLeetCode-102%2F</url>
+    <content type="text"><![CDATA[Level: Medium Given a binary tree, return the level order traversal of its nodes’ values. (ie, from left to right, level by level). For example:Given binary tree [3,9,20,null,null,15,7], 12345 3 / \9 20 / \ 15 7 return its level order traversal as: 12345[ [3], [9,20], [15,7]] 思路: ​ 层次遍历。 ​ 然而不会写层次遍历，于是直奔评论区，找了个最高赞的答案看了看，大致上看懂了。 算法上面的递归方法也可以写成迭代的形式。我们将树上顶点按照层次依次放入队列结构中，队列中元素满足 FIFO（先进先出）的原则。在 Java 中可以使用 Queue 接口中的 LinkedList实现。在 Python 中如果使用 Queue 结构，但因为它是为多线程之间安全交换而设计的，所以使用了锁，会导致性能不佳。因此在 Python 中可以使用 deque 的 append() 和 popleft() 函数来快速实现队列的功能。第 0 层只包含根节点 root ，算法实现如下：初始化队列只包含一个节点 root 和层次编号 0 ： level = 0。当队列非空的时候：在输出结果 levels 中插入一个空列表，开始当前层的算法。计算当前层有多少个元素：等于队列的长度。将这些元素从队列中弹出，并加入 levels 当前层的空列表中。将他们的孩子节点作为下一层压入队列中。进入下一层 level++。 实现 12345678910111213141516171819202122232425262728293031323334353637class Solution &#123; public List&lt;List&lt;Integer&gt;&gt; levelOrder(TreeNode root) &#123; List&lt;List&lt;Integer&gt;&gt; levels = new ArrayList&lt;List&lt;Integer&gt;&gt;(); if (root == null) return levels; Queue&lt;TreeNode&gt; queue = new LinkedList&lt;TreeNode&gt;(); queue.add(root); int level = 0; while ( !queue.isEmpty() ) &#123; // start the current level levels.add(new ArrayList&lt;Integer&gt;()); // number of elements in the current level int level_length = queue.size(); for(int i = 0; i &lt; level_length; ++i) &#123; TreeNode node = queue.remove(); // fulfill the current level levels.get(level).add(node.val); // add child nodes of the current level // in the queue for the next level if (node.left != null) queue.add(node.left); if (node.right != null) queue.add(node.right); &#125; // go to next level level++; &#125; return levels; &#125;&#125;/*** https://leetcode-cn.com/problems/binary-tree-level-order-* traversal/solution/er-cha-shu-de-ceng-ci-bian-li-by-leetcode/*/ 方法2: 123456789101112131415161718192021222324List&lt;List&lt;Integer&gt;&gt; res = new ArrayList&lt;&gt;(); if (root == null) return res; Queue&lt;TreeNode&gt; queue = new LinkedList&lt;&gt;(); queue.add(root); while (!queue.isEmpty()) &#123; List&lt;Integer&gt; level = new ArrayList&lt;&gt;(); int cnt = queue.size(); for (int i = 0; i &lt; cnt; i++) &#123; TreeNode node = queue.poll(); level.add(node.val); if (node.left != null) &#123; queue.add(node.left); &#125; if (node.right != null) &#123; queue.add(node.right); &#125; &#125; res.add(level); &#125; return res;/*** https://leetcode.com/problems/binary-tree-level-order-* traversal/discuss/33450/Java-solution-with-a-queue-used*/]]></content>
+      <tags>
+        <tag>LeetCode</tag>
+        <tag>Tree</tag>
+        <tag>Medium</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[LeetCode-101 Symmetric Tree Easy]]></title>
     <url>%2F2020%2F04%2F01%2FLeetCode-101%2F</url>
     <content type="text"><![CDATA[Symmetric Tree Level:Easy 题目: Given a binary tree, check whether it is a mirror of itself (ie, symmetric around its center). For example, this binary tree [1,2,2,3,4,4,3] is symmetric: 12345 1 / \ 2 2 / \ / \3 4 4 3 But the following [1,2,2,null,3,null,3] is not: 12345 1 / \2 2 \ \ 3 3 Note:Bonus points if you could solve it both recursively and iteratively. 思路，迭代判断第一层是否为空，第二层左右节点是否相等，第三层左子树的左节点是否等于右子树的右节点，并且左子树的右节点是否等于右子树的左节点。 完整代码: 123456789101112131415161718192021222324252627/** * Definition for a binary tree node. * public class TreeNode &#123; * int val; * TreeNode left; * TreeNode right; * TreeNode(int x) &#123; val = x; &#125; * &#125; */class Solution &#123; public boolean isSymmetric(TreeNode root) &#123; if (root == null) &#123; return true; &#125; return helper(root.left, root.right); &#125; public boolean helper(TreeNode left, TreeNode right) &#123; if (left == null || right == null) &#123; return left == right; &#125; if (left.val != right.val) &#123; return false; &#125; return helper(left.left, right.right) &amp;&amp; helper(left.right, right.left); &#125;&#125;]]></content>
       <tags>
@@ -11,7 +41,7 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[LeetCode-100-Same-Tree]]></title>
+    <title><![CDATA[LeetCode-100 Same Tree]]></title>
     <url>%2F2020%2F04%2F01%2FLeetCode-100%2F</url>
     <content type="text"><![CDATA[Same Tree Level:Easy 题目: Given two binary trees, write a function to check if they are the same or not. Two binary trees are considered the same if they are structurally identical and the nodes have the same value. Example 1: 1234567Input: 1 1 / \ / \ 2 3 2 3 [1,2,3], [1,2,3]Output: true Example 2: 1234567Input: 1 1 / \ 2 2 [1,2], [1,null,2]Output: false Example 3: 1234567Input: 1 1 / \ / \ 2 1 1 2 [1,2,1], [1,1,2]Output: false 解答: 脑海里的第一个想法就是遍历两棵树，然后比较相同节点的大小，但凡有一个不相等就说明不是同样的树。具体思路: 首先判断两个节点是否为空 123456if(p==null&amp;&amp;q==null)&#123; return true;&#125;if(p!=null||q!=null)&#123; return false;&#125; 然后对比根节点root，根节点不同直接返回false，根节点相同再判断左右子节点。 12345if(p.val==q.val)&#123; return isSameTree(p.left==q.left)&amp;&amp;isSameTree(p.right==q.right);&#125;else&#123; return false;&#125; 完整代码 123456789101112131415161718192021/** * Definition for a binary tree node. * public class TreeNode &#123; * int val; * TreeNode left; * TreeNode right; * TreeNode(int x) &#123; val = x; &#125; * &#125; */class Solution &#123; public boolean isSameTree(TreeNode p, TreeNode q) &#123; if (p == null || q == null) &#123; return (p==q); &#125; if (p.val == q.val) &#123; return isSameTree(p.left, q.left) &amp;&amp; isSameTree(p.right, q.right); &#125; else &#123; return false; &#125; &#125;&#125;]]></content>
       <tags>
