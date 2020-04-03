@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.tanxp.com/"/>
-  <updated>2020-04-02T11:41:10.498Z</updated>
+  <updated>2020-04-03T15:34:42.023Z</updated>
   <id>https://blog.tanxp.com/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>LeetCode 105 Construct Binary Tree from Preorder and Inorder Traversal</title>
+    <link href="https://blog.tanxp.com/2020/04/03/LeetCode-105/"/>
+    <id>https://blog.tanxp.com/2020/04/03/LeetCode-105/</id>
+    <published>2020-04-03T15:32:39.000Z</published>
+    <updated>2020-04-03T15:34:42.023Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Level: Medium&lt;/p&gt;
+&lt;p&gt;Construct Binary Tree from Preorder and Inorder Traversal&lt;/p&gt;
+&lt;p&gt;Given preorder and inorder traversal of a tree, construct the binary tree.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt;&lt;br&gt;You may assume that duplicates do not exist in the tree.&lt;/p&gt;
+&lt;p&gt;For example, given&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;preorder = [3,9,20,15,7]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;inorder = [9,3,15,20,7]&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;Return the following binary tree:&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;  3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9  20&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  /  \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; 15   7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+    
+      <category term="LeetCode" scheme="https://blog.tanxp.com/tags/LeetCode/"/>
+    
+      <category term="Tree" scheme="https://blog.tanxp.com/tags/Tree/"/>
+    
+      <category term="Medium" scheme="https://blog.tanxp.com/tags/Medium/"/>
+    
+  </entry>
   
   <entry>
     <title>LeetCode-104 Maximum Depth of Binary Tree</title>
@@ -420,22 +450,6 @@
       
         &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
       
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>是真爱了</title>
-    <link href="https://blog.tanxp.com/2019/05/13/%E6%98%AF%E7%9C%9F%E7%88%B1%E4%BA%86/"/>
-    <id>https://blog.tanxp.com/2019/05/13/是真爱了/</id>
-    <published>2019-05-13T11:45:54.000Z</published>
-    <updated>2019-05-13T11:57:59.520Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;txh是真的喜欢我，就像我当时那么哔哔哔哔哔 (我不想被车撞死&lt;/p&gt;
     
     </summary>
     
