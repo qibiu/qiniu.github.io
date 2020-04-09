@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.tanxp.com/"/>
-  <updated>2020-04-08T13:05:26.748Z</updated>
+  <updated>2020-04-09T11:42:31.813Z</updated>
   <id>https://blog.tanxp.com/</id>
   
   <author>
@@ -15,6 +15,121 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>LeetCode-124 Binary Tree Maximum Path Sum</title>
+    <link href="https://blog.tanxp.com/2020/04/09/LeetCode-124/"/>
+    <id>https://blog.tanxp.com/2020/04/09/LeetCode-124/</id>
+    <published>2020-04-09T11:40:09.000Z</published>
+    <updated>2020-04-09T11:42:31.813Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Level: &lt;strong&gt;Hard&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Given a &lt;strong&gt;non-empty&lt;/strong&gt; binary tree, find the maximum path sum.&lt;/p&gt;
+&lt;p&gt;For this problem, a path is defined as any sequence of nodes from some starting node to any node in the tree along the parent-child connections. The path must contain &lt;strong&gt;at least one node&lt;/strong&gt; and does not need to go through the root.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Input: [1,2,3]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;       1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;      / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;     2   3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Output: 6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Example 2:&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Input: [-10,9,20,null,null,15,7]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   -10&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  9  20&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    /  \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   15   7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Output: 42&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+    
+      <category term="LeetCode" scheme="https://blog.tanxp.com/tags/LeetCode/"/>
+    
+      <category term="Tree" scheme="https://blog.tanxp.com/tags/Tree/"/>
+    
+      <category term="Hard" scheme="https://blog.tanxp.com/tags/Hard/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode-117 Populating Next Right Pointers in Each Node II</title>
+    <link href="https://blog.tanxp.com/2020/04/09/LeetCode-117/"/>
+    <id>https://blog.tanxp.com/2020/04/09/LeetCode-117/</id>
+    <published>2020-04-09T11:37:52.000Z</published>
+    <updated>2020-04-09T11:41:54.121Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Level: Medium&lt;/p&gt;
+&lt;p&gt;Given a binary tree&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;struct Node &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  int val;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  Node *left;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  Node *right;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  Node *next;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;Populate each next pointer to point to its next right node. If there is no next right node, the next pointer should be set to &lt;code&gt;NULL&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Initially, all next pointers are set to &lt;code&gt;NULL&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Follow up:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You may only use constant extra space.&lt;/li&gt;
+&lt;li&gt;Recursive approach is fine, you may assume implicit stack space does not count as extra space for this problem.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://assets.leetcode.com/uploads/2019/02/15/117_sample.png&quot; alt=&quot;img&quot;&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Input: root = [1,2,3,4,5,null,7]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Output: [1,#,2,3,#,4,5,7,#]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Explanation: Given the above binary tree (Figure A), your function should populate each next pointer to point to its next right node, just like in Figure B. The serialized output is in level order as connected by the next pointers, with &amp;apos;#&amp;apos; signifying the end of each level.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Constraints:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The number of nodes in the given tree is less than &lt;code&gt;6000&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-100 &amp;lt;= node.val &amp;lt;= 100&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+    
+      <category term="LeetCode" scheme="https://blog.tanxp.com/tags/LeetCode/"/>
+    
+      <category term="Tree" scheme="https://blog.tanxp.com/tags/Tree/"/>
+    
+      <category term="Medium" scheme="https://blog.tanxp.com/tags/Medium/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode-116 Populating Next Right Pointers in Each Node</title>
+    <link href="https://blog.tanxp.com/2020/04/09/LeetCode-116/"/>
+    <id>https://blog.tanxp.com/2020/04/09/LeetCode-116/</id>
+    <published>2020-04-09T11:37:05.000Z</published>
+    <updated>2020-04-09T11:37:36.719Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Level: Medium&lt;/p&gt;
+&lt;p&gt;You are given a &lt;strong&gt;perfect binary tree&lt;/strong&gt; where all leaves are on the same level, and every parent has two children. The binary tree has the following definition:&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;struct Node &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  int val;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  Node *left;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  Node *right;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  Node *next;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;Populate each next pointer to point to its next right node. If there is no next right node, the next pointer should be set to &lt;code&gt;NULL&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Initially, all next pointers are set to &lt;code&gt;NULL&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Follow up:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You may only use constant extra space.&lt;/li&gt;
+&lt;li&gt;Recursive approach is fine, you may assume implicit stack space does not count as extra space for this problem.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://assets.leetcode.com/uploads/2019/02/14/116_sample.png&quot; alt=&quot;img&quot;&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Input: root = [1,2,3,4,5,6,7]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Output: [1,#,2,3,#,4,5,6,7,#]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Explanation: Given the above perfect binary tree (Figure A), your function should populate each next pointer to point to its next right node, just like in Figure B. The serialized output is in level order as connected by the next pointers, with &amp;apos;#&amp;apos; signifying the end of each level.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Constraints:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The number of nodes in the given tree is less than &lt;code&gt;4096&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-1000 &amp;lt;= node.val &amp;lt;= 1000&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+    
+      <category term="LeetCode" scheme="https://blog.tanxp.com/tags/LeetCode/"/>
+    
+      <category term="Tree" scheme="https://blog.tanxp.com/tags/Tree/"/>
+    
+      <category term="Medium" scheme="https://blog.tanxp.com/tags/Medium/"/>
+    
+  </entry>
   
   <entry>
     <title>一件搞笑的事</title>
@@ -487,60 +602,6 @@
     <summary type="html">
     
       &lt;h1 id=&quot;计划&quot;&gt;&lt;a href=&quot;#计划&quot; class=&quot;headerlink&quot; title=&quot;计划&quot;&gt;&lt;/a&gt;计划&lt;/h1&gt;
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>移民相关</title>
-    <link href="https://blog.tanxp.com/2020/03/24/%E7%A7%BB%E6%B0%91%E7%9B%B8%E5%85%B3/"/>
-    <id>https://blog.tanxp.com/2020/03/24/移民相关/</id>
-    <published>2020-03-24T12:39:20.000Z</published>
-    <updated>2020-04-01T12:55:36.806Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;大学时的计划30岁之前移民的，不知不觉只剩5年了，再这样浑浑噩噩，感觉就实现不了了。&lt;/p&gt;
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>快乐周末</title>
-    <link href="https://blog.tanxp.com/2019/12/21/%E5%BF%AB%E4%B9%90%E5%91%A8%E6%9C%AB/"/>
-    <id>https://blog.tanxp.com/2019/12/21/快乐周末/</id>
-    <published>2019-12-21T03:24:10.000Z</published>
-    <updated>2019-12-21T12:38:52.336Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>爱在黎明破晓前</title>
-    <link href="https://blog.tanxp.com/2019/08/11/%E7%88%B1%E5%9C%A8%E9%BB%8E%E6%98%8E%E7%A0%B4%E6%99%93%E5%89%8D/"/>
-    <id>https://blog.tanxp.com/2019/08/11/爱在黎明破晓前/</id>
-    <published>2019-08-11T03:24:15.000Z</published>
-    <updated>2019-12-05T10:47:29.438Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
     
     </summary>
     
