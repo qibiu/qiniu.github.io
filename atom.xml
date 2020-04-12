@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.tanxp.com/"/>
-  <updated>2020-04-09T11:42:31.813Z</updated>
+  <updated>2020-04-12T11:56:22.945Z</updated>
   <id>https://blog.tanxp.com/</id>
   
   <author>
@@ -15,6 +15,202 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>酒抢到了，人没了</title>
+    <link href="https://blog.tanxp.com/2020/04/12/%E9%85%92%E6%8A%A2%E5%88%B0%E4%BA%86%EF%BC%8C%E4%BA%BA%E6%B2%A1%E4%BA%86/"/>
+    <id>https://blog.tanxp.com/2020/04/12/酒抢到了，人没了/</id>
+    <published>2020-04-12T11:55:52.000Z</published>
+    <updated>2020-04-12T11:56:22.945Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode-129 Sum Root to Leaf Numbers</title>
+    <link href="https://blog.tanxp.com/2020/04/12/LeetCode-129/"/>
+    <id>https://blog.tanxp.com/2020/04/12/LeetCode-129/</id>
+    <published>2020-04-12T11:54:49.000Z</published>
+    <updated>2020-04-12T11:55:31.756Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Level: Medium&lt;/p&gt;
+&lt;p&gt;Given a binary tree containing digits from &lt;code&gt;0-9&lt;/code&gt; only, each root-to-leaf path could represent a number.&lt;/p&gt;
+&lt;p&gt;An example is the root-to-leaf path &lt;code&gt;1-&amp;gt;2-&amp;gt;3&lt;/code&gt; which represents the number &lt;code&gt;123&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Find the total sum of all root-to-leaf numbers.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; A leaf is a node with no children.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Input: [1,2,3]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  2   3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Output: 25&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Explanation:&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;The root-to-leaf path 1-&amp;gt;2 represents the number 12.&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;The root-to-leaf path 1-&amp;gt;3 represents the number 13.&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Therefore, sum = 12 + 13 = 25.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Example 2:&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;12&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Input: [4,9,0,5,1]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  9   0&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5   1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Output: 1026&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Explanation:&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;The root-to-leaf path 4-&amp;gt;9-&amp;gt;5 represents the number 495.&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;The root-to-leaf path 4-&amp;gt;9-&amp;gt;1 represents the number 491.&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;The root-to-leaf path 4-&amp;gt;0 represents the number 40.&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Therefore, sum = 495 + 491 + 40 = 1026.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+    
+      <category term="LeetCode" scheme="https://blog.tanxp.com/tags/LeetCode/"/>
+    
+      <category term="Tree" scheme="https://blog.tanxp.com/tags/Tree/"/>
+    
+      <category term="Medium" scheme="https://blog.tanxp.com/tags/Medium/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode-99 Recover Binary Search Tree</title>
+    <link href="https://blog.tanxp.com/2020/04/12/LeetCode-99/"/>
+    <id>https://blog.tanxp.com/2020/04/12/LeetCode-99/</id>
+    <published>2020-04-12T11:51:53.000Z</published>
+    <updated>2020-04-12T11:52:09.977Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Level: &lt;strong&gt;Hard&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Two elements of a binary search tree (BST) are swapped by mistake.&lt;/p&gt;
+&lt;p&gt;Recover the tree without changing its structure.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;15&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Input: [1,3,null,null,2]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  /&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; 3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Output: [3,1,null,null,2]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  /&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; 1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Example 2:&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;15&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Input: [3,1,4,null,null,2]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;1   4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   /&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Output: [2,1,4,null,null,3]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;1   4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   /&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Follow up:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A solution using O(&lt;em&gt;n&lt;/em&gt;) space is pretty straight forward.&lt;/li&gt;
+&lt;li&gt;Could you devise a constant space solution?&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+    
+      <category term="LeetCode" scheme="https://blog.tanxp.com/tags/LeetCode/"/>
+    
+      <category term="Tree" scheme="https://blog.tanxp.com/tags/Tree/"/>
+    
+      <category term="Hard" scheme="https://blog.tanxp.com/tags/Hard/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode-98 Validate Binary Search Tree</title>
+    <link href="https://blog.tanxp.com/2020/04/12/LeetCode-98/"/>
+    <id>https://blog.tanxp.com/2020/04/12/LeetCode-98/</id>
+    <published>2020-04-12T11:51:20.000Z</published>
+    <updated>2020-04-12T11:51:41.869Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Level: Medium&lt;/p&gt;
+&lt;p&gt;Given a binary tree, determine if it is a valid binary search tree (BST).&lt;/p&gt;
+&lt;p&gt;Assume a BST is defined as follows:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The left subtree of a node contains only nodes with keys &lt;strong&gt;less than&lt;/strong&gt; the node’s key.&lt;/li&gt;
+&lt;li&gt;The right subtree of a node contains only nodes with keys &lt;strong&gt;greater than&lt;/strong&gt; the node’s key.&lt;/li&gt;
+&lt;li&gt;Both the left and right subtrees must also be binary search trees.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;    2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  1   3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Input: [2,1,3]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Output: true&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Example 2:&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;    5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  1   4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;     / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    3   6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Input: [5,1,4,null,null,3,6]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Output: false&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Explanation: The root node&amp;apos;s value is 5 but its right child&amp;apos;s value is 4.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+    
+      <category term="LeetCode" scheme="https://blog.tanxp.com/tags/LeetCode/"/>
+    
+      <category term="Tree" scheme="https://blog.tanxp.com/tags/Tree/"/>
+    
+      <category term="Medium" scheme="https://blog.tanxp.com/tags/Medium/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode-96 Unique Binary Search Trees</title>
+    <link href="https://blog.tanxp.com/2020/04/12/LeetCode-96/"/>
+    <id>https://blog.tanxp.com/2020/04/12/LeetCode-96/</id>
+    <published>2020-04-12T11:50:43.000Z</published>
+    <updated>2020-04-12T11:51:07.155Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Level: Medium&lt;/p&gt;
+&lt;p&gt;Given &lt;em&gt;n&lt;/em&gt;, how many structurally unique &lt;strong&gt;BST’s&lt;/strong&gt; (binary search trees) that store values 1 … &lt;em&gt;n&lt;/em&gt;?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Input: 3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Output: 5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Explanation:&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Given n = 3, there are a total of 5 unique BST&amp;apos;s:&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   1         3     3      2      1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    \       /     /      / \      \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;     3     2     1      1   3      2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    /     /       \                 \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   2     1         2                 3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+    
+      <category term="LeetCode" scheme="https://blog.tanxp.com/tags/LeetCode/"/>
+    
+      <category term="Tree" scheme="https://blog.tanxp.com/tags/Tree/"/>
+    
+      <category term="Medium" scheme="https://blog.tanxp.com/tags/Medium/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode-95 Unique Binary Search Trees II</title>
+    <link href="https://blog.tanxp.com/2020/04/12/LeetCode-95/"/>
+    <id>https://blog.tanxp.com/2020/04/12/LeetCode-95/</id>
+    <published>2020-04-12T11:50:04.000Z</published>
+    <updated>2020-04-12T11:50:23.609Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Level: Medium&lt;/p&gt;
+&lt;p&gt;Given an integer &lt;em&gt;n&lt;/em&gt;, generate all structurally unique &lt;strong&gt;BST’s&lt;/strong&gt; (binary search trees) that store values 1 … &lt;em&gt;n&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;17&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Input: 3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Output:&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;[&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  [1,null,3,2],&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  [3,2,null,1],&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  [3,1,null,null,2],&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  [2,1,3],&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  [1,null,2,null,3]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Explanation:&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;The above output corresponds to the 5 unique BST&amp;apos;s shown below:&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   1         3     3      2      1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    \       /     /      / \      \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;     3     2     1      1   3      2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    /     /       \                 \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   2     1         2                 3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+    
+      <category term="LeetCode" scheme="https://blog.tanxp.com/tags/LeetCode/"/>
+    
+      <category term="Tree" scheme="https://blog.tanxp.com/tags/Tree/"/>
+    
+      <category term="Medium" scheme="https://blog.tanxp.com/tags/Medium/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode-94 Binary Tree Inorder Traversal</title>
+    <link href="https://blog.tanxp.com/2020/04/12/LeetCode-94/"/>
+    <id>https://blog.tanxp.com/2020/04/12/LeetCode-94/</id>
+    <published>2020-04-12T11:49:23.000Z</published>
+    <updated>2020-04-12T11:50:34.218Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Level: Medium&lt;/p&gt;
+&lt;p&gt;Given a binary tree, return the &lt;em&gt;inorder&lt;/em&gt; traversal of its nodes’ values.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Input: [1,null,2,3]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;     2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    /&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Output: [1,3,2]&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Follow up:&lt;/strong&gt; Recursive solution is trivial, could you do it iteratively?&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="LeetCode" scheme="https://blog.tanxp.com/tags/LeetCode/"/>
+    
+      <category term="Tree" scheme="https://blog.tanxp.com/tags/Tree/"/>
+    
+      <category term="Medium" scheme="https://blog.tanxp.com/tags/Medium/"/>
+    
+  </entry>
   
   <entry>
     <title>LeetCode-124 Binary Tree Maximum Path Sum</title>
@@ -414,197 +610,6 @@
       <category term="Tree" scheme="https://blog.tanxp.com/tags/Tree/"/>
     
       <category term="Medium" scheme="https://blog.tanxp.com/tags/Medium/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>LeetCode-104 Maximum Depth of Binary Tree</title>
-    <link href="https://blog.tanxp.com/2020/04/02/LeetCode-104/"/>
-    <id>https://blog.tanxp.com/2020/04/02/LeetCode-104/</id>
-    <published>2020-04-02T11:37:57.000Z</published>
-    <updated>2020-04-02T11:41:10.498Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Maximum Depth of Binary Tree&lt;/p&gt;
-&lt;p&gt;Level: Easy&lt;/p&gt;
-&lt;p&gt;Given a binary tree, find its maximum depth.&lt;/p&gt;
-&lt;p&gt;The maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; A leaf is a node with no children.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Given binary tree &lt;code&gt;[3,9,20,null,null,15,7]&lt;/code&gt;,&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;  3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9  20&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  /  \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; 15   7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;return its depth = 3.&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="LeetCode" scheme="https://blog.tanxp.com/tags/LeetCode/"/>
-    
-      <category term="Tree" scheme="https://blog.tanxp.com/tags/Tree/"/>
-    
-      <category term="Easy" scheme="https://blog.tanxp.com/tags/Easy/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>LeetCode-103 Binary Tree Zigzag Level Order Traversal</title>
-    <link href="https://blog.tanxp.com/2020/04/02/LeetCode-103/"/>
-    <id>https://blog.tanxp.com/2020/04/02/LeetCode-103/</id>
-    <published>2020-04-02T11:37:50.000Z</published>
-    <updated>2020-04-02T11:43:21.748Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Level: Medium&lt;/p&gt;
-&lt;p&gt;Given a binary tree, return the &lt;em&gt;level order&lt;/em&gt; traversal of its nodes’ values. (ie, from left to right, level by level).&lt;/p&gt;
-&lt;p&gt;For example:&lt;br&gt;Given binary tree &lt;code&gt;[3,9,20,null,null,15,7]&lt;/code&gt;,&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;  3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9  20&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  /  \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; 15   7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;return its level order traversal as:&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;[&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  [3],&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  [9,20],&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  [15,7]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;]&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-    
-    </summary>
-    
-    
-      <category term="LeetCode" scheme="https://blog.tanxp.com/tags/LeetCode/"/>
-    
-      <category term="Tree" scheme="https://blog.tanxp.com/tags/Tree/"/>
-    
-      <category term="Medium" scheme="https://blog.tanxp.com/tags/Medium/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>LeetCode-102 Binary Tree Level Order Traversal</title>
-    <link href="https://blog.tanxp.com/2020/04/02/LeetCode-102/"/>
-    <id>https://blog.tanxp.com/2020/04/02/LeetCode-102/</id>
-    <published>2020-04-02T11:37:46.000Z</published>
-    <updated>2020-04-02T11:43:14.069Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Level: Medium&lt;/p&gt;
-&lt;p&gt;Given a binary tree, return the &lt;em&gt;level order&lt;/em&gt; traversal of its nodes’ values. (ie, from left to right, level by level).&lt;/p&gt;
-&lt;p&gt;For example:&lt;br&gt;Given binary tree &lt;code&gt;[3,9,20,null,null,15,7]&lt;/code&gt;,&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;  3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9  20&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  /  \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; 15   7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;return its level order traversal as:&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;[&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  [3],&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  [9,20],&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  [15,7]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;]&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-    
-    </summary>
-    
-    
-      <category term="LeetCode" scheme="https://blog.tanxp.com/tags/LeetCode/"/>
-    
-      <category term="Tree" scheme="https://blog.tanxp.com/tags/Tree/"/>
-    
-      <category term="Medium" scheme="https://blog.tanxp.com/tags/Medium/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>LeetCode-101 Symmetric Tree Easy</title>
-    <link href="https://blog.tanxp.com/2020/04/01/LeetCode-101/"/>
-    <id>https://blog.tanxp.com/2020/04/01/LeetCode-101/</id>
-    <published>2020-04-01T12:03:57.000Z</published>
-    <updated>2020-04-02T11:43:04.502Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Symmetric Tree Level:Easy&lt;/p&gt;
-&lt;p&gt;题目:&lt;/p&gt;
-&lt;p&gt;Given a binary tree, check whether it is a mirror of itself (ie, symmetric around its center).&lt;/p&gt;
-&lt;p&gt;For example, this binary tree &lt;code&gt;[1,2,2,3,4,4,3]&lt;/code&gt; is symmetric:&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;    1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  2   2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; / \ / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3  4 4  3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-
-
-&lt;p&gt;But the following &lt;code&gt;[1,2,2,null,3,null,3]&lt;/code&gt; is not:&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;  1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2   2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; \   \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; 3    3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt;&lt;br&gt;Bonus points if you could solve it both recursively and iteratively.&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="LeetCode" scheme="https://blog.tanxp.com/tags/LeetCode/"/>
-    
-      <category term="Tree" scheme="https://blog.tanxp.com/tags/Tree/"/>
-    
-      <category term="Easy" scheme="https://blog.tanxp.com/tags/Easy/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>LeetCode-100 Same Tree</title>
-    <link href="https://blog.tanxp.com/2020/04/01/LeetCode-100/"/>
-    <id>https://blog.tanxp.com/2020/04/01/LeetCode-100/</id>
-    <published>2020-04-01T12:03:51.000Z</published>
-    <updated>2020-04-02T11:42:46.119Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Same Tree  Level:Easy&lt;/p&gt;
-&lt;p&gt;题目:&lt;/p&gt;
-&lt;p&gt;Given two binary trees, write a function to check if they are the same or not.&lt;/p&gt;
-&lt;p&gt;Two binary trees are considered the same if they are structurally identical and the nodes have the same value.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Input:     1         1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;          / \       / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;         2   3     2   3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;        [1,2,3],   [1,2,3]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Output: true&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;Example 2:&lt;/strong&gt;&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Input:     1         1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;          /           \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;         2             2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;        [1,2],     [1,null,2]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Output: false&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;Example 3:&lt;/strong&gt;&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Input:     1         1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;          / \       / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;         2   1     1   2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;        [1,2,1],   [1,1,2]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Output: false&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-    
-    </summary>
-    
-    
-      <category term="LeetCode" scheme="https://blog.tanxp.com/tags/LeetCode/"/>
-    
-      <category term="Tree" scheme="https://blog.tanxp.com/tags/Tree/"/>
-    
-      <category term="Easy" scheme="https://blog.tanxp.com/tags/Easy/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>移民计划</title>
-    <link href="https://blog.tanxp.com/2020/04/01/%E7%A7%BB%E6%B0%91%E8%AE%A1%E5%88%92/"/>
-    <id>https://blog.tanxp.com/2020/04/01/移民计划/</id>
-    <published>2020-04-01T12:03:26.000Z</published>
-    <updated>2020-04-01T12:59:08.097Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;移民&quot;&gt;&lt;a href=&quot;#移民&quot; class=&quot;headerlink&quot; title=&quot;移民&quot;&gt;&lt;/a&gt;移民&lt;/h1&gt;
-    
-    </summary>
-    
-    
-      <category term="计划" scheme="https://blog.tanxp.com/tags/%E8%AE%A1%E5%88%92/"/>
-    
-      <category term="移民" scheme="https://blog.tanxp.com/tags/%E7%A7%BB%E6%B0%91/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>雅思备考计划</title>
-    <link href="https://blog.tanxp.com/2020/03/25/%E9%9B%85%E6%80%9D%E5%A4%87%E8%80%83%E8%AE%A1%E5%88%92/"/>
-    <id>https://blog.tanxp.com/2020/03/25/雅思备考计划/</id>
-    <published>2020-03-25T11:56:30.000Z</published>
-    <updated>2020-04-01T12:55:42.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;计划&quot;&gt;&lt;a href=&quot;#计划&quot; class=&quot;headerlink&quot; title=&quot;计划&quot;&gt;&lt;/a&gt;计划&lt;/h1&gt;
-    
-    </summary>
-    
     
   </entry>
   

@@ -28,7 +28,7 @@
 <meta property="og:site_name" content="secret base">
 <meta property="og:description" content="Symmetric Tree Level:Easy 题目: Given a binary tree, check whether it is a mirror of itself (ie, symmetric around its center). For example, this binary tree [1,2,2,3,4,4,3] is symmetric: 12345    1   /">
 <meta property="og:locale" content="_en">
-<meta property="og:updated_time" content="2020-04-02T11:43:04.502Z">
+<meta property="og:updated_time" content="2020-04-12T11:54:29.957Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="LeetCode-101 Symmetric Tree Easy">
 <meta name="twitter:description" content="Symmetric Tree Level:Easy 题目: Given a binary tree, check whether it is a mirror of itself (ie, symmetric around its center). For example, this binary tree [1,2,2,3,4,4,3] is symmetric: 12345    1   /">
@@ -209,7 +209,7 @@
                   <i class="fa fa-calendar-check-o"></i>
                 </span>
                 <span class="post-meta-item-text">Edited on</span>
-                <time title="Modified: 2020-04-02 19:43:04" itemprop="dateModified" datetime="2020-04-02T19:43:04+08:00">2020-04-02</time>
+                <time title="Modified: 2020-04-12 19:54:29" itemprop="dateModified" datetime="2020-04-12T19:54:29+08:00">2020-04-12</time>
               </span>
 
           <br>
@@ -218,7 +218,7 @@
                 <i class="fa fa-file-word-o"></i>
               </span>
                 <span class="post-meta-item-text">Symbols count in article: </span>
-              <span>1.2k</span>
+              <span>1.6k</span>
             </span>
             <span class="post-meta-item" title="Reading time">
               <span class="post-meta-item-icon">
@@ -257,6 +257,48 @@
 <p>完整代码:</p>
 <figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">/**</span></span><br><span class="line"><span class="comment"> * Definition for a binary tree node.</span></span><br><span class="line"><span class="comment"> * public class TreeNode &#123;</span></span><br><span class="line"><span class="comment"> *     int val;</span></span><br><span class="line"><span class="comment"> *     TreeNode left;</span></span><br><span class="line"><span class="comment"> *     TreeNode right;</span></span><br><span class="line"><span class="comment"> *     TreeNode(int x) &#123; val = x; &#125;</span></span><br><span class="line"><span class="comment"> * &#125;</span></span><br><span class="line"><span class="comment"> */</span></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> </span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">boolean</span> <span class="title">isSymmetric</span><span class="params">(TreeNode root)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">if</span> (root == <span class="keyword">null</span>) &#123;</span><br><span class="line">            <span class="keyword">return</span> <span class="keyword">true</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> helper(root.left, root.right);</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">boolean</span> <span class="title">helper</span><span class="params">(TreeNode left, TreeNode right)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">if</span> (left == <span class="keyword">null</span> || right == <span class="keyword">null</span>) &#123;</span><br><span class="line">            <span class="keyword">return</span> left == right;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">if</span> (left.val != right.val) &#123;</span><br><span class="line">            <span class="keyword">return</span> <span class="keyword">false</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> helper(left.left, right.right) &amp;&amp; helper(left.right, right.left);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
+<p>太冤了，今天复习的时候<code>root == null</code>我<code>return false</code>，submit的时候遇到<code>test case: []</code>居然算我错了，按题意<code>null</code>的时候应该返回<code>ture</code>，太扯了，空的树也算对称的吗？因为这个降低了accept率太亏了。</p>
+<p>复习:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Time Submitted</th>
+<th align="center">Status</th>
+<th align="center">Runtime</th>
+<th align="center">Memory</th>
+<th align="center">Language</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">4 minutes ago</td>
+<td align="center"><a href="https://leetcode.com/submissions/detail/322499213/" target="_blank" rel="noopener">Accepted</a></td>
+<td align="center">1 ms</td>
+<td align="center">39.2 MB</td>
+<td align="center">java</td>
+</tr>
+<tr>
+<td align="left">5 minutes ago</td>
+<td align="center"><a href="https://leetcode.com/submissions/detail/322498907/" target="_blank" rel="noopener">Wrong Answer</a></td>
+<td align="center">N/A</td>
+<td align="center">N/A</td>
+<td align="center">java</td>
+</tr>
+<tr>
+<td align="left">8 days ago</td>
+<td align="center"><a href="https://leetcode.com/submissions/detail/318427336/" target="_blank" rel="noopener">Accepted</a></td>
+<td align="center">0 ms</td>
+<td align="center">37.7 MB</td>
+<td align="center">java</td>
+</tr>
+<tr>
+<td align="left">9 days ago</td>
+<td align="center"><a href="https://leetcode.com/submissions/detail/318110372/" target="_blank" rel="noopener">Accepted</a></td>
+<td align="center">0 ms</td>
+<td align="center">38 MB</td>
+<td align="center">java</td>
+</tr>
+</tbody></table>
+<p>Last update time: 2020年4月10日 15点19分</p>
 
     </div>
 
@@ -356,7 +398,7 @@
       <div class="site-state-item site-state-posts">
           <a href="/archives/">
         
-          <span class="site-state-item-count">52</span>
+          <span class="site-state-item-count">59</span>
           <span class="site-state-item-name">posts</span>
         </a>
       </div>
@@ -403,12 +445,12 @@
     <span class="post-meta-item-icon">
       <i class="fa fa-area-chart"></i>
     </span>
-    <span title="Symbols count total">40k</span>
+    <span title="Symbols count total">51k</span>
     <span class="post-meta-divider">|</span>
     <span class="post-meta-item-icon">
       <i class="fa fa-coffee"></i>
     </span>
-    <span title="Reading time total">36 mins.</span>
+    <span title="Reading time total">47 mins.</span>
 </div>
 
         

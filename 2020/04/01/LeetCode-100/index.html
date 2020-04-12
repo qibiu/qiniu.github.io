@@ -28,7 +28,7 @@
 <meta property="og:site_name" content="secret base">
 <meta property="og:description" content="Same Tree  Level:Easy 题目: Given two binary trees, write a function to check if they are the same or not. Two binary trees are considered the same if they are structurally identical and the nodes have">
 <meta property="og:locale" content="_en">
-<meta property="og:updated_time" content="2020-04-02T11:42:46.119Z">
+<meta property="og:updated_time" content="2020-04-12T11:53:52.190Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="LeetCode-100 Same Tree">
 <meta name="twitter:description" content="Same Tree  Level:Easy 题目: Given two binary trees, write a function to check if they are the same or not. Two binary trees are considered the same if they are structurally identical and the nodes have">
@@ -209,7 +209,7 @@
                   <i class="fa fa-calendar-check-o"></i>
                 </span>
                 <span class="post-meta-item-text">Edited on</span>
-                <time title="Modified: 2020-04-02 19:42:46" itemprop="dateModified" datetime="2020-04-02T19:42:46+08:00">2020-04-02</time>
+                <time title="Modified: 2020-04-12 19:53:52" itemprop="dateModified" datetime="2020-04-12T19:53:52+08:00">2020-04-12</time>
               </span>
 
           <br>
@@ -218,14 +218,14 @@
                 <i class="fa fa-file-word-o"></i>
               </span>
                 <span class="post-meta-item-text">Symbols count in article: </span>
-              <span>1.5k</span>
+              <span>1.7k</span>
             </span>
             <span class="post-meta-item" title="Reading time">
               <span class="post-meta-item-icon">
                 <i class="fa fa-clock-o"></i>
               </span>
                 <span class="post-meta-item-text">Reading time &asymp;</span>
-              <span>1 mins.</span>
+              <span>2 mins.</span>
             </span>
 
         </div>
@@ -263,6 +263,36 @@
 <p>完整代码</p>
 <figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">/**</span></span><br><span class="line"><span class="comment"> * Definition for a binary tree node.</span></span><br><span class="line"><span class="comment"> * public class TreeNode &#123;</span></span><br><span class="line"><span class="comment"> *     int val;</span></span><br><span class="line"><span class="comment"> *     TreeNode left;</span></span><br><span class="line"><span class="comment"> *     TreeNode right;</span></span><br><span class="line"><span class="comment"> *     TreeNode(int x) &#123; val = x; &#125;</span></span><br><span class="line"><span class="comment"> * &#125;</span></span><br><span class="line"><span class="comment"> */</span></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> </span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">boolean</span> <span class="title">isSameTree</span><span class="params">(TreeNode p, TreeNode q)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">if</span> (p == <span class="keyword">null</span> || q == <span class="keyword">null</span>) &#123;</span><br><span class="line">            <span class="keyword">return</span> (p==q);</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">if</span> (p.val == q.val) &#123;</span><br><span class="line">            <span class="keyword">return</span> isSameTree(p.left, q.left) &amp;&amp; isSameTree(p.right, q.right);</span><br><span class="line">        &#125; <span class="keyword">else</span> &#123;</span><br><span class="line">            <span class="keyword">return</span> <span class="keyword">false</span>;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
+<p>复习:</p>
+<table>
+<thead>
+<tr>
+<th align="center">Time Submitted</th>
+<th align="center">Status</th>
+<th align="center">Runtime</th>
+<th align="center">Memory</th>
+<th align="center">Language</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">a few seconds ago</td>
+<td align="center"><a href="https://leetcode.com/submissions/detail/322491499/" target="_blank" rel="noopener">Accepted</a></td>
+<td align="center">0 ms</td>
+<td align="center">36.9 MB</td>
+<td align="center">java</td>
+</tr>
+<tr>
+<td align="center">9 days ago</td>
+<td align="center"><a href="https://leetcode.com/submissions/detail/318105503/" target="_blank" rel="noopener">Accepted</a></td>
+<td align="center">0 ms</td>
+<td align="center">37.5 MB</td>
+<td align="center">java</td>
+</tr>
+</tbody></table>
+<p>Last update time : 2020年4月10日 14点50分</p>
+<ol>
+<li>9天前，解法已经有些模糊了，勉勉强强写出了个框架，但是没弄通过。</li>
+</ol>
 
     </div>
 
@@ -362,7 +392,7 @@
       <div class="site-state-item site-state-posts">
           <a href="/archives/">
         
-          <span class="site-state-item-count">52</span>
+          <span class="site-state-item-count">59</span>
           <span class="site-state-item-name">posts</span>
         </a>
       </div>
@@ -409,12 +439,12 @@
     <span class="post-meta-item-icon">
       <i class="fa fa-area-chart"></i>
     </span>
-    <span title="Symbols count total">40k</span>
+    <span title="Symbols count total">51k</span>
     <span class="post-meta-divider">|</span>
     <span class="post-meta-item-icon">
       <i class="fa fa-coffee"></i>
     </span>
-    <span title="Reading time total">36 mins.</span>
+    <span title="Reading time total">47 mins.</span>
 </div>
 
         
