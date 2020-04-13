@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.tanxp.com/"/>
-  <updated>2020-04-12T11:56:22.945Z</updated>
+  <updated>2020-04-13T12:05:26.679Z</updated>
   <id>https://blog.tanxp.com/</id>
   
   <author>
@@ -15,6 +15,79 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>LeetCode-156 Binary Tree Upside Down</title>
+    <link href="https://blog.tanxp.com/2020/04/13/LeetCode-156/"/>
+    <id>https://blog.tanxp.com/2020/04/13/LeetCode-156/</id>
+    <published>2020-04-13T12:04:25.000Z</published>
+    <updated>2020-04-13T12:05:26.679Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode-145 Binary Tree Postorder Traversal</title>
+    <link href="https://blog.tanxp.com/2020/04/13/LeetCode-145/"/>
+    <id>https://blog.tanxp.com/2020/04/13/LeetCode-145/</id>
+    <published>2020-04-13T12:02:57.000Z</published>
+    <updated>2020-04-13T12:04:10.116Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Level: &lt;strong&gt;Hard&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Given a binary tree, return the &lt;em&gt;postorder&lt;/em&gt; traversal of its nodes’ values.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Input: [1,null,2,3]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;     2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    /&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Output: [3,2,1]&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Follow up:&lt;/strong&gt; Recursive solution is trivial, could you do it iteratively?&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="LeetCode" scheme="https://blog.tanxp.com/tags/LeetCode/"/>
+    
+      <category term="Tree" scheme="https://blog.tanxp.com/tags/Tree/"/>
+    
+      <category term="Medium" scheme="https://blog.tanxp.com/tags/Medium/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode-144 Binary Tree Preorder Traversal</title>
+    <link href="https://blog.tanxp.com/2020/04/13/LeetCode-144/"/>
+    <id>https://blog.tanxp.com/2020/04/13/LeetCode-144/</id>
+    <published>2020-04-13T12:01:37.000Z</published>
+    <updated>2020-04-13T12:02:45.293Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Level: Medium&lt;/p&gt;
+&lt;p&gt;Given a binary tree, return the &lt;em&gt;preorder&lt;/em&gt; traversal of its nodes’ values.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Input: [1,null,2,3]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;     2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    /&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Output: [1,2,3]&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Follow up:&lt;/strong&gt; Recursive solution is trivial, could you do it iteratively?&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="LeetCode" scheme="https://blog.tanxp.com/tags/LeetCode/"/>
+    
+      <category term="Tree" scheme="https://blog.tanxp.com/tags/Tree/"/>
+    
+      <category term="Medium" scheme="https://blog.tanxp.com/tags/Medium/"/>
+    
+  </entry>
   
   <entry>
     <title>酒抢到了，人没了</title>
@@ -523,93 +596,6 @@
       <category term="Tree" scheme="https://blog.tanxp.com/tags/Tree/"/>
     
       <category term="Easy" scheme="https://blog.tanxp.com/tags/Easy/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>LeetCode-107 Binary Tree Level Order Traversal II</title>
-    <link href="https://blog.tanxp.com/2020/04/08/LeetCode-107/"/>
-    <id>https://blog.tanxp.com/2020/04/08/LeetCode-107/</id>
-    <published>2020-04-08T12:20:28.000Z</published>
-    <updated>2020-04-08T12:21:16.630Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Level: Easy&lt;/p&gt;
-&lt;p&gt;Given a binary tree, return the &lt;em&gt;bottom-up level order&lt;/em&gt; traversal of its nodes’ values. (ie, from left to right, level by level from leaf to root).&lt;/p&gt;
-&lt;p&gt;For example:&lt;br&gt;Given binary tree &lt;code&gt;[3,9,20,null,null,15,7]&lt;/code&gt;,&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;  3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9  20&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  /  \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; 15   7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;return its bottom-up level order traversal as:&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;[&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  [15,7],&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  [9,20],&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  [3]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;]&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-    
-    </summary>
-    
-    
-      <category term="LeetCode" scheme="https://blog.tanxp.com/tags/LeetCode/"/>
-    
-      <category term="Tree" scheme="https://blog.tanxp.com/tags/Tree/"/>
-    
-      <category term="Easy" scheme="https://blog.tanxp.com/tags/Easy/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>LeetCode-106 Construct Binary Tree from Inorder and Postorder Traversal</title>
-    <link href="https://blog.tanxp.com/2020/04/08/LeetCode-106/"/>
-    <id>https://blog.tanxp.com/2020/04/08/LeetCode-106/</id>
-    <published>2020-04-08T12:18:11.000Z</published>
-    <updated>2020-04-08T12:20:13.286Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Level: Medium&lt;/p&gt;
-&lt;p&gt;Given inorder and postorder traversal of a tree, construct the binary tree.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt;&lt;br&gt;You may assume that duplicates do not exist in the tree.&lt;/p&gt;
-&lt;p&gt;For example, given&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;inorder = [9,3,15,20,7]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;postorder = [9,15,7,20,3]&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;Return the following binary tree:&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;  3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9  20&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  /  \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; 15   7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-    
-    </summary>
-    
-    
-      <category term="LeetCode" scheme="https://blog.tanxp.com/tags/LeetCode/"/>
-    
-      <category term="Tree" scheme="https://blog.tanxp.com/tags/Tree/"/>
-    
-      <category term="Medium" scheme="https://blog.tanxp.com/tags/Medium/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>LeetCode 105 Construct Binary Tree from Preorder and Inorder Traversal</title>
-    <link href="https://blog.tanxp.com/2020/04/03/LeetCode-105/"/>
-    <id>https://blog.tanxp.com/2020/04/03/LeetCode-105/</id>
-    <published>2020-04-03T15:32:39.000Z</published>
-    <updated>2020-04-03T15:34:42.023Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Level: Medium&lt;/p&gt;
-&lt;p&gt;Construct Binary Tree from Preorder and Inorder Traversal&lt;/p&gt;
-&lt;p&gt;Given preorder and inorder traversal of a tree, construct the binary tree.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt;&lt;br&gt;You may assume that duplicates do not exist in the tree.&lt;/p&gt;
-&lt;p&gt;For example, given&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;preorder = [3,9,20,15,7]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;inorder = [9,3,15,20,7]&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;Return the following binary tree:&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;  3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9  20&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  /  \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; 15   7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-    
-    </summary>
-    
-    
-      <category term="LeetCode" scheme="https://blog.tanxp.com/tags/LeetCode/"/>
-    
-      <category term="Tree" scheme="https://blog.tanxp.com/tags/Tree/"/>
-    
-      <category term="Medium" scheme="https://blog.tanxp.com/tags/Medium/"/>
     
   </entry>
   

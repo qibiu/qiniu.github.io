@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[LeetCode-156 Binary Tree Upside Down]]></title>
+    <url>%2F2020%2F04%2F13%2FLeetCode-156%2F</url>
+    <content type="text"><![CDATA[遇到的第一个上锁的题，什么信息都没有。 有点像神奇宝贝里面的“猜猜我是谁”环节。]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[LeetCode-145 Binary Tree Postorder Traversal]]></title>
+    <url>%2F2020%2F04%2F13%2FLeetCode-145%2F</url>
+    <content type="text"><![CDATA[Level: Hard Given a binary tree, return the postorder traversal of its nodes’ values. Example: 12345678Input: [1,null,2,3] 1 \ 2 / 3Output: [3,2,1] Follow up: Recursive solution is trivial, could you do it iteratively? 思路: 后序遍历难度居然是Hard，可能指的是题目的额外要求使用迭代实现吧。使用迭代确实很简单，先写个试试。 代码: 1234567891011121314151617181920212223242526/** * Definition for a binary tree node. * public class TreeNode &#123; * int val; * TreeNode left; * TreeNode right; * TreeNode(int x) &#123; val = x; &#125; * &#125; */class Solution &#123; public List&lt;Integer&gt; postorderTraversal(TreeNode root) &#123; List&lt;Integer&gt; result = new ArrayList&lt;Integer&gt;(); helper(root, result); return result; &#125; public void helper(TreeNode root, List&lt;Integer&gt; result)&#123; if (root == null)&#123; return; &#125; helper(root.left, result); helper(root.right, result); result.add(root.val); return; &#125;&#125; 用递归写确实很简单，中间粗心，public void helper(TreeNode root, List&lt;Integer&gt; result)写掉了List&lt;Integer&gt;直接写了result，其他都🆗。 我注意到这两题内存使用，基本都只超过了5%的人，说明迭代的方法更省内存呀，抽空得学下三种遍历迭代的写法。记得之前哪一题用到过，不过只写过一次，印象不深刻。 迭代版待续 复习: Time Submitted Status Runtime Memory Language 9 minutes ago Accepted 0 ms 38.3 MB java Last update time: 2020年4月13日 10点47分]]></content>
+      <tags>
+        <tag>LeetCode</tag>
+        <tag>Tree</tag>
+        <tag>Medium</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[LeetCode-144 Binary Tree Preorder Traversal]]></title>
+    <url>%2F2020%2F04%2F13%2FLeetCode-144%2F</url>
+    <content type="text"><![CDATA[Level: Medium Given a binary tree, return the preorder traversal of its nodes’ values. Example: 12345678Input: [1,null,2,3] 1 \ 2 / 3Output: [1,2,3] Follow up: Recursive solution is trivial, could you do it iteratively? 思路: 哦嚯~简单的先序遍历，纯手敲一次过。 代码: 12345678910111213141516171819202122232425262728293031323334/** * Definition for a binary tree node. * public class TreeNode &#123; * int val; * TreeNode left; * TreeNode right; * TreeNode(int x) &#123; val = x; &#125; * &#125; */class Solution &#123; public List&lt;Integer&gt; preorderTraversal(TreeNode root) &#123; List&lt;Integer&gt; result = new ArrayList&lt;Integer&gt;(); if (root == null)&#123; return result; &#125; helper(root, result); return result; &#125; public void helper(TreeNode root, List&lt;Integer&gt; result)&#123; if (root != null)&#123; result.add(root.val); &#125; if (root.left != null)&#123; helper(root.left, result); &#125; if (root.right != null)&#123; helper(root.right, result); &#125; return; &#125;&#125; 其实代码可以精简一下，上面是第一次的版本，下面是第二次的版本，改动不大，就是行数变少了。 1234567891011121314151617181920212223242526272829/** * Definition for a binary tree node. * public class TreeNode &#123; * int val; * TreeNode left; * TreeNode right; * TreeNode(int x) &#123; val = x; &#125; * &#125; */class Solution &#123; public List&lt;Integer&gt; preorderTraversal(TreeNode root) &#123; List&lt;Integer&gt; result = new ArrayList&lt;Integer&gt;(); helper(root, result); return result; &#125; public void helper(TreeNode root, List&lt;Integer&gt; result)&#123; if (root == null)&#123; return; &#125; result.add(root.val); helper(root.left, result); helper(root.right, result); return; &#125;&#125; 复习: Time Submitted Status Runtime Memory Language 7 minutes ago Accepted 0 ms 37.5 MB java 11 minutes ago Accepted 0 ms 37.7 MB java Last update time : 2020年4月13日 10点30分]]></content>
+      <tags>
+        <tag>LeetCode</tag>
+        <tag>Tree</tag>
+        <tag>Medium</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[酒抢到了，人没了]]></title>
     <url>%2F2020%2F04%2F12%2F%E9%85%92%E6%8A%A2%E5%88%B0%E4%BA%86%EF%BC%8C%E4%BA%BA%E6%B2%A1%E4%BA%86%2F</url>
     <content type="text"><![CDATA[你生气，我还有气呢。]]></content>
