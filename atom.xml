@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.tanxp.com/"/>
-  <updated>2020-04-15T12:20:00.015Z</updated>
+  <updated>2020-04-20T02:33:51.289Z</updated>
   <id>https://blog.tanxp.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2020年-第17周周计划</title>
+    <link href="https://blog.tanxp.com/2020/04/20/2020%E5%B9%B4-%E7%AC%AC17%E5%91%A8%E5%91%A8%E8%AE%A1%E5%88%92/"/>
+    <id>https://blog.tanxp.com/2020/04/20/2020年-第17周周计划/</id>
+    <published>2020-04-20T02:12:10.000Z</published>
+    <updated>2020-04-20T02:33:51.289Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近自己的节奏不对，由于工作调动和工作内容的变更已经好久没刷题了。紧迫的时间让意识到不能再这样下去了。5年的计划属实太大，以至于让我每次想起来就头疼，开始怀疑自己能否做到。&lt;/p&gt;
+&lt;p&gt;所以我决定将计划制定得更小更细致，以周为单位，每周制定一次，从这周开始，这周是第17周。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="周计划" scheme="https://blog.tanxp.com/tags/%E5%91%A8%E8%AE%A1%E5%88%92/"/>
+    
+      <category term="计划" scheme="https://blog.tanxp.com/tags/%E8%AE%A1%E5%88%92/"/>
+    
+  </entry>
   
   <entry>
     <title>今天妈妈还谈起了你</title>
@@ -547,41 +568,6 @@
 &lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;  3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9  20&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  /  \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; 15   7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;p&gt;return its minimum depth = 2.&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="LeetCode" scheme="https://blog.tanxp.com/tags/LeetCode/"/>
-    
-      <category term="Tree" scheme="https://blog.tanxp.com/tags/Tree/"/>
-    
-      <category term="Easy" scheme="https://blog.tanxp.com/tags/Easy/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>LeetCode-110 Balanced Binary Tree</title>
-    <link href="https://blog.tanxp.com/2020/04/08/LeetCode-110/"/>
-    <id>https://blog.tanxp.com/2020/04/08/LeetCode-110/</id>
-    <published>2020-04-08T12:25:11.000Z</published>
-    <updated>2020-04-08T12:27:14.634Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Level: Easy&lt;/p&gt;
-&lt;p&gt;Given a binary tree, determine if it is height-balanced.&lt;/p&gt;
-&lt;p&gt;For this problem, a height-balanced binary tree is defined as:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;a binary tree in which the left and right subtrees of &lt;em&gt;every&lt;/em&gt; node differ in height by no more than 1.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Given the following tree &lt;code&gt;[3,9,20,null,null,15,7]&lt;/code&gt;:&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;  3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9  20&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  /  \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; 15   7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;Return true.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Example 2:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Given the following tree &lt;code&gt;[1,2,2,3,3,null,null,4,4]&lt;/code&gt;:&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;      1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;     / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    2   2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  3   3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4   4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
     
     </summary>
     
