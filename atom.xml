@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.tanxp.com/"/>
-  <updated>2020-04-20T06:38:49.854Z</updated>
+  <updated>2020-04-20T10:57:44.185Z</updated>
   <id>https://blog.tanxp.com/</id>
   
   <author>
@@ -17,11 +17,30 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>想买东西</title>
+    <link href="https://blog.tanxp.com/2020/04/20/%E6%83%B3%E4%B9%B0%E4%B8%9C%E8%A5%BF/"/>
+    <id>https://blog.tanxp.com/2020/04/20/想买东西/</id>
+    <published>2020-04-20T10:56:26.000Z</published>
+    <updated>2020-04-20T10:57:44.185Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>好想早点移民</title>
     <link href="https://blog.tanxp.com/2020/04/20/%E5%A5%BD%E6%83%B3%E6%97%A9%E7%82%B9%E7%A7%BB%E6%B0%91/"/>
     <id>https://blog.tanxp.com/2020/04/20/好想早点移民/</id>
     <published>2020-04-20T03:24:22.000Z</published>
-    <updated>2020-04-20T06:38:49.854Z</updated>
+    <updated>2020-04-20T10:57:52.320Z</updated>
     
     <summary type="html">
     
@@ -539,35 +558,6 @@
       <category term="Tree" scheme="https://blog.tanxp.com/tags/Tree/"/>
     
       <category term="Medium" scheme="https://blog.tanxp.com/tags/Medium/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>LeetCode-112 Path Sum</title>
-    <link href="https://blog.tanxp.com/2020/04/08/LeetCode-112/"/>
-    <id>https://blog.tanxp.com/2020/04/08/LeetCode-112/</id>
-    <published>2020-04-08T12:28:42.000Z</published>
-    <updated>2020-04-08T12:29:05.888Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Level: Easy&lt;/p&gt;
-&lt;p&gt;Given a binary tree and a sum, determine if the tree has a root-to-leaf path such that adding up all the values along the path equals the given sum.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; A leaf is a node with no children.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Given the below binary tree and &lt;code&gt;sum = 22&lt;/code&gt;,&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;      5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;     / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    4   8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   /   / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  11  13  4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; /  \      \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7    2      1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;return true, as there exist a root-to-leaf path &lt;code&gt;5-&amp;gt;4-&amp;gt;11-&amp;gt;2&lt;/code&gt; which sum is 22.&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="LeetCode" scheme="https://blog.tanxp.com/tags/LeetCode/"/>
-    
-      <category term="Tree" scheme="https://blog.tanxp.com/tags/Tree/"/>
-    
-      <category term="Easy" scheme="https://blog.tanxp.com/tags/Easy/"/>
     
   </entry>
   
