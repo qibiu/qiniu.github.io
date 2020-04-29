@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.tanxp.com/"/>
-  <updated>2020-04-28T12:16:45.579Z</updated>
+  <updated>2020-04-29T01:14:06.350Z</updated>
   <id>https://blog.tanxp.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>今天不开心</title>
+    <link href="https://blog.tanxp.com/2020/04/29/%E4%BB%8A%E5%A4%A9%E4%B8%8D%E5%BC%80%E5%BF%83/"/>
+    <id>https://blog.tanxp.com/2020/04/29/今天不开心/</id>
+    <published>2020-04-29T01:13:23.000Z</published>
+    <updated>2020-04-29T01:14:06.350Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+      <category term="怂" scheme="https://blog.tanxp.com/tags/%E6%80%82/"/>
+    
+  </entry>
   
   <entry>
     <title>2020年-第18周周计划</title>
@@ -520,34 +541,6 @@
     
     
       <category term="生活" scheme="https://blog.tanxp.com/tags/%E7%94%9F%E6%B4%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>LeetCode-114 Flatten Binary Tree to Linked List</title>
-    <link href="https://blog.tanxp.com/2020/04/08/LeetCode-114/"/>
-    <id>https://blog.tanxp.com/2020/04/08/LeetCode-114/</id>
-    <published>2020-04-08T12:29:53.000Z</published>
-    <updated>2020-04-08T12:30:12.208Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Level: Medium&lt;/p&gt;
-&lt;p&gt;Given a binary tree, flatten it to a linked list in-place.&lt;/p&gt;
-&lt;p&gt;For example, given the following tree:&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;    1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  2   5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; / \   \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3   4   6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;The flattened tree should look like:&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;11&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;     \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;      4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;       \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;        5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;         \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;          6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-    
-    </summary>
-    
-    
-      <category term="LeetCode" scheme="https://blog.tanxp.com/tags/LeetCode/"/>
-    
-      <category term="Tree" scheme="https://blog.tanxp.com/tags/Tree/"/>
-    
-      <category term="Medium" scheme="https://blog.tanxp.com/tags/Medium/"/>
     
   </entry>
   
