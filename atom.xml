@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.hwfand.me/"/>
-  <updated>2020-05-03T15:45:49.622Z</updated>
+  <updated>2020-05-04T00:00:26.032Z</updated>
   <id>https://blog.hwfand.me/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>早睡是真的</title>
+    <link href="https://blog.hwfand.me/2020/05/04/%E6%97%A9%E7%9D%A1%E6%98%AF%E7%9C%9F%E7%9A%84/"/>
+    <id>https://blog.hwfand.me/2020/05/04/早睡是真的/</id>
+    <published>2020-05-03T23:53:15.000Z</published>
+    <updated>2020-05-04T00:00:26.032Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;认识斐斐的第5天&lt;/p&gt;
+&lt;p&gt;昨天说的早睡是真的哦&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>今天也想找你</title>
@@ -495,49 +512,6 @@
 &lt;ul&gt;
 &lt;li&gt;The number of nodes in the given tree is less than &lt;code&gt;6000&lt;/code&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;-100 &amp;lt;= node.val &amp;lt;= 100&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-    
-    </summary>
-    
-    
-      <category term="LeetCode" scheme="https://blog.hwfand.me/tags/LeetCode/"/>
-    
-      <category term="Tree" scheme="https://blog.hwfand.me/tags/Tree/"/>
-    
-      <category term="Medium" scheme="https://blog.hwfand.me/tags/Medium/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>LeetCode-116 Populating Next Right Pointers in Each Node</title>
-    <link href="https://blog.hwfand.me/2020/04/09/LeetCode-116/"/>
-    <id>https://blog.hwfand.me/2020/04/09/LeetCode-116/</id>
-    <published>2020-04-09T11:37:05.000Z</published>
-    <updated>2020-04-09T11:37:36.719Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Level: Medium&lt;/p&gt;
-&lt;p&gt;You are given a &lt;strong&gt;perfect binary tree&lt;/strong&gt; where all leaves are on the same level, and every parent has two children. The binary tree has the following definition:&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;struct Node &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  int val;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  Node *left;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  Node *right;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  Node *next;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;Populate each next pointer to point to its next right node. If there is no next right node, the next pointer should be set to &lt;code&gt;NULL&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;Initially, all next pointers are set to &lt;code&gt;NULL&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Follow up:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;You may only use constant extra space.&lt;/li&gt;
-&lt;li&gt;Recursive approach is fine, you may assume implicit stack space does not count as extra space for this problem.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://assets.leetcode.com/uploads/2019/02/14/116_sample.png&quot; alt=&quot;img&quot;&gt;&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Input: root = [1,2,3,4,5,6,7]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Output: [1,#,2,3,#,4,5,6,7,#]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Explanation: Given the above perfect binary tree (Figure A), your function should populate each next pointer to point to its next right node, just like in Figure B. The serialized output is in level order as connected by the next pointers, with &amp;apos;#&amp;apos; signifying the end of each level.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;Constraints:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The number of nodes in the given tree is less than &lt;code&gt;4096&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;-1000 &amp;lt;= node.val &amp;lt;= 1000&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
     
     </summary>
