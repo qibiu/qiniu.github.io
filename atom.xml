@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.hwfand.me/"/>
-  <updated>2020-05-05T13:21:30.403Z</updated>
+  <updated>2020-05-06T01:53:39.473Z</updated>
   <id>https://blog.hwfand.me/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>👴又快乐咯</title>
+    <link href="https://blog.hwfand.me/2020/05/06/%F0%9F%91%B4%E5%8F%88%E5%BF%AB%E4%B9%90%E5%92%AF/"/>
+    <id>https://blog.hwfand.me/2020/05/06/👴又快乐咯/</id>
+    <published>2020-05-06T01:50:12.000Z</published>
+    <updated>2020-05-06T01:53:39.473Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;和斐斐认识的第7天&lt;/p&gt;
+&lt;p&gt;斐斐又理我了！&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="开心" scheme="https://blog.hwfand.me/tags/%E5%BC%80%E5%BF%83/"/>
+    
+      <category term="😄" scheme="https://blog.hwfand.me/tags/%F0%9F%98%84/"/>
+    
+  </entry>
   
   <entry>
     <title>自我感觉良好？</title>
@@ -435,31 +456,6 @@
 
 &lt;p&gt;&lt;strong&gt;Example 2:&lt;/strong&gt;&lt;/p&gt;
 &lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;    5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  1   4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;     / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    3   6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Input: [5,1,4,null,null,3,6]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Output: false&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Explanation: The root node&amp;apos;s value is 5 but its right child&amp;apos;s value is 4.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-    
-    </summary>
-    
-    
-      <category term="LeetCode" scheme="https://blog.hwfand.me/tags/LeetCode/"/>
-    
-      <category term="Tree" scheme="https://blog.hwfand.me/tags/Tree/"/>
-    
-      <category term="Medium" scheme="https://blog.hwfand.me/tags/Medium/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>LeetCode-96 Unique Binary Search Trees</title>
-    <link href="https://blog.hwfand.me/2020/04/12/LeetCode-96/"/>
-    <id>https://blog.hwfand.me/2020/04/12/LeetCode-96/</id>
-    <published>2020-04-12T11:50:43.000Z</published>
-    <updated>2020-04-12T11:51:07.155Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Level: Medium&lt;/p&gt;
-&lt;p&gt;Given &lt;em&gt;n&lt;/em&gt;, how many structurally unique &lt;strong&gt;BST’s&lt;/strong&gt; (binary search trees) that store values 1 … &lt;em&gt;n&lt;/em&gt;?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Input: 3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Output: 5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Explanation:&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Given n = 3, there are a total of 5 unique BST&amp;apos;s:&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   1         3     3      2      1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    \       /     /      / \      \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;     3     2     1      1   3      2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    /     /       \                 \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   2     1         2                 3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
     
     </summary>
     
