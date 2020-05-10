@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.hwfand.me/"/>
-  <updated>2020-05-09T13:44:59.109Z</updated>
+  <updated>2020-05-10T00:24:19.813Z</updated>
   <id>https://blog.hwfand.me/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>搞不懂</title>
+    <link href="https://blog.hwfand.me/2020/05/10/%E6%90%9E%E4%B8%8D%E6%87%82/"/>
+    <id>https://blog.hwfand.me/2020/05/10/搞不懂/</id>
+    <published>2020-05-10T00:22:33.000Z</published>
+    <updated>2020-05-10T00:24:19.813Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;和斐斐认识的第11天&lt;/p&gt;
+&lt;p&gt;不是很明白斐斐对我的态度。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="困惑" scheme="https://blog.hwfand.me/tags/%E5%9B%B0%E6%83%91/"/>
+    
+      <category term="迷茫" scheme="https://blog.hwfand.me/tags/%E8%BF%B7%E8%8C%AB/"/>
+    
+  </entry>
   
   <entry>
     <title>感觉今天在躲着我</title>
@@ -390,33 +411,6 @@
 &lt;p&gt;Given a binary tree, return the &lt;em&gt;postorder&lt;/em&gt; traversal of its nodes’ values.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
 &lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Input: [1,null,2,3]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;     2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    /&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Output: [3,2,1]&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;Follow up:&lt;/strong&gt; Recursive solution is trivial, could you do it iteratively?&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="LeetCode" scheme="https://blog.hwfand.me/tags/LeetCode/"/>
-    
-      <category term="Tree" scheme="https://blog.hwfand.me/tags/Tree/"/>
-    
-      <category term="Medium" scheme="https://blog.hwfand.me/tags/Medium/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>LeetCode-144 Binary Tree Preorder Traversal</title>
-    <link href="https://blog.hwfand.me/2020/04/13/LeetCode-144/"/>
-    <id>https://blog.hwfand.me/2020/04/13/LeetCode-144/</id>
-    <published>2020-04-13T12:01:37.000Z</published>
-    <updated>2020-04-13T12:02:45.293Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Level: Medium&lt;/p&gt;
-&lt;p&gt;Given a binary tree, return the &lt;em&gt;preorder&lt;/em&gt; traversal of its nodes’ values.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Input: [1,null,2,3]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;     2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    /&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Output: [1,2,3]&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;p&gt;&lt;strong&gt;Follow up:&lt;/strong&gt; Recursive solution is trivial, could you do it iteratively?&lt;/p&gt;
     
