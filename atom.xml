@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.hwfand.me/"/>
-  <updated>2020-05-13T04:52:23.470Z</updated>
+  <updated>2020-05-13T04:54:27.413Z</updated>
   <id>https://blog.hwfand.me/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://blog.hwfand.me/2020/05/13/%E6%83%B3%E8%B7%91%E6%AD%A5%E4%BA%86/"/>
     <id>https://blog.hwfand.me/2020/05/13/想跑步了/</id>
     <published>2020-05-13T01:27:11.000Z</published>
-    <updated>2020-05-13T04:52:23.470Z</updated>
+    <updated>2020-05-13T04:54:27.413Z</updated>
     
     <summary type="html">
     
@@ -32,6 +32,8 @@
     
     
       <category term="跑步" scheme="https://blog.hwfand.me/tags/%E8%B7%91%E6%AD%A5/"/>
+    
+      <category term="随笔" scheme="https://blog.hwfand.me/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
