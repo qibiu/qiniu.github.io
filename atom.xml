@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.hwfand.me/"/>
-  <updated>2020-05-14T00:40:19.599Z</updated>
+  <updated>2020-05-19T07:59:04.006Z</updated>
   <id>https://blog.hwfand.me/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2020年-第21周周计划</title>
+    <link href="https://blog.hwfand.me/2020/05/19/2020%E5%B9%B4-%E7%AC%AC21%E5%91%A8%E5%91%A8%E8%AE%A1%E5%88%92/"/>
+    <id>https://blog.hwfand.me/2020/05/19/2020年-第21周周计划/</id>
+    <published>2020-05-19T07:50:07.000Z</published>
+    <updated>2020-05-19T07:59:04.006Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;上周末没背单词，然后昨天背了单词却忘记打卡了，不能懈怠咯。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="周计划" scheme="https://blog.hwfand.me/tags/%E5%91%A8%E8%AE%A1%E5%88%92/"/>
+    
+      <category term="计划" scheme="https://blog.hwfand.me/tags/%E8%AE%A1%E5%88%92/"/>
+    
+  </entry>
   
   <entry>
     <title>新路线还不错</title>
@@ -474,49 +494,6 @@
       <category term="Tree" scheme="https://blog.hwfand.me/tags/Tree/"/>
     
       <category term="Hard" scheme="https://blog.hwfand.me/tags/Hard/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>LeetCode-117 Populating Next Right Pointers in Each Node II</title>
-    <link href="https://blog.hwfand.me/2020/04/09/LeetCode-117/"/>
-    <id>https://blog.hwfand.me/2020/04/09/LeetCode-117/</id>
-    <published>2020-04-09T11:37:52.000Z</published>
-    <updated>2020-04-09T11:41:54.121Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Level: Medium&lt;/p&gt;
-&lt;p&gt;Given a binary tree&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;struct Node &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  int val;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  Node *left;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  Node *right;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  Node *next;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;Populate each next pointer to point to its next right node. If there is no next right node, the next pointer should be set to &lt;code&gt;NULL&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;Initially, all next pointers are set to &lt;code&gt;NULL&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Follow up:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;You may only use constant extra space.&lt;/li&gt;
-&lt;li&gt;Recursive approach is fine, you may assume implicit stack space does not count as extra space for this problem.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://assets.leetcode.com/uploads/2019/02/15/117_sample.png&quot; alt=&quot;img&quot;&gt;&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Input: root = [1,2,3,4,5,null,7]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Output: [1,#,2,3,#,4,5,7,#]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Explanation: Given the above binary tree (Figure A), your function should populate each next pointer to point to its next right node, just like in Figure B. The serialized output is in level order as connected by the next pointers, with &amp;apos;#&amp;apos; signifying the end of each level.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;Constraints:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The number of nodes in the given tree is less than &lt;code&gt;6000&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;-100 &amp;lt;= node.val &amp;lt;= 100&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-    
-    </summary>
-    
-    
-      <category term="LeetCode" scheme="https://blog.hwfand.me/tags/LeetCode/"/>
-    
-      <category term="Tree" scheme="https://blog.hwfand.me/tags/Tree/"/>
-    
-      <category term="Medium" scheme="https://blog.hwfand.me/tags/Medium/"/>
     
   </entry>
   
