@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[LeetCode-199]]></title>
+    <url>%2F2020%2F05%2F20%2FLeetCode-199%2F</url>
+    <content type="text"><![CDATA[Level: Medium Given a binary tree, imagine yourself standing on the right side of it, return the values of the nodes you can see ordered from top to bottom. Example: 123456789Input: [1,2,3,null,5,null,4]Output: [1, 3, 4]Explanation: 1 &lt;--- / \2 3 &lt;--- \ \ 5 4 &lt;--- 思路: ​ 听起来好像很简单，但是]]></content>
+      <tags>
+        <tag>LeetCode</tag>
+        <tag>Tree</tag>
+        <tag>Medium</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[LeetCode-173]]></title>
+    <url>%2F2020%2F05%2F20%2FLeetCode-173%2F</url>
+    <content type="text"><![CDATA[Level: Medium Implement an iterator over a binary search tree (BST). Your iterator will be initialized with the root node of a BST. Calling next() will return the next smallest number in the BST. Example: 12345678910BSTIterator iterator = new BSTIterator(root);iterator.next(); // return 3iterator.next(); // return 7iterator.hasNext(); // return trueiterator.next(); // return 9iterator.hasNext(); // return trueiterator.next(); // return 15iterator.hasNext(); // return trueiterator.next(); // return 20iterator.hasNext(); // return false Note: next() and hasNext() should run in average O(1) time and uses O(h) memory, where h is the height of the tree. You may assume that next() call will always be valid, that is, there will be at least a next smallest number in the BST when next() is called. 思路: 好久没刷题了，没啥思路，甚至连题意都没理解。先Copy一题慢慢恢复状态。 代码: 1234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253/** * Definition for a binary tree node. * public class TreeNode &#123; * int val; * TreeNode left; * TreeNode right; * TreeNode() &#123;&#125; * TreeNode(int val) &#123; this.val = val; &#125; * TreeNode(int val, TreeNode left, TreeNode right) &#123; * this.val = val; * this.left = left; * this.right = right; * &#125; * &#125; */class BSTIterator &#123; private Stack&lt;TreeNode&gt; stack; public BSTIterator(TreeNode root) &#123; stack = new Stack&lt;&gt;(); TreeNode cur = root; while (cur != null)&#123; stack.push(cur); cur = cur.left; &#125; &#125; /** @return the next smallest number */ public int next() &#123; TreeNode node = stack.pop(); TreeNode cur = node.right; while (cur != null)&#123; stack.push(cur); cur = cur.left; &#125; return node.val; &#125; /** @return whether we have a next smallest number */ public boolean hasNext() &#123; return !stack.isEmpty(); &#125;&#125;/** * Your BSTIterator object will be instantiated and called as such: * BSTIterator obj = new BSTIterator(root); * int param_1 = obj.next(); * boolean param_2 = obj.hasNext(); */ 这就是我之前想学的用Stack实现的方式，用Stack应该也能实现树的前，中，后序遍历。这种方式应该称作迭代。 复习: Time Submitted Status Runtime Memory Language a few seconds ago Accepted 46 ms 50.7 MB java]]></content>
+      <tags>
+        <tag>LeetCode</tag>
+        <tag>Tree</tag>
+        <tag>Medium</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[迷茫]]></title>
     <url>%2F2020%2F05%2F20%2F%E8%BF%B7%E8%8C%AB%2F</url>
     <content type="text"><![CDATA[工作会有变动吗？什么时候能有感情生活？十一要不要约初中同学聚一聚？什么时候去看房子？ 不知不觉心里攒了很多事事情呢，难怪最近有点压力。]]></content>
@@ -8,7 +28,7 @@
   <entry>
     <title><![CDATA[2020年-第21周周计划]]></title>
     <url>%2F2020%2F05%2F19%2F2020%E5%B9%B4-%E7%AC%AC21%E5%91%A8%E5%91%A8%E8%AE%A1%E5%88%92%2F</url>
-    <content type="text"><![CDATA[上周末没背单词，然后昨天背了单词却忘记打卡了，不能懈怠咯。 本周计划： 继续背单词，话说新路线真香呀，所以说有得必有失。 周一打卡 忘记打卡了 周二打卡 Studied ⁨285⁩ cards ⁨in ⁨39.33⁩ minutes⁩ today (⁨8.28⁩s/card)Again count: 108 (62.11% correct)Learn: 178, Review: 49, Relearn: 58, Filtered: 0No mature cards were studied today. 想跑步或者健身了 本周随记： 周二： 今天心情还不错，原因按下不表，希望明天也能有好心情吧。话说工作又要有新的变化了，出于某些原因还是想继续呆在这。明天领导要是过来并且谈起这件事，我得争取一下，就算一定要回行里，也想拖个几天。一切就看明天了。然后周末打算和朋友出去搓一顿，他月底要离职了，应该心情不太好，陪他喝点酒。]]></content>
+    <content type="text"><![CDATA[上周末没背单词，然后昨天背了单词却忘记打卡了，不能懈怠咯。 本周计划： 继续背单词，话说新路线真香呀，所以说有得必有失。 周一打卡 忘记打卡了 周二打卡 Studied ⁨285⁩ cards ⁨in ⁨39.33⁩ minutes⁩ today (⁨8.28⁩s/card)Again count: 108 (62.11% correct)Learn: 178, Review: 49, Relearn: 58, Filtered: 0No mature cards were studied today. 周三打卡 Studied ⁨158⁩ cards ⁨in ⁨21.9⁩ minutes⁩ today (⁨8.32⁩s/card)Again count: 61 (61.39% correct)Learn: 104, Review: 33, Relearn: 21, Filtered: 0No mature cards were studied today. 想跑步或者健身了 本周随记： 周二： 今天心情还不错，原因按下不表，希望明天也能有好心情吧。话说工作又要有新的变化了，出于某些原因还是想继续呆在这。明天领导要是过来并且谈起这件事，我得争取一下，就算一定要回行里，也想拖个几天。一切就看明天了。然后周末打算和朋友出去搓一顿，他月底要离职了，应该心情不太好，陪他喝点酒。]]></content>
       <tags>
         <tag>周计划</tag>
         <tag>计划</tag>
