@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.hwfand.me/"/>
-  <updated>2020-05-25T10:42:52.266Z</updated>
+  <updated>2020-05-25T11:12:09.416Z</updated>
   <id>https://blog.hwfand.me/</id>
   
   <author>
@@ -15,6 +15,22 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2020年-第22周周计划</title>
+    <link href="https://blog.hwfand.me/2020/05/25/2020%E5%B9%B4-%E7%AC%AC22%E5%91%A8%E5%91%A8%E8%AE%A1%E5%88%92/"/>
+    <id>https://blog.hwfand.me/2020/05/25/2020年-第22周周计划/</id>
+    <published>2020-05-25T11:10:52.000Z</published>
+    <updated>2020-05-25T11:12:09.416Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;求好运，就看明天拉&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>今天运气不错</title>
@@ -157,7 +173,7 @@
     <link href="https://blog.hwfand.me/2020/05/19/2020%E5%B9%B4-%E7%AC%AC21%E5%91%A8%E5%91%A8%E8%AE%A1%E5%88%92/"/>
     <id>https://blog.hwfand.me/2020/05/19/2020年-第21周周计划/</id>
     <published>2020-05-19T07:50:07.000Z</published>
-    <updated>2020-05-22T13:47:40.430Z</updated>
+    <updated>2020-05-25T11:12:11.246Z</updated>
     
     <summary type="html">
     
@@ -415,37 +431,6 @@
 &lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Input: [1,null,2,3]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;     2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    /&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Output: [1,2,3]&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;p&gt;&lt;strong&gt;Follow up:&lt;/strong&gt; Recursive solution is trivial, could you do it iteratively?&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="LeetCode" scheme="https://blog.hwfand.me/tags/LeetCode/"/>
-    
-      <category term="Tree" scheme="https://blog.hwfand.me/tags/Tree/"/>
-    
-      <category term="Medium" scheme="https://blog.hwfand.me/tags/Medium/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>LeetCode-129 Sum Root to Leaf Numbers</title>
-    <link href="https://blog.hwfand.me/2020/04/12/LeetCode-129/"/>
-    <id>https://blog.hwfand.me/2020/04/12/LeetCode-129/</id>
-    <published>2020-04-12T11:54:49.000Z</published>
-    <updated>2020-04-12T11:55:31.756Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Level: Medium&lt;/p&gt;
-&lt;p&gt;Given a binary tree containing digits from &lt;code&gt;0-9&lt;/code&gt; only, each root-to-leaf path could represent a number.&lt;/p&gt;
-&lt;p&gt;An example is the root-to-leaf path &lt;code&gt;1-&amp;gt;2-&amp;gt;3&lt;/code&gt; which represents the number &lt;code&gt;123&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;Find the total sum of all root-to-leaf numbers.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; A leaf is a node with no children.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Input: [1,2,3]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  2   3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Output: 25&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Explanation:&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;The root-to-leaf path 1-&amp;gt;2 represents the number 12.&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;The root-to-leaf path 1-&amp;gt;3 represents the number 13.&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Therefore, sum = 12 + 13 = 25.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;Example 2:&lt;/strong&gt;&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;12&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Input: [4,9,0,5,1]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  9   0&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5   1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Output: 1026&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Explanation:&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;The root-to-leaf path 4-&amp;gt;9-&amp;gt;5 represents the number 495.&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;The root-to-leaf path 4-&amp;gt;9-&amp;gt;1 represents the number 491.&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;The root-to-leaf path 4-&amp;gt;0 represents the number 40.&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Therefore, sum = 495 + 491 + 40 = 1026.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
     
     </summary>
     
