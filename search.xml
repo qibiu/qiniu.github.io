@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[LeetCode-226]]></title>
+    <url>%2F2020%2F05%2F28%2FLeetCode-226%2F</url>
+    <content type="text"><![CDATA[Level: Easy Invert a binary tree. Example: Input: 12345 4 / \ 2 7 / \ / \1 3 6 9 Output: 12345 4 / \ 7 2 / \ / \9 6 3 1 Trivia:This problem was inspired by this original tweet by Max Howell: Google: 90% of our engineers use the software you wrote (Homebrew), but you can’t invert a binary tree on a whiteboard so fuck off. 思路: 难住了Homebrew作者的题目😂 代码: 123456789101112131415161718192021222324252627/** * Definition for a binary tree node. * public class TreeNode &#123; * int val; * TreeNode left; * TreeNode right; * TreeNode() &#123;&#125; * TreeNode(int val) &#123; this.val = val; &#125; * TreeNode(int val, TreeNode left, TreeNode right) &#123; * this.val = val; * this.left = left; * this.right = right; * &#125; * &#125; */class Solution &#123; public TreeNode invertTree(TreeNode root) &#123; if (root == null)&#123; return root; &#125; TreeNode temp = root.right; root.right = invertTree(root.left); root.left = invertTree(temp); return root; &#125;&#125;]]></content>
+      <tags>
+        <tag>LeetCode</tag>
+        <tag>Tree</tag>
+        <tag>Easy</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[LeetCode-222]]></title>
+    <url>%2F2020%2F05%2F28%2FLeetCode-222%2F</url>
+    <content type="text"><![CDATA[Level: Medium Given a complete binary tree, count the number of nodes. Note: Definition of a complete binary tree from Wikipedia:In a complete binary tree every level, except possibly the last, is completely filled, and all nodes in the last level are as far left as possible. It can have between 1 and 2h nodes inclusive at the last level h. Example: 12345678Input: 1 / \ 2 3 / \ /4 5 6Output: 6 思路: ​ 遍历，然后用一个temp装临时的数据实现交换。 代码: 12]]></content>
+      <tags>
+        <tag>LeetCode</tag>
+        <tag>Tree</tag>
+        <tag>Medium</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[HK Fighting]]></title>
     <url>%2F2020%2F05%2F28%2FHK%20Fighting%2F</url>
     <content type="text"><![CDATA[2020-1997=50]]></content>
