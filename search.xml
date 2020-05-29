@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[LeetCode-230]]></title>
+    <url>%2F2020%2F05%2F29%2FLeetCode-230%2F</url>
+    <content type="text"><![CDATA[Level: Medium Given a binary search tree, write a function kthSmallest to find the kth smallest element in it. Example 1: 1234567Input: root = [3,1,4,null,2], k = 1 3 / \ 1 4 \ 2Output: 1 Example 2: 123456789Input: root = [5,3,6,2,4,null,null,1], k = 3 5 / \ 3 6 / \ 2 4 / 1Output: 3 Follow up:What if the BST is modified (insert/delete operations) often and you need to find the kth smallest frequently? How would you optimize the kthSmallest routine? Constraints: The number of elements of the BST is between 1 to 10^4. You may assume k is always valid, 1 ≤ k ≤ BST&#39;s total elements. 思路: ​ 不明白题意，是求深度吗。 代码: 12345678910111213141516171819202122232425262728293031323334/** * Definition for a binary tree node. * public class TreeNode &#123; * int val; * TreeNode left; * TreeNode right; * TreeNode() &#123;&#125; * TreeNode(int val) &#123; this.val = val; &#125; * TreeNode(int val, TreeNode left, TreeNode right) &#123; * this.val = val; * this.left = left; * this.right = right; * &#125; * &#125; */class Solution &#123; public int kthSmallest(TreeNode root, int k) &#123; Stack&lt;TreeNode&gt; stack = new Stack&lt;TreeNode&gt;(); TreeNode p = root; int count = 0; while(!stack.isEmpty() || p != null) &#123; if(p != null) &#123; stack.push(p); // Just like recursion p = p.left; &#125; else &#123; TreeNode node = stack.pop(); if(++count == k) return node.val; p = node.right; &#125; &#125; return Integer.MIN_VALUE; &#125;&#125;]]></content>
+      <tags>
+        <tag>LeetCode</tag>
+        <tag>Tree</tag>
+        <tag>Medium</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[LeetCode-226]]></title>
     <url>%2F2020%2F05%2F28%2FLeetCode-226%2F</url>
     <content type="text"><![CDATA[Level: Easy Invert a binary tree. Example: Input: 12345 4 / \ 2 7 / \ / \1 3 6 9 Output: 12345 4 / \ 7 2 / \ / \9 6 3 1 Trivia:This problem was inspired by this original tweet by Max Howell: Google: 90% of our engineers use the software you wrote (Homebrew), but you can’t invert a binary tree on a whiteboard so fuck off. 思路: 难住了Homebrew作者的题目😂 代码: 123456789101112131415161718192021222324252627/** * Definition for a binary tree node. * public class TreeNode &#123; * int val; * TreeNode left; * TreeNode right; * TreeNode() &#123;&#125; * TreeNode(int val) &#123; this.val = val; &#125; * TreeNode(int val, TreeNode left, TreeNode right) &#123; * this.val = val; * this.left = left; * this.right = right; * &#125; * &#125; */class Solution &#123; public TreeNode invertTree(TreeNode root) &#123; if (root == null)&#123; return root; &#125; TreeNode temp = root.right; root.right = invertTree(root.left); root.left = invertTree(temp); return root; &#125;&#125;]]></content>
@@ -13,7 +23,7 @@
   <entry>
     <title><![CDATA[LeetCode-222]]></title>
     <url>%2F2020%2F05%2F28%2FLeetCode-222%2F</url>
-    <content type="text"><![CDATA[Level: Medium Given a complete binary tree, count the number of nodes. Note: Definition of a complete binary tree from Wikipedia:In a complete binary tree every level, except possibly the last, is completely filled, and all nodes in the last level are as far left as possible. It can have between 1 and 2h nodes inclusive at the last level h. Example: 12345678Input: 1 / \ 2 3 / \ /4 5 6Output: 6 思路: ​ 遍历，然后用一个temp装临时的数据实现交换。 代码: 12]]></content>
+    <content type="text"><![CDATA[Level: Medium Given a complete binary tree, count the number of nodes. Note: Definition of a complete binary tree from Wikipedia:In a complete binary tree every level, except possibly the last, is completely filled, and all nodes in the last level are as far left as possible. It can have between 1 and 2h nodes inclusive at the last level h. Example: 12345678Input: 1 / \ 2 3 / \ /4 5 6Output: 6 思路: ​ 遍历，然后用一个temp装临时的数据实现交换。 代码: 123456789101112131415161718192021222324252627/** * Definition for a binary tree node. * public class TreeNode &#123; * int val; * TreeNode left; * TreeNode right; * TreeNode() &#123;&#125; * TreeNode(int val) &#123; this.val = val; &#125; * TreeNode(int val, TreeNode left, TreeNode right) &#123; * this.val = val; * this.left = left; * this.right = right; * &#125; * &#125; */class Solution &#123; public TreeNode invertTree(TreeNode root) &#123; if (root == null)&#123; return root; &#125; TreeNode temp = root.right; root.right = invertTree(root.left); root.left = invertTree(temp); return root; &#125;&#125;]]></content>
       <tags>
         <tag>LeetCode</tag>
         <tag>Tree</tag>
