@@ -20,20 +20,22 @@
     var CONFIG = {"hostname":"blog.hwfand.me","root":"/","scheme":"Muse","version":"7.7.2","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":false,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
   </script>
 
-  <meta name="description" content="Level: Medium Given an integer n, generate all structurally unique BST’s (binary search trees) that store values 1 … n. Example: 1234567891011121314151617Input: 3Output:[  [1,null,3,2],  [3,2,null,1],">
-<meta name="keywords" content="LeetCode,Tree,Medium">
+  <meta name="description" content="Level: Easy Given a binary search tree (BST), find the lowest common ancestor (LCA) of two given nodes in the BST. According to the definition of LCA on Wikipedia: “The lowest common ancestor is defin">
+<meta name="keywords" content="LeetCode,Tree,Easy">
 <meta property="og:type" content="article">
-<meta property="og:title" content="LeetCode-95 Unique Binary Search Trees II">
-<meta property="og:url" content="https://blog.hwfand.me/2020/04/12/LeetCode-95/index.html">
+<meta property="og:title" content="LeetCode-235">
+<meta property="og:url" content="https://blog.hwfand.me/2020/06/04/LeetCode-235/index.html">
 <meta property="og:site_name" content="只有我">
-<meta property="og:description" content="Level: Medium Given an integer n, generate all structurally unique BST’s (binary search trees) that store values 1 … n. Example: 1234567891011121314151617Input: 3Output:[  [1,null,3,2],  [3,2,null,1],">
+<meta property="og:description" content="Level: Easy Given a binary search tree (BST), find the lowest common ancestor (LCA) of two given nodes in the BST. According to the definition of LCA on Wikipedia: “The lowest common ancestor is defin">
 <meta property="og:locale" content="_en">
-<meta property="og:updated_time" content="2020-04-12T11:50:23.609Z">
+<meta property="og:image" content="https://assets.leetcode.com/uploads/2018/12/14/binarysearchtree_improved.png">
+<meta property="og:updated_time" content="2020-06-04T07:24:00.946Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="LeetCode-95 Unique Binary Search Trees II">
-<meta name="twitter:description" content="Level: Medium Given an integer n, generate all structurally unique BST’s (binary search trees) that store values 1 … n. Example: 1234567891011121314151617Input: 3Output:[  [1,null,3,2],  [3,2,null,1],">
+<meta name="twitter:title" content="LeetCode-235">
+<meta name="twitter:description" content="Level: Easy Given a binary search tree (BST), find the lowest common ancestor (LCA) of two given nodes in the BST. According to the definition of LCA on Wikipedia: “The lowest common ancestor is defin">
+<meta name="twitter:image" content="https://assets.leetcode.com/uploads/2018/12/14/binarysearchtree_improved.png">
 
-<link rel="canonical" href="https://blog.hwfand.me/2020/04/12/LeetCode-95/">
+<link rel="canonical" href="https://blog.hwfand.me/2020/06/04/LeetCode-235/">
 
 
 <script id="page-configurations">
@@ -45,7 +47,7 @@
   };
 </script>
 
-  <title>LeetCode-95 Unique Binary Search Trees II | 只有我</title>
+  <title>LeetCode-235 | 只有我</title>
   
 
 
@@ -174,7 +176,7 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block " lang="_en">
-    <link itemprop="mainEntityOfPage" href="https://blog.hwfand.me/2020/04/12/LeetCode-95/">
+    <link itemprop="mainEntityOfPage" href="https://blog.hwfand.me/2020/06/04/LeetCode-235/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.gif">
@@ -187,7 +189,7 @@
     </span>
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">
-          LeetCode-95 Unique Binary Search Trees II
+          LeetCode-235
         </h1>
 
         <div class="post-meta">
@@ -198,7 +200,7 @@
               <span class="post-meta-item-text">Posted on</span>
               
 
-              <time title="Created: 2020-04-12 19:50:04 / Modified: 19:50:23" itemprop="dateCreated datePublished" datetime="2020-04-12T19:50:04+08:00">2020-04-12</time>
+              <time title="Created: 2020-06-04 15:20:10 / Modified: 15:24:00" itemprop="dateCreated datePublished" datetime="2020-06-04T15:20:10+08:00">2020-06-04</time>
             </span>
 
           <br>
@@ -207,7 +209,7 @@
                 <i class="fa fa-file-word-o"></i>
               </span>
                 <span class="post-meta-item-text">Symbols count in article: </span>
-              <span>492</span>
+              <span>1.6k</span>
             </span>
             <span class="post-meta-item" title="Reading time">
               <span class="post-meta-item-icon">
@@ -226,14 +228,31 @@
     <div class="post-body" itemprop="articleBody">
 
       
-        <p>Level: Medium</p>
-<p>Given an integer <em>n</em>, generate all structurally unique <strong>BST’s</strong> (binary search trees) that store values 1 … <em>n</em>.</p>
-<p><strong>Example:</strong></p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">Input: 3</span><br><span class="line">Output:</span><br><span class="line">[</span><br><span class="line">  [1,null,3,2],</span><br><span class="line">  [3,2,null,1],</span><br><span class="line">  [3,1,null,null,2],</span><br><span class="line">  [2,1,3],</span><br><span class="line">  [1,null,2,null,3]</span><br><span class="line">]</span><br><span class="line">Explanation:</span><br><span class="line">The above output corresponds to the 5 unique BST&apos;s shown below:</span><br><span class="line"></span><br><span class="line">   1         3     3      2      1</span><br><span class="line">    \       /     /      / \      \</span><br><span class="line">     3     2     1      1   3      2</span><br><span class="line">    /     /       \                 \</span><br><span class="line">   2     1         2                 3</span><br></pre></td></tr></table></figure>
+        <p>Level: Easy</p>
+<p>Given a binary search tree (BST), find the lowest common ancestor (LCA) of two given nodes in the BST.</p>
+<p>According to the <a href="https://en.wikipedia.org/wiki/Lowest_common_ancestor" target="_blank" rel="noopener">definition of LCA on Wikipedia</a>: “The lowest common ancestor is defined between two nodes p and q as the lowest node in T that has both p and q as descendants (where we allow <strong>a node to be a descendant of itself</strong>).”</p>
+<p>Given binary search tree: root = [6,2,8,0,4,7,9,null,null,3,5]</p>
+<p><img src="https://assets.leetcode.com/uploads/2018/12/14/binarysearchtree_improved.png" alt="img"></p>
+<p><strong>Example 1:</strong></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">Input: root = [6,2,8,0,4,7,9,null,null,3,5], p = 2, q = 8</span><br><span class="line">Output: 6</span><br><span class="line">Explanation: The LCA of nodes 2 and 8 is 6.</span><br></pre></td></tr></table></figure>
 
+<p><strong>Example 2:</strong></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">Input: root = [6,2,8,0,4,7,9,null,null,3,5], p = 2, q = 4</span><br><span class="line">Output: 2</span><br><span class="line">Explanation: The LCA of nodes 2 and 4 is 2, since a node can be a descendant of itself according to the LCA definition.</span><br></pre></td></tr></table></figure>
+
+
+
+<p><strong>Note:</strong></p>
+<ul>
+<li>All of the nodes’ values will be unique.</li>
+<li>p and q are different and both values will exist in the BST.</li>
+</ul>
 <a id="more"></a>
 
-<p>暂空</p>
+<p>思路:</p>
+<p>​        这题也没见过，虽然难度是Easy，感觉得学会记住。</p>
+<p>代码:</p>
+<figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">/**</span></span><br><span class="line"><span class="comment"> * Definition for a binary tree node.</span></span><br><span class="line"><span class="comment"> * public class TreeNode &#123;</span></span><br><span class="line"><span class="comment"> *     int val;</span></span><br><span class="line"><span class="comment"> *     TreeNode left;</span></span><br><span class="line"><span class="comment"> *     TreeNode right;</span></span><br><span class="line"><span class="comment"> *     TreeNode(int x) &#123; val = x; &#125;</span></span><br><span class="line"><span class="comment"> * &#125;</span></span><br><span class="line"><span class="comment"> */</span></span><br><span class="line"></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> </span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> TreeNode <span class="title">lowestCommonAncestor</span><span class="params">(TreeNode root, TreeNode p, TreeNode q)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">if</span>(root.val &gt; p.val &amp;&amp; root.val &gt; q.val)&#123;</span><br><span class="line">            <span class="keyword">return</span> lowestCommonAncestor(root.left, p, q);</span><br><span class="line">        &#125;<span class="keyword">else</span> <span class="keyword">if</span>(root.val &lt; p.val &amp;&amp; root.val &lt; q.val)&#123;</span><br><span class="line">            <span class="keyword">return</span> lowestCommonAncestor(root.right, p, q);</span><br><span class="line">        &#125;<span class="keyword">else</span>&#123;</span><br><span class="line">            <span class="keyword">return</span> root;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">链接：https:<span class="comment">//leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/discuss/64954/My-Java-Solution</span></span><br><span class="line">作者：jingzhetian</span><br></pre></td></tr></table></figure>
+
 
     </div>
 
@@ -245,7 +264,7 @@
           <div class="post-tags">
               <a href="/tags/LeetCode/" rel="tag"># LeetCode</a>
               <a href="/tags/Tree/" rel="tag"># Tree</a>
-              <a href="/tags/Medium/" rel="tag"># Medium</a>
+              <a href="/tags/Easy/" rel="tag"># Easy</a>
           </div>
 
         
@@ -254,13 +273,10 @@
         
     <div class="post-nav">
       <div class="post-nav-item">
-    <a href="/2020/04/12/LeetCode-94/" rel="prev" title="LeetCode-94 Binary Tree Inorder Traversal">
-      <i class="fa fa-chevron-left"></i> LeetCode-94 Binary Tree Inorder Traversal
+    <a href="/2020/06/04/特别的日子/" rel="prev" title="特别的日子">
+      <i class="fa fa-chevron-left"></i> 特别的日子
     </a></div>
-      <div class="post-nav-item">
-    <a href="/2020/04/12/LeetCode-96/" rel="next" title="LeetCode-96 Unique Binary Search Trees">
-      LeetCode-96 Unique Binary Search Trees <i class="fa fa-chevron-right"></i>
-    </a></div>
+      <div class="post-nav-item"></div>
     </div>
       </footer>
     

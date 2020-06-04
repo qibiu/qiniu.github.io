@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[LeetCode-235]]></title>
+    <url>%2F2020%2F06%2F04%2FLeetCode-235%2F</url>
+    <content type="text"><![CDATA[Level: Easy Given a binary search tree (BST), find the lowest common ancestor (LCA) of two given nodes in the BST. According to the definition of LCA on Wikipedia: “The lowest common ancestor is defined between two nodes p and q as the lowest node in T that has both p and q as descendants (where we allow a node to be a descendant of itself).” Given binary search tree: root = [6,2,8,0,4,7,9,null,null,3,5] Example 1: 123Input: root = [6,2,8,0,4,7,9,null,null,3,5], p = 2, q = 8Output: 6Explanation: The LCA of nodes 2 and 8 is 6. Example 2: 123Input: root = [6,2,8,0,4,7,9,null,null,3,5], p = 2, q = 4Output: 2Explanation: The LCA of nodes 2 and 4 is 2, since a node can be a descendant of itself according to the LCA definition. Note: All of the nodes’ values will be unique. p and q are different and both values will exist in the BST. 思路: ​ 这题也没见过，虽然难度是Easy，感觉得学会记住。 代码: 123456789101112131415161718192021222324/** * Definition for a binary tree node. * public class TreeNode &#123; * int val; * TreeNode left; * TreeNode right; * TreeNode(int x) &#123; val = x; &#125; * &#125; */class Solution &#123; public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) &#123; if(root.val &gt; p.val &amp;&amp; root.val &gt; q.val)&#123; return lowestCommonAncestor(root.left, p, q); &#125;else if(root.val &lt; p.val &amp;&amp; root.val &lt; q.val)&#123; return lowestCommonAncestor(root.right, p, q); &#125;else&#123; return root; &#125; &#125;&#125;链接：https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/discuss/64954/My-Java-Solution作者：jingzhetian]]></content>
+      <tags>
+        <tag>LeetCode</tag>
+        <tag>Tree</tag>
+        <tag>Easy</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[特别的日子]]></title>
     <url>%2F2020%2F06%2F04%2F%E7%89%B9%E5%88%AB%E7%9A%84%E6%97%A5%E5%AD%90%2F</url>
     <content type="text"><![CDATA[31周年了吧。 学好英语，争取早日跑路。]]></content>
