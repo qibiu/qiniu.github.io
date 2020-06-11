@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[打雷了]]></title>
+    <url>%2F2020%2F06%2F11%2F%E6%89%93%E9%9B%B7%E4%BA%86%2F</url>
+    <content type="text"><![CDATA[和张程程认识的第3天 借着打雷和佐佐木希尬聊了会，今天也是充满希望的一天呢。]]></content>
+      <tags>
+        <tag>邂逅</tag>
+        <tag>张程程</tag>
+        <tag>追求</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[孩子名字已经想好了]]></title>
+    <url>%2F2020%2F06%2F10%2F%E5%AD%A9%E5%AD%90%E5%90%8D%E5%AD%97%E5%B7%B2%E7%BB%8F%E6%83%B3%E5%A5%BD%E4%BA%86%2F</url>
+    <content type="text"><![CDATA[和张程程认识的第2天 今天聊了很多，很开心（自认为 以至于我连未来孩子的名字都已经想好了（认真脸 我姓彭她姓张，所以以后孩子就叫彭张吧，意思是孩子他爹认识了孩子他妈之后很膨胀。 我膨胀了。（偷笑]]></content>
+      <tags>
+        <tag>邂逅</tag>
+        <tag>张程程</tag>
+        <tag>认真</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[你好呀，张程程]]></title>
+    <url>%2F2020%2F06%2F09%2F%E4%BD%A0%E5%A5%BD%E5%91%80%EF%BC%8C%E5%BC%A0%E7%A8%8B%E7%A8%8B%2F</url>
+    <content type="text"><![CDATA[和张程程认识的第1天 BGM start. 第一天你存在 第一次呼吸痛快 BGM end. 还好没有怂，勇敢的搭讪了。 也还好张程程同学比较善良，没有拒绝我。 我们的遇见很美好，也希望结局同样美好。 我会努力的。]]></content>
+      <tags>
+        <tag>邂逅</tag>
+        <tag>遇见</tag>
+        <tag>张程程</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[LeetCode-235]]></title>
     <url>%2F2020%2F06%2F04%2FLeetCode-235%2F</url>
     <content type="text"><![CDATA[Level: Easy Given a binary search tree (BST), find the lowest common ancestor (LCA) of two given nodes in the BST. According to the definition of LCA on Wikipedia: “The lowest common ancestor is defined between two nodes p and q as the lowest node in T that has both p and q as descendants (where we allow a node to be a descendant of itself).” Given binary search tree: root = [6,2,8,0,4,7,9,null,null,3,5] Example 1: 123Input: root = [6,2,8,0,4,7,9,null,null,3,5], p = 2, q = 8Output: 6Explanation: The LCA of nodes 2 and 8 is 6. Example 2: 123Input: root = [6,2,8,0,4,7,9,null,null,3,5], p = 2, q = 4Output: 2Explanation: The LCA of nodes 2 and 4 is 2, since a node can be a descendant of itself according to the LCA definition. Note: All of the nodes’ values will be unique. p and q are different and both values will exist in the BST. 思路: ​ 这题也没见过，虽然难度是Easy，感觉得学会记住。 代码: 123456789101112131415161718192021222324/** * Definition for a binary tree node. * public class TreeNode &#123; * int val; * TreeNode left; * TreeNode right; * TreeNode(int x) &#123; val = x; &#125; * &#125; */class Solution &#123; public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) &#123; if(root.val &gt; p.val &amp;&amp; root.val &gt; q.val)&#123; return lowestCommonAncestor(root.left, p, q); &#125;else if(root.val &lt; p.val &amp;&amp; root.val &lt; q.val)&#123; return lowestCommonAncestor(root.right, p, q); &#125;else&#123; return root; &#125; &#125;&#125;链接：https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/discuss/64954/My-Java-Solution作者：jingzhetian]]></content>
