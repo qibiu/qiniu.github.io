@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.pengzhang.life/"/>
-  <updated>2020-06-11T08:19:43.915Z</updated>
+  <updated>2020-06-12T07:49:10.631Z</updated>
   <id>https://blog.pengzhang.life/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>程程の社畜生活</title>
+    <link href="https://blog.pengzhang.life/2020/06/12/%E7%A8%8B%E7%A8%8B%E3%81%AE%E7%A4%BE%E7%95%9C%E7%94%9F%E6%B4%BB/"/>
+    <id>https://blog.pengzhang.life/2020/06/12/程程の社畜生活/</id>
+    <published>2020-06-12T07:25:21.000Z</published>
+    <updated>2020-06-12T07:49:10.631Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+      <category term="程程" scheme="https://blog.pengzhang.life/tags/%E7%A8%8B%E7%A8%8B/"/>
+    
+      <category term="社畜" scheme="https://blog.pengzhang.life/tags/%E7%A4%BE%E7%95%9C/"/>
+    
+      <category term="纪念" scheme="https://blog.pengzhang.life/tags/%E7%BA%AA%E5%BF%B5/"/>
+    
+  </entry>
   
   <entry>
     <title>打雷了</title>
@@ -475,25 +500,6 @@
       <category term="跑步" scheme="https://blog.pengzhang.life/tags/%E8%B7%91%E6%AD%A5/"/>
     
       <category term="随笔" scheme="https://blog.pengzhang.life/tags/%E9%9A%8F%E7%AC%94/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>今日事</title>
-    <link href="https://blog.pengzhang.life/2020/05/12/%E4%BB%8A%E6%97%A5%E4%BA%8B/"/>
-    <id>https://blog.pengzhang.life/2020/05/12/今日事/</id>
-    <published>2020-05-12T06:24:34.000Z</published>
-    <updated>2020-05-12T06:49:29.807Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
     
   </entry>
   
