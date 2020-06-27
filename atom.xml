@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.pengzhang.life/"/>
-  <updated>2020-06-24T14:16:56.524Z</updated>
+  <updated>2020-06-27T14:10:48.279Z</updated>
   <id>https://blog.pengzhang.life/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>累并快乐</title>
+    <link href="https://blog.pengzhang.life/2020/06/27/%E7%B4%AF%E5%B9%B6%E5%BF%AB%E4%B9%90/"/>
+    <id>https://blog.pengzhang.life/2020/06/27/累并快乐/</id>
+    <published>2020-06-27T14:08:49.000Z</published>
+    <updated>2020-06-27T14:10:48.279Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+      <category term="日常" scheme="https://blog.pengzhang.life/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+      <category term="张程程" scheme="https://blog.pengzhang.life/tags/%E5%BC%A0%E7%A8%8B%E7%A8%8B/"/>
+    
+      <category term="复杂" scheme="https://blog.pengzhang.life/tags/%E5%A4%8D%E6%9D%82/"/>
+    
+  </entry>
   
   <entry>
     <title>出门散心</title>
@@ -510,40 +535,6 @@
       <category term="Tree" scheme="https://blog.pengzhang.life/tags/Tree/"/>
     
       <category term="Medium" scheme="https://blog.pengzhang.life/tags/Medium/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>LeetCode-226</title>
-    <link href="https://blog.pengzhang.life/2020/05/28/LeetCode-226/"/>
-    <id>https://blog.pengzhang.life/2020/05/28/LeetCode-226/</id>
-    <published>2020-05-28T07:10:22.000Z</published>
-    <updated>2020-05-28T07:36:44.816Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Level: Easy&lt;/p&gt;
-&lt;p&gt;Invert a binary tree.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Input:&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;     4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   /   \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  2     7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; / \   / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;1   3 6   9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;Output:&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;     4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   /   \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  7     2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; / \   / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9   6 3   1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;Trivia:&lt;/strong&gt;&lt;br&gt;This problem was inspired by &lt;a href=&quot;https://twitter.com/mxcl/status/608682016205344768&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;this original tweet&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/mxcl&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Max Howell&lt;/a&gt;:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Google: 90% of our engineers use the software you wrote (Homebrew), but you can’t invert a binary tree on a whiteboard so fuck off.&lt;/p&gt;
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-    
-      <category term="LeetCode" scheme="https://blog.pengzhang.life/tags/LeetCode/"/>
-    
-      <category term="Tree" scheme="https://blog.pengzhang.life/tags/Tree/"/>
-    
-      <category term="Easy" scheme="https://blog.pengzhang.life/tags/Easy/"/>
     
   </entry>
   
