@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.pengzhang.life/"/>
-  <updated>2020-07-01T13:58:33.448Z</updated>
+  <updated>2020-07-02T13:23:53.531Z</updated>
   <id>https://blog.pengzhang.life/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>今天上线</title>
+    <link href="https://blog.pengzhang.life/2020/07/02/%E4%BB%8A%E5%A4%A9%E4%B8%8A%E7%BA%BF/"/>
+    <id>https://blog.pengzhang.life/2020/07/02/今天上线/</id>
+    <published>2020-07-02T13:21:32.000Z</published>
+    <updated>2020-07-02T13:23:53.531Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+      <category term="日常" scheme="https://blog.pengzhang.life/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+      <category term="张程程" scheme="https://blog.pengzhang.life/tags/%E5%BC%A0%E7%A8%8B%E7%A8%8B/"/>
+    
+      <category term="不开心" scheme="https://blog.pengzhang.life/tags/%E4%B8%8D%E5%BC%80%E5%BF%83/"/>
+    
+  </entry>
   
   <entry>
     <title>7月不舔</title>
@@ -492,31 +517,6 @@
       <category term="邂逅" scheme="https://blog.pengzhang.life/tags/%E9%82%82%E9%80%85/"/>
     
       <category term="追求" scheme="https://blog.pengzhang.life/tags/%E8%BF%BD%E6%B1%82/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>孩子名字已经想好了</title>
-    <link href="https://blog.pengzhang.life/2020/06/10/%E5%AD%A9%E5%AD%90%E5%90%8D%E5%AD%97%E5%B7%B2%E7%BB%8F%E6%83%B3%E5%A5%BD%E4%BA%86/"/>
-    <id>https://blog.pengzhang.life/2020/06/10/孩子名字已经想好了/</id>
-    <published>2020-06-10T07:25:03.000Z</published>
-    <updated>2020-06-11T07:29:13.165Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-      <category term="张程程" scheme="https://blog.pengzhang.life/tags/%E5%BC%A0%E7%A8%8B%E7%A8%8B/"/>
-    
-      <category term="邂逅" scheme="https://blog.pengzhang.life/tags/%E9%82%82%E9%80%85/"/>
-    
-      <category term="认真" scheme="https://blog.pengzhang.life/tags/%E8%AE%A4%E7%9C%9F/"/>
     
   </entry>
   
