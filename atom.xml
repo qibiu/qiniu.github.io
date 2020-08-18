@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>厉害阳</title>
+  <title>七七，我好想你</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://blog.lihaiyang.me/"/>
-  <updated>2020-08-18T10:39:43.150Z</updated>
-  <id>https://blog.lihaiyang.me/</id>
+  <link href="https://blog.qibiu.com/"/>
+  <updated>2020-08-18T15:47:55.787Z</updated>
+  <id>https://blog.qibiu.com/</id>
   
   <author>
     <name>Edison</name>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>突然心好累</title>
-    <link href="https://blog.lihaiyang.me/2020/08/18/%E7%AA%81%E7%84%B6%E5%BF%83%E5%A5%BD%E7%B4%AF/"/>
-    <id>https://blog.lihaiyang.me/2020/08/18/突然心好累/</id>
-    <published>2020-08-18T10:39:12.000Z</published>
-    <updated>2020-08-18T10:39:43.150Z</updated>
+    <title>宝宝，我好想你</title>
+    <link href="https://blog.qibiu.com/2020/08/18/%E5%AE%9D%E5%AE%9D%EF%BC%8C%E6%88%91%E5%A5%BD%E6%83%B3%E4%BD%A0/"/>
+    <id>https://blog.qibiu.com/2020/08/18/宝宝，我好想你/</id>
+    <published>2020-08-18T15:47:08.000Z</published>
+    <updated>2020-08-18T15:47:55.787Z</updated>
     
     <summary type="html">
     
@@ -33,377 +33,16 @@
     </summary>
     
     
-  </entry>
-  
-  <entry>
-    <title>酒吧行预告</title>
-    <link href="https://blog.lihaiyang.me/2020/08/17/%E9%85%92%E5%90%A7%E8%A1%8C%E9%A2%84%E5%91%8A/"/>
-    <id>https://blog.lihaiyang.me/2020/08/17/酒吧行预告/</id>
-    <published>2020-08-17T13:35:24.000Z</published>
-    <updated>2020-08-17T13:45:22.455Z</updated>
+      <category term="七七" scheme="https://blog.qibiu.com/tags/%E4%B8%83%E4%B8%83/"/>
     
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-      <category term="日常" scheme="https://blog.lihaiyang.me/tags/%E6%97%A5%E5%B8%B8/"/>
-    
-      <category term="厉害阳" scheme="https://blog.lihaiyang.me/tags/%E5%8E%89%E5%AE%B3%E9%98%B3/"/>
-    
-      <category term="复杂" scheme="https://blog.lihaiyang.me/tags/%E5%A4%8D%E6%9D%82/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>真不错</title>
-    <link href="https://blog.lihaiyang.me/2020/08/17/%E7%9C%9F%E4%B8%8D%E9%94%99/"/>
-    <id>https://blog.lihaiyang.me/2020/08/17/真不错/</id>
-    <published>2020-08-17T10:22:55.000Z</published>
-    <updated>2020-08-17T13:35:09.693Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-      <category term="日常" scheme="https://blog.lihaiyang.me/tags/%E6%97%A5%E5%B8%B8/"/>
-    
-      <category term="厉害阳" scheme="https://blog.lihaiyang.me/tags/%E5%8E%89%E5%AE%B3%E9%98%B3/"/>
-    
-      <category term="复杂" scheme="https://blog.lihaiyang.me/tags/%E5%A4%8D%E6%9D%82/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>继续追求美阳阳</title>
-    <link href="https://blog.lihaiyang.me/2020/08/16/%E7%BB%A7%E7%BB%AD%E8%BF%BD%E6%B1%82%E7%BE%8E%E9%98%B3%E9%98%B3/"/>
-    <id>https://blog.lihaiyang.me/2020/08/16/继续追求美阳阳/</id>
-    <published>2020-08-16T14:41:26.000Z</published>
-    <updated>2020-08-17T10:23:37.164Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-      <category term="日常" scheme="https://blog.lihaiyang.me/tags/%E6%97%A5%E5%B8%B8/"/>
-    
-      <category term="厉害阳" scheme="https://blog.lihaiyang.me/tags/%E5%8E%89%E5%AE%B3%E9%98%B3/"/>
-    
-      <category term="flag" scheme="https://blog.lihaiyang.me/tags/flag/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>北高峰记</title>
-    <link href="https://blog.lihaiyang.me/2020/08/16/%E5%8C%97%E9%AB%98%E5%B3%B0%E8%AE%B0/"/>
-    <id>https://blog.lihaiyang.me/2020/08/16/北高峰记/</id>
-    <published>2020-08-16T14:32:38.000Z</published>
-    <updated>2020-08-16T14:54:26.982Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-      <category term="日常" scheme="https://blog.lihaiyang.me/tags/%E6%97%A5%E5%B8%B8/"/>
-    
-      <category term="厉害阳" scheme="https://blog.lihaiyang.me/tags/%E5%8E%89%E5%AE%B3%E9%98%B3/"/>
-    
-      <category term="复杂" scheme="https://blog.lihaiyang.me/tags/%E5%A4%8D%E6%9D%82/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>比上不足比下有余</title>
-    <link href="https://blog.lihaiyang.me/2020/08/15/%E6%AF%94%E4%B8%8A%E4%B8%8D%E8%B6%B3%E6%AF%94%E4%B8%8B%E6%9C%89%E4%BD%99/"/>
-    <id>https://blog.lihaiyang.me/2020/08/15/比上不足比下有余/</id>
-    <published>2020-08-15T03:46:13.000Z</published>
-    <updated>2020-08-15T04:10:29.728Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-      <category term="日常" scheme="https://blog.lihaiyang.me/tags/%E6%97%A5%E5%B8%B8/"/>
-    
-      <category term="工资" scheme="https://blog.lihaiyang.me/tags/%E5%B7%A5%E8%B5%84/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>还是做好自己吧</title>
-    <link href="https://blog.lihaiyang.me/2020/08/14/%E8%BF%98%E6%98%AF%E5%81%9A%E5%A5%BD%E8%87%AA%E5%B7%B1%E5%90%A7/"/>
-    <id>https://blog.lihaiyang.me/2020/08/14/还是做好自己吧/</id>
-    <published>2020-08-14T15:09:21.000Z</published>
-    <updated>2020-08-14T15:12:34.982Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-      <category term="日常" scheme="https://blog.lihaiyang.me/tags/%E6%97%A5%E5%B8%B8/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>复活了</title>
-    <link href="https://blog.lihaiyang.me/2020/08/13/%E5%A4%8D%E6%B4%BB%E4%BA%86/"/>
-    <id>https://blog.lihaiyang.me/2020/08/13/复活了/</id>
-    <published>2020-08-13T15:02:17.000Z</published>
-    <updated>2020-08-16T14:34:09.348Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-      <category term="日常" scheme="https://blog.lihaiyang.me/tags/%E6%97%A5%E5%B8%B8/"/>
-    
-      <category term="厉害阳" scheme="https://blog.lihaiyang.me/tags/%E5%8E%89%E5%AE%B3%E9%98%B3/"/>
-    
-      <category term="加油" scheme="https://blog.lihaiyang.me/tags/%E5%8A%A0%E6%B2%B9/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>感觉要黑化了</title>
-    <link href="https://blog.lihaiyang.me/2020/08/12/%E6%84%9F%E8%A7%89%E8%A6%81%E9%BB%91%E5%8C%96%E4%BA%86/"/>
-    <id>https://blog.lihaiyang.me/2020/08/12/感觉要黑化了/</id>
-    <published>2020-08-12T11:45:09.000Z</published>
-    <updated>2020-08-14T15:12:55.789Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-      <category term="黑化" scheme="https://blog.lihaiyang.me/tags/%E9%BB%91%E5%8C%96/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>我是傻逼</title>
-    <link href="https://blog.lihaiyang.me/2020/08/10/%E6%88%91%E6%98%AF%E5%82%BB%E9%80%BC/"/>
-    <id>https://blog.lihaiyang.me/2020/08/10/我是傻逼/</id>
-    <published>2020-08-10T12:33:24.000Z</published>
-    <updated>2020-08-10T12:33:24.097Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>哼哼</title>
-    <link href="https://blog.lihaiyang.me/2020/08/09/%E5%93%BC%E5%93%BC/"/>
-    <id>https://blog.lihaiyang.me/2020/08/09/哼哼/</id>
-    <published>2020-08-09T05:32:24.000Z</published>
-    <updated>2020-08-09T05:33:17.465Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-      <category term="日常" scheme="https://blog.lihaiyang.me/tags/%E6%97%A5%E5%B8%B8/"/>
-    
-      <category term="厉害阳" scheme="https://blog.lihaiyang.me/tags/%E5%8E%89%E5%AE%B3%E9%98%B3/"/>
-    
-      <category term="气愤" scheme="https://blog.lihaiyang.me/tags/%E6%B0%94%E6%84%A4/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>今天买了jk</title>
-    <link href="https://blog.lihaiyang.me/2020/08/08/%E4%BB%8A%E5%A4%A9%E4%B9%B0%E4%BA%86jk/"/>
-    <id>https://blog.lihaiyang.me/2020/08/08/今天买了jk/</id>
-    <published>2020-08-08T14:34:31.000Z</published>
-    <updated>2020-08-17T13:43:04.320Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-      <category term="日常" scheme="https://blog.lihaiyang.me/tags/%E6%97%A5%E5%B8%B8/"/>
-    
-      <category term="厉害阳" scheme="https://blog.lihaiyang.me/tags/%E5%8E%89%E5%AE%B3%E9%98%B3/"/>
-    
-      <category term="惆怅" scheme="https://blog.lihaiyang.me/tags/%E6%83%86%E6%80%85/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>矛盾的心情</title>
-    <link href="https://blog.lihaiyang.me/2020/08/07/%E7%9F%9B%E7%9B%BE%E7%9A%84%E5%BF%83%E6%83%85/"/>
-    <id>https://blog.lihaiyang.me/2020/08/07/矛盾的心情/</id>
-    <published>2020-08-07T10:25:48.000Z</published>
-    <updated>2020-08-07T13:32:22.245Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-      <category term="日常" scheme="https://blog.lihaiyang.me/tags/%E6%97%A5%E5%B8%B8/"/>
-    
-      <category term="厉害阳" scheme="https://blog.lihaiyang.me/tags/%E5%8E%89%E5%AE%B3%E9%98%B3/"/>
-    
-      <category term="复杂" scheme="https://blog.lihaiyang.me/tags/%E5%A4%8D%E6%9D%82/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>认识一个月了</title>
-    <link href="https://blog.lihaiyang.me/2020/08/05/%E8%AE%A4%E8%AF%86%E4%B8%80%E4%B8%AA%E6%9C%88%E4%BA%86/"/>
-    <id>https://blog.lihaiyang.me/2020/08/05/认识一个月了/</id>
-    <published>2020-08-05T13:31:31.000Z</published>
-    <updated>2020-08-06T04:57:09.946Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-      <category term="日常" scheme="https://blog.lihaiyang.me/tags/%E6%97%A5%E5%B8%B8/"/>
-    
-      <category term="厉害阳" scheme="https://blog.lihaiyang.me/tags/%E5%8E%89%E5%AE%B3%E9%98%B3/"/>
-    
-      <category term="纪念日" scheme="https://blog.lihaiyang.me/tags/%E7%BA%AA%E5%BF%B5%E6%97%A5/"/>
-    
-      <category term="不开心" scheme="https://blog.lihaiyang.me/tags/%E4%B8%8D%E5%BC%80%E5%BF%83/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>明天就认识一个月了</title>
-    <link href="https://blog.lihaiyang.me/2020/08/04/%E6%98%8E%E5%A4%A9%E5%B0%B1%E8%AE%A4%E8%AF%86%E4%B8%80%E4%B8%AA%E6%9C%88%E4%BA%86/"/>
-    <id>https://blog.lihaiyang.me/2020/08/04/明天就认识一个月了/</id>
-    <published>2020-08-04T04:48:45.000Z</published>
-    <updated>2020-08-07T13:32:26.157Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-      <category term="日常" scheme="https://blog.lihaiyang.me/tags/%E6%97%A5%E5%B8%B8/"/>
-    
-      <category term="厉害阳" scheme="https://blog.lihaiyang.me/tags/%E5%8E%89%E5%AE%B3%E9%98%B3/"/>
-    
-      <category term="开心" scheme="https://blog.lihaiyang.me/tags/%E5%BC%80%E5%BF%83/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>一周纪念日</title>
-    <link href="https://blog.lihaiyang.me/2020/07/12/%E4%B8%80%E5%91%A8%E7%BA%AA%E5%BF%B5%E6%97%A5/"/>
-    <id>https://blog.lihaiyang.me/2020/07/12/一周纪念日/</id>
-    <published>2020-07-12T06:59:29.000Z</published>
-    <updated>2020-08-06T04:46:15.419Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-      <category term="日常" scheme="https://blog.lihaiyang.me/tags/%E6%97%A5%E5%B8%B8/"/>
-    
-      <category term="厉害阳" scheme="https://blog.lihaiyang.me/tags/%E5%8E%89%E5%AE%B3%E9%98%B3/"/>
-    
-      <category term="开心" scheme="https://blog.lihaiyang.me/tags/%E5%BC%80%E5%BF%83/"/>
-    
-      <category term="纪念日" scheme="https://blog.lihaiyang.me/tags/%E7%BA%AA%E5%BF%B5%E6%97%A5/"/>
-    
-      <category term="一周" scheme="https://blog.lihaiyang.me/tags/%E4%B8%80%E5%91%A8/"/>
+      <category term="想你了" scheme="https://blog.qibiu.com/tags/%E6%83%B3%E4%BD%A0%E4%BA%86/"/>
     
   </entry>
   
   <entry>
     <title>出门散心</title>
-    <link href="https://blog.lihaiyang.me/2020/06/24/%E5%87%BA%E9%97%A8%E6%95%A3%E5%BF%83/"/>
-    <id>https://blog.lihaiyang.me/2020/06/24/出门散心/</id>
+    <link href="https://blog.qibiu.com/2020/06/24/%E5%87%BA%E9%97%A8%E6%95%A3%E5%BF%83/"/>
+    <id>https://blog.qibiu.com/2020/06/24/出门散心/</id>
     <published>2020-06-24T14:14:11.000Z</published>
     <updated>2020-08-06T04:42:08.813Z</updated>
     
@@ -417,16 +56,16 @@
     </summary>
     
     
-      <category term="日常" scheme="https://blog.lihaiyang.me/tags/%E6%97%A5%E5%B8%B8/"/>
+      <category term="日常" scheme="https://blog.qibiu.com/tags/%E6%97%A5%E5%B8%B8/"/>
     
-      <category term="不开心" scheme="https://blog.lihaiyang.me/tags/%E4%B8%8D%E5%BC%80%E5%BF%83/"/>
+      <category term="不开心" scheme="https://blog.qibiu.com/tags/%E4%B8%8D%E5%BC%80%E5%BF%83/"/>
     
   </entry>
   
   <entry>
     <title>LeetCode-235</title>
-    <link href="https://blog.lihaiyang.me/2020/06/04/LeetCode-235/"/>
-    <id>https://blog.lihaiyang.me/2020/06/04/LeetCode-235/</id>
+    <link href="https://blog.qibiu.com/2020/06/04/LeetCode-235/"/>
+    <id>https://blog.qibiu.com/2020/06/04/LeetCode-235/</id>
     <published>2020-06-04T07:20:10.000Z</published>
     <updated>2020-06-04T07:24:00.946Z</updated>
     
@@ -454,18 +93,18 @@
     </summary>
     
     
-      <category term="LeetCode" scheme="https://blog.lihaiyang.me/tags/LeetCode/"/>
+      <category term="LeetCode" scheme="https://blog.qibiu.com/tags/LeetCode/"/>
     
-      <category term="Tree" scheme="https://blog.lihaiyang.me/tags/Tree/"/>
+      <category term="Tree" scheme="https://blog.qibiu.com/tags/Tree/"/>
     
-      <category term="Easy" scheme="https://blog.lihaiyang.me/tags/Easy/"/>
+      <category term="Easy" scheme="https://blog.qibiu.com/tags/Easy/"/>
     
   </entry>
   
   <entry>
     <title>LeetCode-230</title>
-    <link href="https://blog.lihaiyang.me/2020/05/29/LeetCode-230/"/>
-    <id>https://blog.lihaiyang.me/2020/05/29/LeetCode-230/</id>
+    <link href="https://blog.qibiu.com/2020/05/29/LeetCode-230/"/>
+    <id>https://blog.qibiu.com/2020/05/29/LeetCode-230/</id>
     <published>2020-05-29T07:25:41.000Z</published>
     <updated>2020-06-03T08:17:54.757Z</updated>
     
@@ -489,18 +128,18 @@
     </summary>
     
     
-      <category term="LeetCode" scheme="https://blog.lihaiyang.me/tags/LeetCode/"/>
+      <category term="LeetCode" scheme="https://blog.qibiu.com/tags/LeetCode/"/>
     
-      <category term="Tree" scheme="https://blog.lihaiyang.me/tags/Tree/"/>
+      <category term="Tree" scheme="https://blog.qibiu.com/tags/Tree/"/>
     
-      <category term="Medium" scheme="https://blog.lihaiyang.me/tags/Medium/"/>
+      <category term="Medium" scheme="https://blog.qibiu.com/tags/Medium/"/>
     
   </entry>
   
   <entry>
     <title>LeetCode-226</title>
-    <link href="https://blog.lihaiyang.me/2020/05/28/LeetCode-226/"/>
-    <id>https://blog.lihaiyang.me/2020/05/28/LeetCode-226/</id>
+    <link href="https://blog.qibiu.com/2020/05/28/LeetCode-226/"/>
+    <id>https://blog.qibiu.com/2020/05/28/LeetCode-226/</id>
     <published>2020-05-28T07:10:22.000Z</published>
     <updated>2020-05-28T07:36:44.816Z</updated>
     
@@ -523,11 +162,330 @@
     </summary>
     
     
-      <category term="LeetCode" scheme="https://blog.lihaiyang.me/tags/LeetCode/"/>
+      <category term="LeetCode" scheme="https://blog.qibiu.com/tags/LeetCode/"/>
     
-      <category term="Tree" scheme="https://blog.lihaiyang.me/tags/Tree/"/>
+      <category term="Tree" scheme="https://blog.qibiu.com/tags/Tree/"/>
     
-      <category term="Easy" scheme="https://blog.lihaiyang.me/tags/Easy/"/>
+      <category term="Easy" scheme="https://blog.qibiu.com/tags/Easy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode-222</title>
+    <link href="https://blog.qibiu.com/2020/05/28/LeetCode-222/"/>
+    <id>https://blog.qibiu.com/2020/05/28/LeetCode-222/</id>
+    <published>2020-05-28T07:05:07.000Z</published>
+    <updated>2020-06-08T01:15:59.393Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Level: Medium&lt;/p&gt;
+&lt;p&gt;Given a &lt;strong&gt;complete&lt;/strong&gt; binary tree, count the number of nodes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Definition of a complete binary tree from &lt;a href=&quot;http://en.wikipedia.org/wiki/Binary_tree#Types_of_binary_trees&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Wikipedia&lt;/a&gt;:&lt;/strong&gt;&lt;br&gt;In a complete binary tree every level, except possibly the last, is completely filled, and all nodes in the last level are as far left as possible. It can have between 1 and 2h nodes inclusive at the last level h.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Input: &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  2   3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; / \  /&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4  5 6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Output: 6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+    
+      <category term="LeetCode" scheme="https://blog.qibiu.com/tags/LeetCode/"/>
+    
+      <category term="Tree" scheme="https://blog.qibiu.com/tags/Tree/"/>
+    
+      <category term="Medium" scheme="https://blog.qibiu.com/tags/Medium/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>倒霉的一天</title>
+    <link href="https://blog.qibiu.com/2020/05/26/%E5%80%92%E9%9C%89%E7%9A%84%E4%B8%80%E5%A4%A9/"/>
+    <id>https://blog.qibiu.com/2020/05/26/倒霉的一天/</id>
+    <published>2020-05-26T00:54:56.000Z</published>
+    <updated>2020-05-26T00:55:44.987Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2020年-第22周周计划</title>
+    <link href="https://blog.qibiu.com/2020/05/25/2020%E5%B9%B4-%E7%AC%AC22%E5%91%A8%E5%91%A8%E8%AE%A1%E5%88%92/"/>
+    <id>https://blog.qibiu.com/2020/05/25/2020年-第22周周计划/</id>
+    <published>2020-05-25T11:10:52.000Z</published>
+    <updated>2020-05-27T13:37:16.871Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;求好运，就看明天拉&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>今天运气不错</title>
+    <link href="https://blog.qibiu.com/2020/05/25/%E4%BB%8A%E5%A4%A9%E8%BF%90%E6%B0%94%E4%B8%8D%E9%94%99/"/>
+    <id>https://blog.qibiu.com/2020/05/25/今天运气不错/</id>
+    <published>2020-05-25T10:42:02.000Z</published>
+    <updated>2020-05-25T10:42:52.266Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>第25个独自度过的520</title>
+    <link href="https://blog.qibiu.com/2020/05/20/%E7%AC%AC25%E4%B8%AA%E7%8B%AC%E8%87%AA%E5%BA%A6%E8%BF%87%E7%9A%84520/"/>
+    <id>https://blog.qibiu.com/2020/05/20/第25个独自度过的520/</id>
+    <published>2020-05-20T14:43:33.000Z</published>
+    <updated>2020-05-20T14:43:50.715Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode-199</title>
+    <link href="https://blog.qibiu.com/2020/05/20/LeetCode-199/"/>
+    <id>https://blog.qibiu.com/2020/05/20/LeetCode-199/</id>
+    <published>2020-05-20T08:47:31.000Z</published>
+    <updated>2020-05-20T10:49:05.683Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Level: Medium&lt;/p&gt;
+&lt;p&gt;Given a binary tree, imagine yourself standing on the &lt;em&gt;right&lt;/em&gt; side of it, return the values of the nodes you can see ordered from top to bottom.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Input: [1,2,3,null,5,null,4]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Output: [1, 3, 4]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Explanation:&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   1            &amp;lt;---&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; /   \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2     3         &amp;lt;---&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; \     \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  5     4       &amp;lt;---&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+    
+      <category term="LeetCode" scheme="https://blog.qibiu.com/tags/LeetCode/"/>
+    
+      <category term="Tree" scheme="https://blog.qibiu.com/tags/Tree/"/>
+    
+      <category term="Medium" scheme="https://blog.qibiu.com/tags/Medium/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode-173</title>
+    <link href="https://blog.qibiu.com/2020/05/20/LeetCode-173/"/>
+    <id>https://blog.qibiu.com/2020/05/20/LeetCode-173/</id>
+    <published>2020-05-20T07:34:32.000Z</published>
+    <updated>2020-05-28T07:36:50.721Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Level: Medium&lt;/p&gt;
+&lt;p&gt;Implement an iterator over a binary search tree (BST). Your iterator will be initialized with the root node of a BST.&lt;/p&gt;
+&lt;p&gt;Calling &lt;code&gt;next()&lt;/code&gt; will return the next smallest number in the BST.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;https://assets.leetcode.com/uploads/2018/12/25/bst-tree.png&quot; alt=&quot;img&quot;&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;BSTIterator iterator = new BSTIterator(root);&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;iterator.next();    // return 3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;iterator.next();    // return 7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;iterator.hasNext(); // return true&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;iterator.next();    // return 9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;iterator.hasNext(); // return true&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;iterator.next();    // return 15&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;iterator.hasNext(); // return true&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;iterator.next();    // return 20&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;iterator.hasNext(); // return false&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;next()&lt;/code&gt; and &lt;code&gt;hasNext()&lt;/code&gt; should run in average O(1) time and uses O(&lt;em&gt;h&lt;/em&gt;) memory, where &lt;em&gt;h&lt;/em&gt; is the height of the tree.&lt;/li&gt;
+&lt;li&gt;You may assume that &lt;code&gt;next()&lt;/code&gt; call will always be valid, that is, there will be at least a next smallest number in the BST when &lt;code&gt;next()&lt;/code&gt; is called.&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+    
+      <category term="LeetCode" scheme="https://blog.qibiu.com/tags/LeetCode/"/>
+    
+      <category term="Tree" scheme="https://blog.qibiu.com/tags/Tree/"/>
+    
+      <category term="Medium" scheme="https://blog.qibiu.com/tags/Medium/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>迷茫</title>
+    <link href="https://blog.qibiu.com/2020/05/20/%E8%BF%B7%E8%8C%AB/"/>
+    <id>https://blog.qibiu.com/2020/05/20/迷茫/</id>
+    <published>2020-05-20T00:54:47.000Z</published>
+    <updated>2020-05-20T00:56:47.131Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2020年-第21周周计划</title>
+    <link href="https://blog.qibiu.com/2020/05/19/2020%E5%B9%B4-%E7%AC%AC21%E5%91%A8%E5%91%A8%E8%AE%A1%E5%88%92/"/>
+    <id>https://blog.qibiu.com/2020/05/19/2020年-第21周周计划/</id>
+    <published>2020-05-19T07:50:07.000Z</published>
+    <updated>2020-05-22T13:47:40.430Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;上周末没背单词，然后昨天背了单词却忘记打卡了，不能懈怠咯。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="周计划" scheme="https://blog.qibiu.com/tags/%E5%91%A8%E8%AE%A1%E5%88%92/"/>
+    
+      <category term="计划" scheme="https://blog.qibiu.com/tags/%E8%AE%A1%E5%88%92/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新路线还不错</title>
+    <link href="https://blog.qibiu.com/2020/05/14/%E6%96%B0%E8%B7%AF%E7%BA%BF%E8%BF%98%E4%B8%8D%E9%94%99/"/>
+    <id>https://blog.qibiu.com/2020/05/14/新路线还不错/</id>
+    <published>2020-05-14T00:36:59.000Z</published>
+    <updated>2020-05-14T00:40:19.599Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+      <category term="新航路" scheme="https://blog.qibiu.com/tags/%E6%96%B0%E8%88%AA%E8%B7%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>女人可真难相处</title>
+    <link href="https://blog.qibiu.com/2020/05/13/%E5%A5%B3%E4%BA%BA%E5%8F%AF%E7%9C%9F%E9%9A%BE%E7%9B%B8%E5%A4%84/"/>
+    <id>https://blog.qibiu.com/2020/05/13/女人可真难相处/</id>
+    <published>2020-05-13T11:19:46.000Z</published>
+    <updated>2020-05-13T11:24:32.694Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>今年也不太顺利呢</title>
+    <link href="https://blog.qibiu.com/2020/05/13/%E4%BB%8A%E5%B9%B4%E4%B9%9F%E4%B8%8D%E5%A4%AA%E9%A1%BA%E5%88%A9%E5%91%A2/"/>
+    <id>https://blog.qibiu.com/2020/05/13/今年也不太顺利呢/</id>
+    <published>2020-05-13T08:39:50.000Z</published>
+    <updated>2020-05-13T08:59:26.358Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+      <category term="难" scheme="https://blog.qibiu.com/tags/%E9%9A%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>想跑步了</title>
+    <link href="https://blog.qibiu.com/2020/05/13/%E6%83%B3%E8%B7%91%E6%AD%A5%E4%BA%86/"/>
+    <id>https://blog.qibiu.com/2020/05/13/想跑步了/</id>
+    <published>2020-05-13T01:27:11.000Z</published>
+    <updated>2020-05-13T05:01:40.090Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;出生第9179天。（惊了，居然都9k多天了）&lt;/p&gt;
+&lt;p&gt;教练，我想跑步了。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="跑步" scheme="https://blog.qibiu.com/tags/%E8%B7%91%E6%AD%A5/"/>
+    
+      <category term="随笔" scheme="https://blog.qibiu.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>感觉并没有npy</title>
+    <link href="https://blog.qibiu.com/2020/05/12/%E6%84%9F%E8%A7%89%E5%B9%B6%E6%B2%A1%E6%9C%89npy/"/>
+    <id>https://blog.qibiu.com/2020/05/12/感觉并没有npy/</id>
+    <published>2020-05-12T00:45:21.000Z</published>
+    <updated>2020-05-12T00:47:57.309Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>有男朋友了</title>
+    <link href="https://blog.qibiu.com/2020/05/11/%E6%9C%89%E7%94%B7%E6%9C%8B%E5%8F%8B%E4%BA%86/"/>
+    <id>https://blog.qibiu.com/2020/05/11/有男朋友了/</id>
+    <published>2020-05-11T00:47:41.000Z</published>
+    <updated>2020-05-11T04:42:52.348Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
     
   </entry>
   
