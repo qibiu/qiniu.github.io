@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.qibiu.com/"/>
-  <updated>2020-08-19T04:48:02.237Z</updated>
+  <updated>2020-08-19T15:35:53.808Z</updated>
   <id>https://blog.qibiu.com/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>消息发不出去</title>
+    <link href="https://blog.qibiu.com/2020/08/20/%E6%B6%88%E6%81%AF%E5%8F%91%E4%B8%8D%E5%87%BA%E5%8E%BB/"/>
+    <id>https://blog.qibiu.com/2020/08/20/消息发不出去/</id>
+    <published>2020-08-20T15:34:01.000Z</published>
+    <updated>2020-08-19T15:35:53.808Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+      <category term="七七" scheme="https://blog.qibiu.com/tags/%E4%B8%83%E4%B8%83/"/>
+    
+      <category term="想念" scheme="https://blog.qibiu.com/tags/%E6%83%B3%E5%BF%B5/"/>
+    
+  </entry>
+  
+  <entry>
     <title>想你</title>
     <link href="https://blog.qibiu.com/2020/08/19/%E6%83%B3%E4%BD%A0/"/>
     <id>https://blog.qibiu.com/2020/08/19/想你/</id>
     <published>2020-08-19T04:41:31.000Z</published>
-    <updated>2020-08-19T04:48:02.237Z</updated>
+    <updated>2020-08-19T15:34:52.005Z</updated>
     
     <summary type="html">
     
@@ -465,26 +488,6 @@
     <summary type="html">
     
       &lt;p&gt;新的一周，希望有新的心情吧，不要再沉浸在郁闷和悲伤里了，还有那么多单词等着呢。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="周计划" scheme="https://blog.qibiu.com/tags/%E5%91%A8%E8%AE%A1%E5%88%92/"/>
-    
-      <category term="计划" scheme="https://blog.qibiu.com/tags/%E8%AE%A1%E5%88%92/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2020年-第19周周计划</title>
-    <link href="https://blog.qibiu.com/2020/05/04/2020%E5%B9%B4-%E7%AC%AC19%E5%91%A8%E5%91%A8%E8%AE%A1%E5%88%92/"/>
-    <id>https://blog.qibiu.com/2020/05/04/2020年-第19周周计划/</id>
-    <published>2020-05-04T10:11:25.000Z</published>
-    <updated>2020-05-11T13:18:03.043Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;学习&lt;/p&gt;
     
     </summary>
     
