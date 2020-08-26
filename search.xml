@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[虽迟但到的牛逼]]></title>
+    <url>%2F2020%2F08%2F27%2F%E8%99%BD%E8%BF%9F%E4%BD%86%E5%88%B0%E7%9A%84%E7%89%9B%E9%80%BC%2F</url>
+    <content type="text"><![CDATA[除了牛逼，无话可说。 2020-08-27 02:08:14]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[终于弄好了]]></title>
     <url>%2F2020%2F08%2F26%2F%E7%BB%88%E4%BA%8E%E5%BC%84%E5%A5%BD%E4%BA%86%2F</url>
     <content type="text"><![CDATA[呼，长呼一口气。 果然还是DNS解析服务器的问题，更改了域名， 最长需要24小时才能生效，得等服务器刷新缓存。 吓我一跳还认为自己配置错了，还好没事。]]></content>
@@ -877,7 +882,7 @@
   </entry>
   <entry>
     <title><![CDATA[唉]]></title>
-    <url>%2F2019%2F01%2F09%2F%E5%94%89%203%2F</url>
+    <url>%2F2019%2F01%2F09%2F%E5%94%89%2F</url>
     <content type="text"><![CDATA[]]></content>
       <categories>
         <category>我独自生活</category>
@@ -888,7 +893,7 @@
   </entry>
   <entry>
     <title><![CDATA[唉]]></title>
-    <url>%2F2019%2F01%2F09%2F%E5%94%89%2F</url>
+    <url>%2F2019%2F01%2F09%2F%E5%94%89%203%2F</url>
     <content type="text"><![CDATA[]]></content>
       <categories>
         <category>我独自生活</category>
