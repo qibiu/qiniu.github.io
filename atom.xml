@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.lihaiyang.me/"/>
-  <updated>2020-08-26T13:06:31.622Z</updated>
+  <updated>2020-08-26T14:46:43.295Z</updated>
   <id>https://blog.lihaiyang.me/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>终于弄好了</title>
+    <link href="https://blog.lihaiyang.me/2020/08/26/%E7%BB%88%E4%BA%8E%E5%BC%84%E5%A5%BD%E4%BA%86/"/>
+    <id>https://blog.lihaiyang.me/2020/08/26/终于弄好了/</id>
+    <published>2020-08-26T14:43:59.000Z</published>
+    <updated>2020-08-26T14:46:43.295Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+      <category term="日常" scheme="https://blog.lihaiyang.me/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+      <category term="厉害阳" scheme="https://blog.lihaiyang.me/tags/%E5%8E%89%E5%AE%B3%E9%98%B3/"/>
+    
+      <category term="折腾" scheme="https://blog.lihaiyang.me/tags/%E6%8A%98%E8%85%BE/"/>
+    
+  </entry>
+  
+  <entry>
     <title>想考研了</title>
     <link href="https://blog.lihaiyang.me/2020/08/26/%E6%83%B3%E8%80%83%E7%A0%94%E4%BA%86/"/>
     <id>https://blog.lihaiyang.me/2020/08/26/想考研了/</id>
     <published>2020-08-26T12:58:47.000Z</published>
-    <updated>2020-08-26T13:06:31.622Z</updated>
+    <updated>2020-08-26T14:48:18.010Z</updated>
     
     <summary type="html">
     
@@ -146,7 +171,7 @@
     <link href="https://blog.lihaiyang.me/2020/08/17/%E9%85%92%E5%90%A7%E8%A1%8C%E9%A2%84%E5%91%8A/"/>
     <id>https://blog.lihaiyang.me/2020/08/17/酒吧行预告/</id>
     <published>2020-08-17T13:35:24.000Z</published>
-    <updated>2020-08-26T13:09:00.895Z</updated>
+    <updated>2020-08-26T14:43:10.456Z</updated>
     
     <summary type="html">
     
@@ -474,35 +499,6 @@
       <category term="厉害阳" scheme="https://blog.lihaiyang.me/tags/%E5%8E%89%E5%AE%B3%E9%98%B3/"/>
     
       <category term="开心" scheme="https://blog.lihaiyang.me/tags/%E5%BC%80%E5%BF%83/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>一周纪念日</title>
-    <link href="https://blog.lihaiyang.me/2020/07/12/%E4%B8%80%E5%91%A8%E7%BA%AA%E5%BF%B5%E6%97%A5/"/>
-    <id>https://blog.lihaiyang.me/2020/07/12/一周纪念日/</id>
-    <published>2020-07-12T06:59:29.000Z</published>
-    <updated>2020-08-06T04:46:15.419Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-      <category term="日常" scheme="https://blog.lihaiyang.me/tags/%E6%97%A5%E5%B8%B8/"/>
-    
-      <category term="厉害阳" scheme="https://blog.lihaiyang.me/tags/%E5%8E%89%E5%AE%B3%E9%98%B3/"/>
-    
-      <category term="开心" scheme="https://blog.lihaiyang.me/tags/%E5%BC%80%E5%BF%83/"/>
-    
-      <category term="纪念日" scheme="https://blog.lihaiyang.me/tags/%E7%BA%AA%E5%BF%B5%E6%97%A5/"/>
-    
-      <category term="一周" scheme="https://blog.lihaiyang.me/tags/%E4%B8%80%E5%91%A8/"/>
     
   </entry>
   
