@@ -21,6 +21,7 @@ window.fakeStorage = {
 function LocalStorageManager() {
   this.bestScoreKey     = "bestScore";
   this.gameStateKey     = "gameState";
+  this.lastScoreKey     = "lastScore";
 
   var supported = this.localStorageSupported();
   this.storage = supported ? window.localStorage : window.fakeStorage;
@@ -46,6 +47,14 @@ LocalStorageManager.prototype.getBestScore = function () {
 
 LocalStorageManager.prototype.setBestScore = function (score) {
   this.storage.setItem(this.bestScoreKey, score);
+};
+
+LocalStorageManager.prototype.getLastScore = function () {
+  return this.storage.getItem(this.lastScoreKey) || 0;
+};
+
+LocalStorageManager.prototype.setLastScore = function (score) {
+  this.storage.setItem(this.lastScoreKey, score);
 };
 
 // Game state getters/setters and clearing

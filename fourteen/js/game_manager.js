@@ -84,6 +84,8 @@ GameManager.prototype.actuate = function () {
   // Clear the state when the game is over (game over only, not win)
   if (this.over) {
     this.storageManager.clearGameState();
+    // todo
+    this.storageManager.setLastScore(this.score)
   } else {
     this.storageManager.setGameState(this.serialize());
   }
@@ -93,6 +95,7 @@ GameManager.prototype.actuate = function () {
     over:       this.over,
     won:        this.won,
     bestScore:  this.storageManager.getBestScore(),
+    lastScore:  this.storageManager.getLastScore(),
     terminated: this.isGameTerminated()
   });
 
