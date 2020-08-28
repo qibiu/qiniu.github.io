@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.lihaiyang.me/"/>
-  <updated>2020-08-28T07:20:36.060Z</updated>
+  <updated>2020-08-28T12:47:53.999Z</updated>
   <id>https://blog.lihaiyang.me/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>冷暴力</title>
+    <link href="https://blog.lihaiyang.me/2020/08/28/%E5%86%B7%E6%9A%B4%E5%8A%9B/"/>
+    <id>https://blog.lihaiyang.me/2020/08/28/冷暴力/</id>
+    <published>2020-08-28T12:46:59.000Z</published>
+    <updated>2020-08-28T12:47:53.999Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+      <category term="日常" scheme="https://blog.lihaiyang.me/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+      <category term="厉害阳" scheme="https://blog.lihaiyang.me/tags/%E5%8E%89%E5%AE%B3%E9%98%B3/"/>
+    
+      <category term="不开心" scheme="https://blog.lihaiyang.me/tags/%E4%B8%8D%E5%BC%80%E5%BF%83/"/>
+    
+  </entry>
   
   <entry>
     <title>想你了</title>
@@ -466,31 +491,6 @@
     
     </summary>
     
-    
-  </entry>
-  
-  <entry>
-    <title>哼哼</title>
-    <link href="https://blog.lihaiyang.me/2020/08/09/%E5%93%BC%E5%93%BC/"/>
-    <id>https://blog.lihaiyang.me/2020/08/09/哼哼/</id>
-    <published>2020-08-09T05:32:24.000Z</published>
-    <updated>2020-08-09T05:33:17.465Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-      <category term="日常" scheme="https://blog.lihaiyang.me/tags/%E6%97%A5%E5%B8%B8/"/>
-    
-      <category term="厉害阳" scheme="https://blog.lihaiyang.me/tags/%E5%8E%89%E5%AE%B3%E9%98%B3/"/>
-    
-      <category term="气愤" scheme="https://blog.lihaiyang.me/tags/%E6%B0%94%E6%84%A4/"/>
     
   </entry>
   
