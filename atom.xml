@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.lihaiyang.me/"/>
-  <updated>2020-08-28T12:47:53.999Z</updated>
+  <updated>2020-08-29T04:17:14.249Z</updated>
   <id>https://blog.lihaiyang.me/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>晚上去吃饭</title>
+    <link href="https://blog.lihaiyang.me/2020/08/29/%E6%99%9A%E4%B8%8A%E5%8E%BB%E5%90%83%E9%A5%AD/"/>
+    <id>https://blog.lihaiyang.me/2020/08/29/晚上去吃饭/</id>
+    <published>2020-08-29T03:57:36.000Z</published>
+    <updated>2020-08-29T04:17:14.249Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>冷暴力</title>
@@ -472,25 +491,6 @@
     
     
       <category term="黑化" scheme="https://blog.lihaiyang.me/tags/%E9%BB%91%E5%8C%96/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>我是傻逼</title>
-    <link href="https://blog.lihaiyang.me/2020/08/10/%E6%88%91%E6%98%AF%E5%82%BB%E9%80%BC/"/>
-    <id>https://blog.lihaiyang.me/2020/08/10/我是傻逼/</id>
-    <published>2020-08-10T12:33:24.000Z</published>
-    <updated>2020-08-10T12:33:24.097Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
     
   </entry>
   
