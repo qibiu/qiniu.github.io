@@ -41,7 +41,7 @@
           </div>
 
 
-    <div id="aplayer-YdKHPBcj" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="1363933027" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"></div>
+    <div id="aplayer-wbwzPQJb" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="1363933027" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"></div>
 
 ]]></content>
       <tags>
@@ -83,6 +83,9 @@
 <li>妈妈做的老干妈炒土豆丝，就这一个菜我能吃两碗饭</li>
 <li>干煸土豆丝</li>
 <li>干煸土豆片</li>
+<li>干锅土豆片</li>
+<li>酸辣土豆丝</li>
+<li>旋风土豆</li>
 </ul>
 <p>现在知道我有多喜欢你了吧。</p>
 ]]></content>
@@ -113,7 +116,7 @@
 <a id="more"></a>
 
 
-    <div id="aplayer-tJmewVMG" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="619670544" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"></div>]]></content>
+    <div id="aplayer-ytmBlUHT" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="619670544" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"></div>]]></content>
       <tags>
         <tag>听歌</tag>
         <tag>厉害阳</tag>
@@ -137,12 +140,12 @@
           </div>
 
 
-        <div id="aplayer-cZIgIDdA" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-DPOogHSx" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-cZIgIDdA"),
+            element: document.getElementById("aplayer-DPOogHSx"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -197,7 +200,7 @@
           </div>
 
 
-    <div id="aplayer-hyrkSdyt" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="554191989" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"></div>]]></content>
+    <div id="aplayer-diqivGSz" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="554191989" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"></div>]]></content>
       <tags>
         <tag>听歌</tag>
       </tags>
@@ -257,7 +260,7 @@
           </div>
 
 
-    <div id="aplayer-GKYQRbfo" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="28819359" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"></div>]]></content>
+    <div id="aplayer-YJSAQoEE" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="28819359" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"></div>]]></content>
       <tags>
         <tag>听歌</tag>
       </tags>
@@ -2408,7 +2411,7 @@
 <a id="more"></a>
 
 
-    <div id="aplayer-hduytvfV" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="190778" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"></div>]]></content>
+    <div id="aplayer-BXRzlBcN" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="190778" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"></div>]]></content>
   </entry>
   <entry>
     <title>起风了</title>
@@ -2476,7 +2479,7 @@
 <a id="more"></a>
 
 
-    <div id="aplayer-jFrEjYQk" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="27684881" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"></div>
+    <div id="aplayer-yzbwozFD" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="27684881" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"></div>
 
 ]]></content>
   </entry>
@@ -2769,7 +2772,7 @@
   </entry>
   <entry>
     <title>唉</title>
-    <url>/2019/01/09/%E5%94%89%203/</url>
+    <url>/2019/01/09/%E5%94%89/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
       <categories>
         <category>我独自生活</category>
@@ -2780,7 +2783,7 @@
   </entry>
   <entry>
     <title>唉</title>
-    <url>/2019/01/09/%E5%94%89/</url>
+    <url>/2019/01/09/%E5%94%89%203/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
       <categories>
         <category>我独自生活</category>
@@ -3874,7 +3877,7 @@
           </div>
 
 
-    <div id="aplayer-xcaiGnyC" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="190062" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"></div>
+    <div id="aplayer-VgkDWdFP" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="190062" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"></div>
 
 ]]></content>
       <categories>
