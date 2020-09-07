@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.lihaiyang.me/"/>
-  <updated>2020-09-07T10:55:29.687Z</updated>
+  <updated>2020-09-07T11:00:26.337Z</updated>
   <id>https://blog.lihaiyang.me/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://blog.lihaiyang.me/2020/09/07/cool/"/>
     <id>https://blog.lihaiyang.me/2020/09/07/cool/</id>
     <published>2020-09-07T10:39:11.000Z</published>
-    <updated>2020-09-07T10:55:29.687Z</updated>
+    <updated>2020-09-07T11:00:26.337Z</updated>
     
     <summary type="html">
     
@@ -145,9 +145,9 @@
     </summary>
     
     
-      <category term="美阳阳" scheme="https://blog.lihaiyang.me/tags/%E7%BE%8E%E9%98%B3%E9%98%B3/"/>
-    
       <category term="发小" scheme="https://blog.lihaiyang.me/tags/%E5%8F%91%E5%B0%8F/"/>
+    
+      <category term="美阳阳" scheme="https://blog.lihaiyang.me/tags/%E7%BE%8E%E9%98%B3%E9%98%B3/"/>
     
   </entry>
   
