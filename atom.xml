@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.lihaiyang.me/"/>
-  <updated>2020-09-11T04:27:59.454Z</updated>
+  <updated>2020-09-11T10:09:41.524Z</updated>
   <id>https://blog.lihaiyang.me/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于妹妹</title>
+    <link href="https://blog.lihaiyang.me/2020/09/11/%E5%85%B3%E4%BA%8E%E5%A6%B9%E5%A6%B9/"/>
+    <id>https://blog.lihaiyang.me/2020/09/11/关于妹妹/</id>
+    <published>2020-09-11T09:58:36.000Z</published>
+    <updated>2020-09-11T10:09:41.524Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+      <category term="妹妹" scheme="https://blog.lihaiyang.me/tags/%E5%A6%B9%E5%A6%B9/"/>
+    
+  </entry>
   
   <entry>
     <title>热脸贴冷屁</title>
@@ -436,29 +457,6 @@
       <category term="日常" scheme="https://blog.lihaiyang.me/tags/%E6%97%A5%E5%B8%B8/"/>
     
       <category term="累" scheme="https://blog.lihaiyang.me/tags/%E7%B4%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>厉害阳我错了</title>
-    <link href="https://blog.lihaiyang.me/2020/09/01/%E5%8E%89%E5%AE%B3%E9%98%B3%E6%88%91%E9%94%99%E4%BA%86/"/>
-    <id>https://blog.lihaiyang.me/2020/09/01/厉害阳我错了/</id>
-    <published>2020-09-01T04:21:26.000Z</published>
-    <updated>2020-09-09T13:10:34.863Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-      <category term="厉害阳" scheme="https://blog.lihaiyang.me/tags/%E5%8E%89%E5%AE%B3%E9%98%B3/"/>
-    
-      <category term="道歉" scheme="https://blog.lihaiyang.me/tags/%E9%81%93%E6%AD%89/"/>
     
   </entry>
   
