@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.lihaiyang.me/"/>
-  <updated>2020-09-12T13:05:09.085Z</updated>
+  <updated>2020-06-04T07:24:00.946Z</updated>
   <id>https://blog.lihaiyang.me/</id>
   
   <author>
@@ -17,380 +17,162 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>莫名其妙</title>
-    <link href="https://blog.lihaiyang.me/2020/09/12/%E8%8E%AB%E5%90%8D%E5%85%B6%E5%A6%99/"/>
-    <id>https://blog.lihaiyang.me/2020/09/12/莫名其妙/</id>
-    <published>2020-09-12T04:42:19.000Z</published>
-    <updated>2020-09-12T13:05:09.085Z</updated>
+    <title>LeetCode-235</title>
+    <link href="https://blog.lihaiyang.me/2020/06/04/LeetCode-235/"/>
+    <id>https://blog.lihaiyang.me/2020/06/04/LeetCode-235/</id>
+    <published>2020-06-04T07:20:10.000Z</published>
+    <updated>2020-06-04T07:24:00.946Z</updated>
     
     <summary type="html">
     
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>热脸贴冷屁</title>
-    <link href="https://blog.lihaiyang.me/2020/09/11/%E7%83%AD%E8%84%B8%E8%B4%B4%E5%86%B7%E5%B1%81/"/>
-    <id>https://blog.lihaiyang.me/2020/09/11/热脸贴冷屁/</id>
-    <published>2020-09-11T04:25:13.000Z</published>
-    <updated>2020-09-11T04:27:59.454Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-      <category term="厉害阳" scheme="https://blog.lihaiyang.me/tags/%E5%8E%89%E5%AE%B3%E9%98%B3/"/>
-    
-      <category term="日常" scheme="https://blog.lihaiyang.me/tags/%E6%97%A5%E5%B8%B8/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>自闭</title>
-    <link href="https://blog.lihaiyang.me/2020/09/10/%E8%87%AA%E9%97%AD/"/>
-    <id>https://blog.lihaiyang.me/2020/09/10/自闭/</id>
-    <published>2020-09-10T14:43:15.000Z</published>
-    <updated>2020-09-10T14:43:15.525Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>猪八戒照镜子</title>
-    <link href="https://blog.lihaiyang.me/2020/09/10/%E7%8C%AA%E5%85%AB%E6%88%92%E7%85%A7%E9%95%9C%E5%AD%90/"/>
-    <id>https://blog.lihaiyang.me/2020/09/10/猪八戒照镜子/</id>
-    <published>2020-09-10T14:16:18.000Z</published>
-    <updated>2020-09-10T14:34:04.726Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>突然好想你</title>
-    <link href="https://blog.lihaiyang.me/2020/09/10/%E7%AA%81%E7%84%B6%E5%A5%BD%E6%83%B3%E4%BD%A0/"/>
-    <id>https://blog.lihaiyang.me/2020/09/10/突然好想你/</id>
-    <published>2020-09-10T12:17:21.000Z</published>
-    <updated>2020-09-11T04:34:48.272Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-      <category term="厉害阳" scheme="https://blog.lihaiyang.me/tags/%E5%8E%89%E5%AE%B3%E9%98%B3/"/>
-    
-      <category term="日常" scheme="https://blog.lihaiyang.me/tags/%E6%97%A5%E5%B8%B8/"/>
-    
-      <category term="想" scheme="https://blog.lihaiyang.me/tags/%E6%83%B3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>开心！</title>
-    <link href="https://blog.lihaiyang.me/2020/09/09/%E5%BC%80%E5%BF%83%EF%BC%81/"/>
-    <id>https://blog.lihaiyang.me/2020/09/09/开心！/</id>
-    <published>2020-09-09T10:08:35.000Z</published>
-    <updated>2020-09-09T11:49:20.597Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-      <category term="日常" scheme="https://blog.lihaiyang.me/tags/%E6%97%A5%E5%B8%B8/"/>
-    
-      <category term="开心" scheme="https://blog.lihaiyang.me/tags/%E5%BC%80%E5%BF%83/"/>
-    
-      <category term="美阳阳" scheme="https://blog.lihaiyang.me/tags/%E7%BE%8E%E9%98%B3%E9%98%B3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>最近的感概</title>
-    <link href="https://blog.lihaiyang.me/2020/09/08/%E6%9C%80%E8%BF%91%E7%9A%84%E6%84%9F%E6%A6%82/"/>
-    <id>https://blog.lihaiyang.me/2020/09/08/最近的感概/</id>
-    <published>2020-09-08T04:10:56.000Z</published>
-    <updated>2020-09-08T04:24:27.233Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-      <category term="我独自生活" scheme="https://blog.lihaiyang.me/tags/%E6%88%91%E7%8B%AC%E8%87%AA%E7%94%9F%E6%B4%BB/"/>
-    
-      <category term="日常" scheme="https://blog.lihaiyang.me/tags/%E6%97%A5%E5%B8%B8/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>酸了</title>
-    <link href="https://blog.lihaiyang.me/2020/09/07/%E9%85%B8%E4%BA%86/"/>
-    <id>https://blog.lihaiyang.me/2020/09/07/酸了/</id>
-    <published>2020-09-07T15:10:35.000Z</published>
-    <updated>2020-09-07T15:19:59.314Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>cool</title>
-    <link href="https://blog.lihaiyang.me/2020/09/07/cool/"/>
-    <id>https://blog.lihaiyang.me/2020/09/07/cool/</id>
-    <published>2020-09-07T10:39:11.000Z</published>
-    <updated>2020-09-07T15:26:26.895Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;又被拉黑了，上次是1号，今天是7号，一个星期拉黑两次。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="厉害阳" scheme="https://blog.lihaiyang.me/tags/%E5%8E%89%E5%AE%B3%E9%98%B3/"/>
-    
-      <category term="拉黑" scheme="https://blog.lihaiyang.me/tags/%E6%8B%89%E9%BB%91/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>发布会搞快点</title>
-    <link href="https://blog.lihaiyang.me/2020/09/06/%E5%8F%91%E5%B8%83%E4%BC%9A%E6%90%9E%E5%BF%AB%E7%82%B9/"/>
-    <id>https://blog.lihaiyang.me/2020/09/06/发布会搞快点/</id>
-    <published>2020-09-06T07:34:27.000Z</published>
-    <updated>2020-09-06T07:41:45.216Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-      <category term="厉害阳" scheme="https://blog.lihaiyang.me/tags/%E5%8E%89%E5%AE%B3%E9%98%B3/"/>
-    
-      <category term="日常" scheme="https://blog.lihaiyang.me/tags/%E6%97%A5%E5%B8%B8/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>认识2个月了</title>
-    <link href="https://blog.lihaiyang.me/2020/09/05/%E8%AE%A4%E8%AF%862%E4%B8%AA%E6%9C%88%E4%BA%86/"/>
-    <id>https://blog.lihaiyang.me/2020/09/05/认识2个月了/</id>
-    <published>2020-09-05T09:52:55.000Z</published>
-    <updated>2020-09-05T09:55:53.193Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-      <category term="厉害阳" scheme="https://blog.lihaiyang.me/tags/%E5%8E%89%E5%AE%B3%E9%98%B3/"/>
-    
-      <category term="纪念日" scheme="https://blog.lihaiyang.me/tags/%E7%BA%AA%E5%BF%B5%E6%97%A5/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>明天出门</title>
-    <link href="https://blog.lihaiyang.me/2020/09/05/%E6%98%8E%E5%A4%A9%E5%87%BA%E9%97%A8/"/>
-    <id>https://blog.lihaiyang.me/2020/09/05/明天出门/</id>
-    <published>2020-09-05T04:14:51.000Z</published>
-    <updated>2020-09-05T04:14:51.828Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>喜欢的理由+1</title>
-    <link href="https://blog.lihaiyang.me/2020/09/04/%E5%96%9C%E6%AC%A2%E7%9A%84%E7%90%86%E7%94%B1+1/"/>
-    <id>https://blog.lihaiyang.me/2020/09/04/喜欢的理由+1/</id>
-    <published>2020-09-04T10:53:32.000Z</published>
-    <updated>2020-09-04T11:01:25.220Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-      <category term="厉害阳" scheme="https://blog.lihaiyang.me/tags/%E5%8E%89%E5%AE%B3%E9%98%B3/"/>
-    
-      <category term="日常" scheme="https://blog.lihaiyang.me/tags/%E6%97%A5%E5%B8%B8/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>这猫咪</title>
-    <link href="https://blog.lihaiyang.me/2020/09/03/%E8%BF%99%E7%8C%AB%E5%92%AA/"/>
-    <id>https://blog.lihaiyang.me/2020/09/03/这猫咪/</id>
-    <published>2020-09-03T13:11:55.000Z</published>
-    <updated>2020-09-03T13:13:31.688Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>苦恼</title>
-    <link href="https://blog.lihaiyang.me/2020/09/03/%E8%8B%A6%E6%81%BC/"/>
-    <id>https://blog.lihaiyang.me/2020/09/03/苦恼/</id>
-    <published>2020-09-03T11:19:40.000Z</published>
-    <updated>2020-09-03T11:25:27.828Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-      <category term="厉害阳" scheme="https://blog.lihaiyang.me/tags/%E5%8E%89%E5%AE%B3%E9%98%B3/"/>
-    
-      <category term="日常" scheme="https://blog.lihaiyang.me/tags/%E6%97%A5%E5%B8%B8/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>咦哪来的猫咪</title>
-    <link href="https://blog.lihaiyang.me/2020/09/03/%E5%92%A6%E5%93%AA%E6%9D%A5%E7%9A%84%E7%8C%AB%E5%92%AA/"/>
-    <id>https://blog.lihaiyang.me/2020/09/03/咦哪来的猫咪/</id>
-    <published>2020-09-03T11:10:37.000Z</published>
-    <updated>2020-09-03T14:10:05.492Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-      <category term="厉害阳" scheme="https://blog.lihaiyang.me/tags/%E5%8E%89%E5%AE%B3%E9%98%B3/"/>
-    
-      <category term="猫咪" scheme="https://blog.lihaiyang.me/tags/%E7%8C%AB%E5%92%AA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>刘德华-练习</title>
-    <link href="https://blog.lihaiyang.me/2020/09/02/%E5%88%98%E5%BE%B7%E5%8D%8E-%E7%BB%83%E4%B9%A0/"/>
-    <id>https://blog.lihaiyang.me/2020/09/02/刘德华-练习/</id>
-    <published>2020-09-02T10:20:24.000Z</published>
-    <updated>2020-09-02T10:45:47.605Z</updated>
-    
-    <summary type="html">
-    
-      &lt;blockquote class=&quot;blockquote-center&quot;&gt;
-            &lt;i class=&quot;fa fa-quote-left&quot;&gt;&lt;/i&gt;
-            &lt;p&gt;我已开始练习，开始慢慢著急，著急这世界没有你&lt;br&gt;已经和眼泪说好不哭泣，但倒数计时的爱该怎么继续&lt;/p&gt;
-&lt;p&gt;──《练习》刘德华&lt;/p&gt;
+      &lt;p&gt;Level: Easy&lt;/p&gt;
+&lt;p&gt;Given a binary search tree (BST), find the lowest common ancestor (LCA) of two given nodes in the BST.&lt;/p&gt;
+&lt;p&gt;According to the &lt;a href=&quot;https://en.wikipedia.org/wiki/Lowest_common_ancestor&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;definition of LCA on Wikipedia&lt;/a&gt;: “The lowest common ancestor is defined between two nodes p and q as the lowest node in T that has both p and q as descendants (where we allow &lt;strong&gt;a node to be a descendant of itself&lt;/strong&gt;).”&lt;/p&gt;
+&lt;p&gt;Given binary search tree: root = [6,2,8,0,4,7,9,null,null,3,5]&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://assets.leetcode.com/uploads/2018/12/14/binarysearchtree_improved.png&quot; alt=&quot;img&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Input: root = [6,2,8,0,4,7,9,null,null,3,5], p = 2, q = 8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Output: 6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Explanation: The LCA of nodes 2 and 8 is 6.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
-            &lt;i class=&quot;fa fa-quote-right&quot;&gt;&lt;/i&gt;
-          &lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Example 2:&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Input: root = [6,2,8,0,4,7,9,null,null,3,5], p = 2, q = 4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Output: 2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Explanation: The LCA of nodes 2 and 4 is 2, since a node can be a descendant of itself according to the LCA definition.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;All of the nodes’ values will be unique.&lt;/li&gt;
+&lt;li&gt;p and q are different and both values will exist in the BST.&lt;/li&gt;
+&lt;/ul&gt;
     
     </summary>
     
     
-      <category term="听歌" scheme="https://blog.lihaiyang.me/tags/%E5%90%AC%E6%AD%8C/"/>
+      <category term="LeetCode" scheme="https://blog.lihaiyang.me/tags/LeetCode/"/>
+    
+      <category term="Tree" scheme="https://blog.lihaiyang.me/tags/Tree/"/>
+    
+      <category term="Easy" scheme="https://blog.lihaiyang.me/tags/Easy/"/>
     
   </entry>
   
   <entry>
-    <title>难受宁愿不喜欢美阳阳</title>
-    <link href="https://blog.lihaiyang.me/2020/09/02/%E9%9A%BE%E5%8F%97%E5%AE%81%E6%84%BF%E4%B8%8D%E5%96%9C%E6%AC%A2%E7%BE%8E%E9%98%B3%E9%98%B3/"/>
-    <id>https://blog.lihaiyang.me/2020/09/02/难受宁愿不喜欢美阳阳/</id>
-    <published>2020-09-02T10:15:26.000Z</published>
-    <updated>2020-09-02T10:17:25.171Z</updated>
+    <title>LeetCode-230</title>
+    <link href="https://blog.lihaiyang.me/2020/05/29/LeetCode-230/"/>
+    <id>https://blog.lihaiyang.me/2020/05/29/LeetCode-230/</id>
+    <published>2020-05-29T07:25:41.000Z</published>
+    <updated>2020-06-03T08:17:54.757Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Level: Medium&lt;/p&gt;
+&lt;p&gt;Given a binary search tree, write a function &lt;code&gt;kthSmallest&lt;/code&gt; to find the &lt;strong&gt;k&lt;/strong&gt;th smallest element in it.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Input: root = [3,1,4,null,2], k = 1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; 1   4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Output: 1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Example 2:&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Input: root = [5,3,6,2,4,null,null,1], k = 3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;       5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;      / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;     3   6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   2   4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  /&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; 1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Output: 3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Follow up:&lt;/strong&gt;&lt;br&gt;What if the BST is modified (insert/delete operations) often and you need to find the kth smallest frequently? How would you optimize the kthSmallest routine?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Constraints:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The number of elements of the BST is between &lt;code&gt;1&lt;/code&gt; to &lt;code&gt;10^4&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;You may assume &lt;code&gt;k&lt;/code&gt; is always valid, &lt;code&gt;1 ≤ k ≤ BST&amp;#39;s total elements&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+    
+      <category term="LeetCode" scheme="https://blog.lihaiyang.me/tags/LeetCode/"/>
+    
+      <category term="Tree" scheme="https://blog.lihaiyang.me/tags/Tree/"/>
+    
+      <category term="Medium" scheme="https://blog.lihaiyang.me/tags/Medium/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode-226</title>
+    <link href="https://blog.lihaiyang.me/2020/05/28/LeetCode-226/"/>
+    <id>https://blog.lihaiyang.me/2020/05/28/LeetCode-226/</id>
+    <published>2020-05-28T07:10:22.000Z</published>
+    <updated>2020-05-28T07:36:44.816Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Level: Easy&lt;/p&gt;
+&lt;p&gt;Invert a binary tree.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Input:&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;     4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   /   \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  2     7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; / \   / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;1   3 6   9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;Output:&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;     4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   /   \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  7     2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; / \   / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9   6 3   1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Trivia:&lt;/strong&gt;&lt;br&gt;This problem was inspired by &lt;a href=&quot;https://twitter.com/mxcl/status/608682016205344768&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;this original tweet&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/mxcl&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Max Howell&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Google: 90% of our engineers use the software you wrote (Homebrew), but you can’t invert a binary tree on a whiteboard so fuck off.&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="LeetCode" scheme="https://blog.lihaiyang.me/tags/LeetCode/"/>
+    
+      <category term="Tree" scheme="https://blog.lihaiyang.me/tags/Tree/"/>
+    
+      <category term="Easy" scheme="https://blog.lihaiyang.me/tags/Easy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode-222</title>
+    <link href="https://blog.lihaiyang.me/2020/05/28/LeetCode-222/"/>
+    <id>https://blog.lihaiyang.me/2020/05/28/LeetCode-222/</id>
+    <published>2020-05-28T07:05:07.000Z</published>
+    <updated>2020-06-08T01:15:59.393Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Level: Medium&lt;/p&gt;
+&lt;p&gt;Given a &lt;strong&gt;complete&lt;/strong&gt; binary tree, count the number of nodes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Definition of a complete binary tree from &lt;a href=&quot;http://en.wikipedia.org/wiki/Binary_tree#Types_of_binary_trees&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Wikipedia&lt;/a&gt;:&lt;/strong&gt;&lt;br&gt;In a complete binary tree every level, except possibly the last, is completely filled, and all nodes in the last level are as far left as possible. It can have between 1 and 2h nodes inclusive at the last level h.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Input: &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  2   3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; / \  /&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4  5 6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Output: 6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+    
+      <category term="LeetCode" scheme="https://blog.lihaiyang.me/tags/LeetCode/"/>
+    
+      <category term="Tree" scheme="https://blog.lihaiyang.me/tags/Tree/"/>
+    
+      <category term="Medium" scheme="https://blog.lihaiyang.me/tags/Medium/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2020年-第22周周计划</title>
+    <link href="https://blog.lihaiyang.me/2020/05/25/2020%E5%B9%B4-%E7%AC%AC22%E5%91%A8%E5%91%A8%E8%AE%A1%E5%88%92/"/>
+    <id>https://blog.lihaiyang.me/2020/05/25/2020年-第22周周计划/</id>
+    <published>2020-05-25T11:10:52.000Z</published>
+    <updated>2020-05-27T13:37:16.871Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;求好运，就看明天拉&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>第25个独自度过的520</title>
+    <link href="https://blog.lihaiyang.me/2020/05/20/%E7%AC%AC25%E4%B8%AA%E7%8B%AC%E8%87%AA%E5%BA%A6%E8%BF%87%E7%9A%84520/"/>
+    <id>https://blog.lihaiyang.me/2020/05/20/第25个独自度过的520/</id>
+    <published>2020-05-20T14:43:33.000Z</published>
+    <updated>2020-05-20T14:43:50.715Z</updated>
     
     <summary type="html">
     
@@ -402,20 +184,74 @@
     </summary>
     
     
-      <category term="厉害阳" scheme="https://blog.lihaiyang.me/tags/%E5%8E%89%E5%AE%B3%E9%98%B3/"/>
+  </entry>
+  
+  <entry>
+    <title>LeetCode-199</title>
+    <link href="https://blog.lihaiyang.me/2020/05/20/LeetCode-199/"/>
+    <id>https://blog.lihaiyang.me/2020/05/20/LeetCode-199/</id>
+    <published>2020-05-20T08:47:31.000Z</published>
+    <updated>2020-05-20T10:49:05.683Z</updated>
     
-      <category term="拉黑" scheme="https://blog.lihaiyang.me/tags/%E6%8B%89%E9%BB%91/"/>
+    <summary type="html">
     
-      <category term="难受" scheme="https://blog.lihaiyang.me/tags/%E9%9A%BE%E5%8F%97/"/>
+      &lt;p&gt;Level: Medium&lt;/p&gt;
+&lt;p&gt;Given a binary tree, imagine yourself standing on the &lt;em&gt;right&lt;/em&gt; side of it, return the values of the nodes you can see ordered from top to bottom.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Input: [1,2,3,null,5,null,4]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Output: [1, 3, 4]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Explanation:&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   1            &amp;lt;---&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; /   \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2     3         &amp;lt;---&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; \     \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  5     4       &amp;lt;---&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+    
+      <category term="LeetCode" scheme="https://blog.lihaiyang.me/tags/LeetCode/"/>
+    
+      <category term="Tree" scheme="https://blog.lihaiyang.me/tags/Tree/"/>
+    
+      <category term="Medium" scheme="https://blog.lihaiyang.me/tags/Medium/"/>
     
   </entry>
   
   <entry>
-    <title>和厉害阳认识的58天</title>
-    <link href="https://blog.lihaiyang.me/2020/09/02/%E5%92%8C%E5%8E%89%E5%AE%B3%E9%98%B3%E8%AE%A4%E8%AF%86%E7%9A%8458%E5%A4%A9/"/>
-    <id>https://blog.lihaiyang.me/2020/09/02/和厉害阳认识的58天/</id>
-    <published>2020-09-02T04:37:18.000Z</published>
-    <updated>2020-09-02T10:14:00.674Z</updated>
+    <title>LeetCode-173</title>
+    <link href="https://blog.lihaiyang.me/2020/05/20/LeetCode-173/"/>
+    <id>https://blog.lihaiyang.me/2020/05/20/LeetCode-173/</id>
+    <published>2020-05-20T07:34:32.000Z</published>
+    <updated>2020-05-28T07:36:50.721Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Level: Medium&lt;/p&gt;
+&lt;p&gt;Implement an iterator over a binary search tree (BST). Your iterator will be initialized with the root node of a BST.&lt;/p&gt;
+&lt;p&gt;Calling &lt;code&gt;next()&lt;/code&gt; will return the next smallest number in the BST.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;https://assets.leetcode.com/uploads/2018/12/25/bst-tree.png&quot; alt=&quot;img&quot;&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;BSTIterator iterator = new BSTIterator(root);&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;iterator.next();    // return 3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;iterator.next();    // return 7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;iterator.hasNext(); // return true&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;iterator.next();    // return 9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;iterator.hasNext(); // return true&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;iterator.next();    // return 15&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;iterator.hasNext(); // return true&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;iterator.next();    // return 20&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;iterator.hasNext(); // return false&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;next()&lt;/code&gt; and &lt;code&gt;hasNext()&lt;/code&gt; should run in average O(1) time and uses O(&lt;em&gt;h&lt;/em&gt;) memory, where &lt;em&gt;h&lt;/em&gt; is the height of the tree.&lt;/li&gt;
+&lt;li&gt;You may assume that &lt;code&gt;next()&lt;/code&gt; call will always be valid, that is, there will be at least a next smallest number in the BST when &lt;code&gt;next()&lt;/code&gt; is called.&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+    
+      <category term="LeetCode" scheme="https://blog.lihaiyang.me/tags/LeetCode/"/>
+    
+      <category term="Tree" scheme="https://blog.lihaiyang.me/tags/Tree/"/>
+    
+      <category term="Medium" scheme="https://blog.lihaiyang.me/tags/Medium/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>迷茫</title>
+    <link href="https://blog.lihaiyang.me/2020/05/20/%E8%BF%B7%E8%8C%AB/"/>
+    <id>https://blog.lihaiyang.me/2020/05/20/迷茫/</id>
+    <published>2020-05-20T00:54:47.000Z</published>
+    <updated>2020-05-20T00:56:47.131Z</updated>
     
     <summary type="html">
     
@@ -427,18 +263,34 @@
     </summary>
     
     
-      <category term="厉害阳" scheme="https://blog.lihaiyang.me/tags/%E5%8E%89%E5%AE%B3%E9%98%B3/"/>
+  </entry>
+  
+  <entry>
+    <title>2020年-第21周周计划</title>
+    <link href="https://blog.lihaiyang.me/2020/05/19/2020%E5%B9%B4-%E7%AC%AC21%E5%91%A8%E5%91%A8%E8%AE%A1%E5%88%92/"/>
+    <id>https://blog.lihaiyang.me/2020/05/19/2020年-第21周周计划/</id>
+    <published>2020-05-19T07:50:07.000Z</published>
+    <updated>2020-05-22T13:47:40.430Z</updated>
     
-      <category term="结束" scheme="https://blog.lihaiyang.me/tags/%E7%BB%93%E6%9D%9F/"/>
+    <summary type="html">
+    
+      &lt;p&gt;上周末没背单词，然后昨天背了单词却忘记打卡了，不能懈怠咯。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="周计划" scheme="https://blog.lihaiyang.me/tags/%E5%91%A8%E8%AE%A1%E5%88%92/"/>
+    
+      <category term="计划" scheme="https://blog.lihaiyang.me/tags/%E8%AE%A1%E5%88%92/"/>
     
   </entry>
   
   <entry>
-    <title>累</title>
-    <link href="https://blog.lihaiyang.me/2020/09/01/%E7%B4%AF/"/>
-    <id>https://blog.lihaiyang.me/2020/09/01/累/</id>
-    <published>2020-09-01T10:48:35.000Z</published>
-    <updated>2020-09-01T10:54:34.458Z</updated>
+    <title>今年也不太顺利呢</title>
+    <link href="https://blog.lihaiyang.me/2020/05/13/%E4%BB%8A%E5%B9%B4%E4%B9%9F%E4%B8%8D%E5%A4%AA%E9%A1%BA%E5%88%A9%E5%91%A2/"/>
+    <id>https://blog.lihaiyang.me/2020/05/13/今年也不太顺利呢/</id>
+    <published>2020-05-13T08:39:50.000Z</published>
+    <updated>2020-05-13T08:59:26.358Z</updated>
     
     <summary type="html">
     
@@ -450,11 +302,201 @@
     </summary>
     
     
-      <category term="厉害阳" scheme="https://blog.lihaiyang.me/tags/%E5%8E%89%E5%AE%B3%E9%98%B3/"/>
+      <category term="难" scheme="https://blog.lihaiyang.me/tags/%E9%9A%BE/"/>
     
-      <category term="日常" scheme="https://blog.lihaiyang.me/tags/%E6%97%A5%E5%B8%B8/"/>
+  </entry>
+  
+  <entry>
+    <title>想跑步了</title>
+    <link href="https://blog.lihaiyang.me/2020/05/13/%E6%83%B3%E8%B7%91%E6%AD%A5%E4%BA%86/"/>
+    <id>https://blog.lihaiyang.me/2020/05/13/想跑步了/</id>
+    <published>2020-05-13T01:27:11.000Z</published>
+    <updated>2020-05-13T05:01:40.090Z</updated>
     
-      <category term="累" scheme="https://blog.lihaiyang.me/tags/%E7%B4%AF/"/>
+    <summary type="html">
+    
+      &lt;p&gt;出生第9179天。（惊了，居然都9k多天了）&lt;/p&gt;
+&lt;p&gt;教练，我想跑步了。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="跑步" scheme="https://blog.lihaiyang.me/tags/%E8%B7%91%E6%AD%A5/"/>
+    
+      <category term="随笔" scheme="https://blog.lihaiyang.me/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2020年-第20周周计划</title>
+    <link href="https://blog.lihaiyang.me/2020/05/10/2020%E5%B9%B4-%E7%AC%AC20%E5%91%A8%E5%91%A8%E8%AE%A1%E5%88%92/"/>
+    <id>https://blog.lihaiyang.me/2020/05/10/2020年-第20周周计划/</id>
+    <published>2020-05-10T10:11:24.000Z</published>
+    <updated>2020-05-15T13:10:49.458Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;新的一周，希望有新的心情吧，不要再沉浸在郁闷和悲伤里了，还有那么多单词等着呢。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="周计划" scheme="https://blog.lihaiyang.me/tags/%E5%91%A8%E8%AE%A1%E5%88%92/"/>
+    
+      <category term="计划" scheme="https://blog.lihaiyang.me/tags/%E8%AE%A1%E5%88%92/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2020年-第19周周计划</title>
+    <link href="https://blog.lihaiyang.me/2020/05/04/2020%E5%B9%B4-%E7%AC%AC19%E5%91%A8%E5%91%A8%E8%AE%A1%E5%88%92/"/>
+    <id>https://blog.lihaiyang.me/2020/05/04/2020年-第19周周计划/</id>
+    <published>2020-05-04T10:11:25.000Z</published>
+    <updated>2020-05-11T13:18:03.043Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;学习&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="周计划" scheme="https://blog.lihaiyang.me/tags/%E5%91%A8%E8%AE%A1%E5%88%92/"/>
+    
+      <category term="计划" scheme="https://blog.lihaiyang.me/tags/%E8%AE%A1%E5%88%92/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2020年-第18周周计划</title>
+    <link href="https://blog.lihaiyang.me/2020/04/27/2020%E5%B9%B4-%E7%AC%AC18%E5%91%A8%E5%91%A8%E8%AE%A1%E5%88%92/"/>
+    <id>https://blog.lihaiyang.me/2020/04/27/2020年-第18周周计划/</id>
+    <published>2020-04-27T12:43:16.000Z</published>
+    <updated>2020-05-11T13:19:52.022Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;上周的计划执行的还不错，除了刷题和做雅思，好吧一共三个计划只执行了一个。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="周计划" scheme="https://blog.lihaiyang.me/tags/%E5%91%A8%E8%AE%A1%E5%88%92/"/>
+    
+      <category term="计划" scheme="https://blog.lihaiyang.me/tags/%E8%AE%A1%E5%88%92/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>想买东西</title>
+    <link href="https://blog.lihaiyang.me/2020/04/20/%E6%83%B3%E4%B9%B0%E4%B8%9C%E8%A5%BF/"/>
+    <id>https://blog.lihaiyang.me/2020/04/20/想买东西/</id>
+    <published>2020-04-20T10:56:26.000Z</published>
+    <updated>2020-04-30T08:50:53.701Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2020年-第17周周计划</title>
+    <link href="https://blog.lihaiyang.me/2020/04/20/2020%E5%B9%B4-%E7%AC%AC17%E5%91%A8%E5%91%A8%E8%AE%A1%E5%88%92/"/>
+    <id>https://blog.lihaiyang.me/2020/04/20/2020年-第17周周计划/</id>
+    <published>2020-04-20T02:12:10.000Z</published>
+    <updated>2020-04-26T11:30:40.766Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近自己的节奏不对，由于工作调动和工作内容的变更已经好久没刷题了。紧迫的时间让我意识到不能再这样下去了。5年的计划属实太大，以至于让我每次想起来就头疼，开始怀疑自己能否做到。&lt;/p&gt;
+&lt;p&gt;所以我决定将计划制定得更小更细致，以周为单位，每周制定一次，从这周开始，这周是第17周。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="周计划" scheme="https://blog.lihaiyang.me/tags/%E5%91%A8%E8%AE%A1%E5%88%92/"/>
+    
+      <category term="计划" scheme="https://blog.lihaiyang.me/tags/%E8%AE%A1%E5%88%92/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode-156 Binary Tree Upside Down</title>
+    <link href="https://blog.lihaiyang.me/2020/04/13/LeetCode-156/"/>
+    <id>https://blog.lihaiyang.me/2020/04/13/LeetCode-156/</id>
+    <published>2020-04-13T12:04:25.000Z</published>
+    <updated>2020-04-13T12:05:26.679Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode-145 Binary Tree Postorder Traversal</title>
+    <link href="https://blog.lihaiyang.me/2020/04/13/LeetCode-145/"/>
+    <id>https://blog.lihaiyang.me/2020/04/13/LeetCode-145/</id>
+    <published>2020-04-13T12:02:57.000Z</published>
+    <updated>2020-04-13T12:04:10.116Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Level: &lt;strong&gt;Hard&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Given a binary tree, return the &lt;em&gt;postorder&lt;/em&gt; traversal of its nodes’ values.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Input: [1,null,2,3]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;     2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    /&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Output: [3,2,1]&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Follow up:&lt;/strong&gt; Recursive solution is trivial, could you do it iteratively?&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="LeetCode" scheme="https://blog.lihaiyang.me/tags/LeetCode/"/>
+    
+      <category term="Tree" scheme="https://blog.lihaiyang.me/tags/Tree/"/>
+    
+      <category term="Medium" scheme="https://blog.lihaiyang.me/tags/Medium/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode-144 Binary Tree Preorder Traversal</title>
+    <link href="https://blog.lihaiyang.me/2020/04/13/LeetCode-144/"/>
+    <id>https://blog.lihaiyang.me/2020/04/13/LeetCode-144/</id>
+    <published>2020-04-13T12:01:37.000Z</published>
+    <updated>2020-04-13T12:02:45.293Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Level: Medium&lt;/p&gt;
+&lt;p&gt;Given a binary tree, return the &lt;em&gt;preorder&lt;/em&gt; traversal of its nodes’ values.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Input: [1,null,2,3]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;     2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    /&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Output: [1,2,3]&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Follow up:&lt;/strong&gt; Recursive solution is trivial, could you do it iteratively?&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="LeetCode" scheme="https://blog.lihaiyang.me/tags/LeetCode/"/>
+    
+      <category term="Tree" scheme="https://blog.lihaiyang.me/tags/Tree/"/>
+    
+      <category term="Medium" scheme="https://blog.lihaiyang.me/tags/Medium/"/>
     
   </entry>
   

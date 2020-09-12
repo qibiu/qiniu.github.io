@@ -115,7 +115,7 @@
   </li>
         <li class="menu-item menu-item-tags">
 
-    <a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>Tags<span class="badge">46</span></a>
+    <a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>Tags<span class="badge">23</span></a>
 
   </li>
         <li class="menu-item menu-item-categories">
@@ -125,7 +125,7 @@
   </li>
         <li class="menu-item menu-item-archives">
 
-    <a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>Archives<span class="badge">264</span></a>
+    <a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>Archives<span class="badge">216</span></a>
 
   </li>
         <li class="menu-item menu-item-mario">
@@ -170,7 +170,7 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="_en">
-    <link itemprop="mainEntityOfPage" href="https://blog.lihaiyang.me/2020/09/01/厉害阳我错了/">
+    <link itemprop="mainEntityOfPage" href="https://blog.lihaiyang.me/2020/04/12/LeetCode-129/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.gif">
@@ -184,7 +184,7 @@
       <header class="post-header">
         <h2 class="post-title" itemprop="name headline">
           
-            <a href="/2020/09/01/厉害阳我错了/" class="post-title-link" itemprop="url">厉害阳我错了</a>
+            <a href="/2020/04/12/LeetCode-129/" class="post-title-link" itemprop="url">LeetCode-129 Sum Root to Leaf Numbers</a>
         </h2>
 
         <div class="post-meta">
@@ -194,7 +194,7 @@
               </span>
               <span class="post-meta-item-text">Posted on</span>
 
-              <time title="Created: 2020-09-01 12:21:26" itemprop="dateCreated datePublished" datetime="2020-09-01T12:21:26+08:00">2020-09-01</time>
+              <time title="Created: 2020-04-12 19:54:49" itemprop="dateCreated datePublished" datetime="2020-04-12T19:54:49+08:00">2020-04-12</time>
             </span>
 
           <br>
@@ -203,14 +203,14 @@
                 <i class="far fa-file-word"></i>
               </span>
                 <span class="post-meta-item-text">Symbols count in article: </span>
-              <span>774</span>
+              <span>2.3k</span>
             </span>
             <span class="post-meta-item" title="Reading time">
               <span class="post-meta-item-icon">
                 <i class="far fa-clock"></i>
               </span>
                 <span class="post-meta-item-text">Reading time &asymp;</span>
-              <span>1 mins.</span>
+              <span>2 mins.</span>
             </span>
 
         </div>
@@ -222,15 +222,24 @@
     <div class="post-body" itemprop="articleBody">
 
       
-          <p>我跟你道歉，对不起，那篇博客是我不对，只是因为在乎你没有控制好自己的情绪。微信不要拉黑我好吗，我真的蛮珍惜你的。这么大的城市，两个人认识真的不容易，很需要缘分。当初找你要联系方式也要很大的勇气和决心。因为其实我蛮闷骚的，这一切对我来说很难，但我很开心当时没有怂，鼓起勇气迈出了这一步，也很开心能够认识你。开始是被你颜值吸引的吧，虽然你开玩笑说自己不好看，但我当时的回答是认真的，我真的觉得你很美，跟我老婆新垣结衣一样。后来是被你的性格吸引了，大大咧咧的，很戳我。可我没谈过恋爱不会追女生，有点直男，所有有些时候会惹你生气，没有恶意，但我自己可能没意识到，很抱歉。</p>
-<p>我那句话的意思是十年前的性格就骂你了，现在我长大了，而不是什么少管所。。。从7月5号我们认识到现在，我没有对你说过一句脏话。哪怕你好几次骂我说我脑子有毛病之类的，虽然我很生气但我也没还嘴。希望你能多看看我记的那些开心的关于你的琐碎小事，比如为你唱歌，虽然被你说难听。为你了解jk买jk，虽然买的你都不喜欢，为你写博客，虽然惹你生气了。</p>
-<p>其实还有很多话想说，但是上班不太方便，我已经写了快20分钟了。</p>
-<p>放我出来好吗，美阳阳。</p>
-<p>我真的知道错了，很后悔博客上说了那些话，冒犯到你我很抱歉，我下次不做这种蠢事了，我只是吃醋了，虽然我知道没资格吃醋。再给我一次机会好吗，我不会再犯了，我对你的感情是认真的，如果你能感受到的话。我很久没有这么认真过了，被你拉黑后去微博，微博被拉黑又去网易云，最后又用小号加你，如果我不在乎你，我不会做这么多事情尝试联系你，而是拉黑就拉黑了。被你拉黑的时候我心里特别难过，感觉像少了什么东西，空空的。</p>
-<p>真的，放我出来吧，再给我一次机会好吗，马上我们就认识满2个月了，我不希望它断掉，还希望它能继续茁壮成长，3个月，4个月，一年，甚至有恋爱纪念日。</p>
-<p>把我放出来好吗，拜托了。</p>
-<p>🙏</p>
+          <p>Level: Medium</p>
+<p>Given a binary tree containing digits from <code>0-9</code> only, each root-to-leaf path could represent a number.</p>
+<p>An example is the root-to-leaf path <code>1-&gt;2-&gt;3</code> which represents the number <code>123</code>.</p>
+<p>Find the total sum of all root-to-leaf numbers.</p>
+<p><strong>Note:</strong> A leaf is a node with no children.</p>
+<p><strong>Example:</strong></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">Input: [1,2,3]</span><br><span class="line">    1</span><br><span class="line">   / \</span><br><span class="line">  2   3</span><br><span class="line">Output: 25</span><br><span class="line">Explanation:</span><br><span class="line">The root-to-leaf path 1-&gt;2 represents the number 12.</span><br><span class="line">The root-to-leaf path 1-&gt;3 represents the number 13.</span><br><span class="line">Therefore, sum = 12 + 13 = 25.</span><br></pre></td></tr></table></figure>
 
+<p><strong>Example 2:</strong></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">Input: [4,9,0,5,1]</span><br><span class="line">    4</span><br><span class="line">   / \</span><br><span class="line">  9   0</span><br><span class="line"> / \</span><br><span class="line">5   1</span><br><span class="line">Output: 1026</span><br><span class="line">Explanation:</span><br><span class="line">The root-to-leaf path 4-&gt;9-&gt;5 represents the number 495.</span><br><span class="line">The root-to-leaf path 4-&gt;9-&gt;1 represents the number 491.</span><br><span class="line">The root-to-leaf path 4-&gt;0 represents the number 40.</span><br><span class="line">Therefore, sum = 495 + 491 + 40 = 1026.</span><br></pre></td></tr></table></figure>
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/2020/04/12/LeetCode-129/#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
       
     </div>
 
@@ -249,7 +258,7 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="_en">
-    <link itemprop="mainEntityOfPage" href="https://blog.lihaiyang.me/2020/08/29/晚上去吃饭/">
+    <link itemprop="mainEntityOfPage" href="https://blog.lihaiyang.me/2020/04/12/LeetCode-99/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.gif">
@@ -263,7 +272,7 @@
       <header class="post-header">
         <h2 class="post-title" itemprop="name headline">
           
-            <a href="/2020/08/29/晚上去吃饭/" class="post-title-link" itemprop="url">晚上去吃饭</a>
+            <a href="/2020/04/12/LeetCode-99/" class="post-title-link" itemprop="url">LeetCode-99 Recover Binary Search Tree</a>
         </h2>
 
         <div class="post-meta">
@@ -273,7 +282,7 @@
               </span>
               <span class="post-meta-item-text">Posted on</span>
 
-              <time title="Created: 2020-08-29 11:57:36" itemprop="dateCreated datePublished" datetime="2020-08-29T11:57:36+08:00">2020-08-29</time>
+              <time title="Created: 2020-04-12 19:51:53" itemprop="dateCreated datePublished" datetime="2020-04-12T19:51:53+08:00">2020-04-12</time>
             </span>
 
           <br>
@@ -282,7 +291,7 @@
                 <i class="far fa-file-word"></i>
               </span>
                 <span class="post-meta-item-text">Symbols count in article: </span>
-              <span>555</span>
+              <span>1.6k</span>
             </span>
             <span class="post-meta-item" title="Reading time">
               <span class="post-meta-item-icon">
@@ -301,18 +310,28 @@
     <div class="post-body" itemprop="articleBody">
 
       
-          <p>今天特意打扮了下，hhh。</p>
-<p>话说今天这身行头，还是上次计划七夕和美阳阳约会准备的，今天也算派上用场了。</p>
-<p>等她6点忙完，找个地方吃个饭，然后逛逛街吧。</p>
-<hr>
+          <p>Level: <strong>Hard</strong></p>
+<p>Two elements of a binary search tree (BST) are swapped by mistake.</p>
+<p>Recover the tree without changing its structure.</p>
+<p><strong>Example 1:</strong></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line">Input: [1,3,null,null,2]</span><br><span class="line"></span><br><span class="line">   1</span><br><span class="line">  /</span><br><span class="line"> 3</span><br><span class="line">  \</span><br><span class="line">   2</span><br><span class="line"></span><br><span class="line">Output: [3,1,null,null,2]</span><br><span class="line"></span><br><span class="line">   3</span><br><span class="line">  /</span><br><span class="line"> 1</span><br><span class="line">  \</span><br><span class="line">   2</span><br></pre></td></tr></table></figure>
 
-<p>至于美阳阳，这种事应该第4次还是第5次了吧。一两个小时不回，或者说一下午不回，甚至一天（指工作日8个小时左右）不回，我都可以理解。工作忙没时间回，或者怎样。</p>
-<p>但发了好多条消息，24个小时都不回，<strong>那只能说明我在对方心里不重要</strong>，虽然不想承认，但事实就是如此，而且也不是一次两次了。不过，我也不是对方的什么人，没资格要求太多。只能做好自己，我是只要看到消息肯定会马上回复。我没有秒回只有两种情况，一种是我在忙没看到，比如去同事工位讨论问题了没有带手机之类的。还有一种就是我生气了，这种情况一般都是之前对方先不回我消息，所以我也故意过一回再回她。但也不会很离谱到整天都不回的地步，几个小时顶天了。</p>
-<p>我想说如果因为我很在乎对方，很热情，秒回消息之类的，反倒被对方看轻，觉得我是舔🐶，或者把我当成舔🐶，那我只能说抱歉。</p>
-<p>以前的我可能会当舔🐶，还爱给自己加戏之类的，现在的我不会了。我能想象的到，女生把舔🐶和自己的聊天记录发给自己的朋友看，把舔🐶为自己做的事说自己朋友听，然后取笑之类的。</p>
-<p>两个人互相尊重是最基本的，如果对方不在乎自己那也没必要当舔🐶吧。</p>
-<p>不当舔🐶是我的底线。</p>
+<p><strong>Example 2:</strong></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line">Input: [3,1,4,null,null,2]</span><br><span class="line"></span><br><span class="line">  3</span><br><span class="line"> / \</span><br><span class="line">1   4</span><br><span class="line">   /</span><br><span class="line">  2</span><br><span class="line"></span><br><span class="line">Output: [2,1,4,null,null,3]</span><br><span class="line"></span><br><span class="line">  2</span><br><span class="line"> / \</span><br><span class="line">1   4</span><br><span class="line">   /</span><br><span class="line">  3</span><br></pre></td></tr></table></figure>
 
+<p><strong>Follow up:</strong></p>
+<ul>
+<li>A solution using O(<em>n</em>) space is pretty straight forward.</li>
+<li>Could you devise a constant space solution?</li>
+</ul>
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/2020/04/12/LeetCode-99/#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
       
     </div>
 
@@ -331,7 +350,7 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="_en">
-    <link itemprop="mainEntityOfPage" href="https://blog.lihaiyang.me/2020/08/28/冷暴力/">
+    <link itemprop="mainEntityOfPage" href="https://blog.lihaiyang.me/2020/04/12/LeetCode-98/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.gif">
@@ -345,7 +364,7 @@
       <header class="post-header">
         <h2 class="post-title" itemprop="name headline">
           
-            <a href="/2020/08/28/冷暴力/" class="post-title-link" itemprop="url">冷暴力</a>
+            <a href="/2020/04/12/LeetCode-98/" class="post-title-link" itemprop="url">LeetCode-98 Validate Binary Search Tree</a>
         </h2>
 
         <div class="post-meta">
@@ -355,7 +374,7 @@
               </span>
               <span class="post-meta-item-text">Posted on</span>
 
-              <time title="Created: 2020-08-28 20:46:59" itemprop="dateCreated datePublished" datetime="2020-08-28T20:46:59+08:00">2020-08-28</time>
+              <time title="Created: 2020-04-12 19:51:20" itemprop="dateCreated datePublished" datetime="2020-04-12T19:51:20+08:00">2020-04-12</time>
             </span>
 
           <br>
@@ -364,14 +383,14 @@
                 <i class="far fa-file-word"></i>
               </span>
                 <span class="post-meta-item-text">Symbols count in article: </span>
-              <span>12</span>
+              <span>3.2k</span>
             </span>
             <span class="post-meta-item" title="Reading time">
               <span class="post-meta-item-icon">
                 <i class="far fa-clock"></i>
               </span>
                 <span class="post-meta-item-text">Reading time &asymp;</span>
-              <span>1 mins.</span>
+              <span>3 mins.</span>
             </span>
 
         </div>
@@ -383,9 +402,27 @@
     <div class="post-body" itemprop="articleBody">
 
       
-          <p>算了</p>
-<p>明天和女生出去吃饭吧</p>
+          <p>Level: Medium</p>
+<p>Given a binary tree, determine if it is a valid binary search tree (BST).</p>
+<p>Assume a BST is defined as follows:</p>
+<ul>
+<li>The left subtree of a node contains only nodes with keys <strong>less than</strong> the node’s key.</li>
+<li>The right subtree of a node contains only nodes with keys <strong>greater than</strong> the node’s key.</li>
+<li>Both the left and right subtrees must also be binary search trees.</li>
+</ul>
+<p><strong>Example 1:</strong></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">    2</span><br><span class="line">   / \</span><br><span class="line">  1   3</span><br><span class="line"></span><br><span class="line">Input: [2,1,3]</span><br><span class="line">Output: true</span><br></pre></td></tr></table></figure>
 
+<p><strong>Example 2:</strong></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">    5</span><br><span class="line">   / \</span><br><span class="line">  1   4</span><br><span class="line">     / \</span><br><span class="line">    3   6</span><br><span class="line"></span><br><span class="line">Input: [5,1,4,null,null,3,6]</span><br><span class="line">Output: false</span><br><span class="line">Explanation: The root node&apos;s value is 5 but its right child&apos;s value is 4.</span><br></pre></td></tr></table></figure>
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/2020/04/12/LeetCode-98/#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
       
     </div>
 
@@ -404,7 +441,7 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="_en">
-    <link itemprop="mainEntityOfPage" href="https://blog.lihaiyang.me/2020/08/28/想你了/">
+    <link itemprop="mainEntityOfPage" href="https://blog.lihaiyang.me/2020/04/12/LeetCode-96/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.gif">
@@ -418,7 +455,7 @@
       <header class="post-header">
         <h2 class="post-title" itemprop="name headline">
           
-            <a href="/2020/08/28/想你了/" class="post-title-link" itemprop="url">想你了</a>
+            <a href="/2020/04/12/LeetCode-96/" class="post-title-link" itemprop="url">LeetCode-96 Unique Binary Search Trees</a>
         </h2>
 
         <div class="post-meta">
@@ -428,7 +465,7 @@
               </span>
               <span class="post-meta-item-text">Posted on</span>
 
-              <time title="Created: 2020-08-28 15:19:19" itemprop="dateCreated datePublished" datetime="2020-08-28T15:19:19+08:00">2020-08-28</time>
+              <time title="Created: 2020-04-12 19:50:43" itemprop="dateCreated datePublished" datetime="2020-04-12T19:50:43+08:00">2020-04-12</time>
             </span>
 
           <br>
@@ -437,7 +474,7 @@
                 <i class="far fa-file-word"></i>
               </span>
                 <span class="post-meta-item-text">Symbols count in article: </span>
-              <span>30</span>
+              <span>203</span>
             </span>
             <span class="post-meta-item" title="Reading time">
               <span class="post-meta-item-icon">
@@ -456,10 +493,18 @@
     <div class="post-body" itemprop="articleBody">
 
       
-          <p>和厉害阳认识的第54天</p>
-<p>下午3点19分，还没回消息。</p>
-<p>我想你了。</p>
-
+          <p>Level: Medium</p>
+<p>Given <em>n</em>, how many structurally unique <strong>BST’s</strong> (binary search trees) that store values 1 … <em>n</em>?</p>
+<p><strong>Example:</strong></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">Input: 3</span><br><span class="line">Output: 5</span><br><span class="line">Explanation:</span><br><span class="line">Given n = 3, there are a total of 5 unique BST&apos;s:</span><br><span class="line"></span><br><span class="line">   1         3     3      2      1</span><br><span class="line">    \       /     /      / \      \</span><br><span class="line">     3     2     1      1   3      2</span><br><span class="line">    /     /       \                 \</span><br><span class="line">   2     1         2                 3</span><br></pre></td></tr></table></figure>
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/2020/04/12/LeetCode-96/#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
       
     </div>
 
@@ -478,7 +523,7 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="_en">
-    <link itemprop="mainEntityOfPage" href="https://blog.lihaiyang.me/2020/08/28/什么叫弟位呀/">
+    <link itemprop="mainEntityOfPage" href="https://blog.lihaiyang.me/2020/04/12/LeetCode-95/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.gif">
@@ -492,7 +537,7 @@
       <header class="post-header">
         <h2 class="post-title" itemprop="name headline">
           
-            <a href="/2020/08/28/什么叫弟位呀/" class="post-title-link" itemprop="url">什么叫弟位呀(后仰</a>
+            <a href="/2020/04/12/LeetCode-95/" class="post-title-link" itemprop="url">LeetCode-95 Unique Binary Search Trees II</a>
         </h2>
 
         <div class="post-meta">
@@ -502,7 +547,7 @@
               </span>
               <span class="post-meta-item-text">Posted on</span>
 
-              <time title="Created: 2020-08-28 10:15:10" itemprop="dateCreated datePublished" datetime="2020-08-28T10:15:10+08:00">2020-08-28</time>
+              <time title="Created: 2020-04-12 19:50:04" itemprop="dateCreated datePublished" datetime="2020-04-12T19:50:04+08:00">2020-04-12</time>
             </span>
 
           <br>
@@ -511,7 +556,7 @@
                 <i class="far fa-file-word"></i>
               </span>
                 <span class="post-meta-item-text">Symbols count in article: </span>
-              <span>41</span>
+              <span>315</span>
             </span>
             <span class="post-meta-item" title="Reading time">
               <span class="post-meta-item-icon">
@@ -530,10 +575,18 @@
     <div class="post-body" itemprop="articleBody">
 
       
-          <p>和厉害阳认识的第54天</p>
-<p>从昨晚到现在还没回消息，我就是个弟弟。</p>
-<p>今天也是开心的一天呢。</p>
-
+          <p>Level: Medium</p>
+<p>Given an integer <em>n</em>, generate all structurally unique <strong>BST’s</strong> (binary search trees) that store values 1 … <em>n</em>.</p>
+<p><strong>Example:</strong></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">Input: 3</span><br><span class="line">Output:</span><br><span class="line">[</span><br><span class="line">  [1,null,3,2],</span><br><span class="line">  [3,2,null,1],</span><br><span class="line">  [3,1,null,null,2],</span><br><span class="line">  [2,1,3],</span><br><span class="line">  [1,null,2,null,3]</span><br><span class="line">]</span><br><span class="line">Explanation:</span><br><span class="line">The above output corresponds to the 5 unique BST&apos;s shown below:</span><br><span class="line"></span><br><span class="line">   1         3     3      2      1</span><br><span class="line">    \       /     /      / \      \</span><br><span class="line">     3     2     1      1   3      2</span><br><span class="line">    /     /       \                 \</span><br><span class="line">   2     1         2                 3</span><br></pre></td></tr></table></figure>
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/2020/04/12/LeetCode-95/#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
       
     </div>
 
@@ -552,7 +605,7 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="_en">
-    <link itemprop="mainEntityOfPage" href="https://blog.lihaiyang.me/2020/08/27/范进不举划掉喜疯了/">
+    <link itemprop="mainEntityOfPage" href="https://blog.lihaiyang.me/2020/04/12/LeetCode-94/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.gif">
@@ -566,7 +619,7 @@
       <header class="post-header">
         <h2 class="post-title" itemprop="name headline">
           
-            <a href="/2020/08/27/范进不举划掉喜疯了/" class="post-title-link" itemprop="url">范进不举(划掉)喜疯了</a>
+            <a href="/2020/04/12/LeetCode-94/" class="post-title-link" itemprop="url">LeetCode-94 Binary Tree Inorder Traversal</a>
         </h2>
 
         <div class="post-meta">
@@ -576,7 +629,7 @@
               </span>
               <span class="post-meta-item-text">Posted on</span>
 
-              <time title="Created: 2020-08-27 21:35:20" itemprop="dateCreated datePublished" datetime="2020-08-27T21:35:20+08:00">2020-08-27</time>
+              <time title="Created: 2020-04-12 19:49:23" itemprop="dateCreated datePublished" datetime="2020-04-12T19:49:23+08:00">2020-04-12</time>
             </span>
 
           <br>
@@ -585,7 +638,7 @@
                 <i class="far fa-file-word"></i>
               </span>
                 <span class="post-meta-item-text">Symbols count in article: </span>
-              <span>169</span>
+              <span>1k</span>
             </span>
             <span class="post-meta-item" title="Reading time">
               <span class="post-meta-item-icon">
@@ -604,18 +657,20 @@
     <div class="post-body" itemprop="articleBody">
 
       
-          <p>和厉害阳认识的第53天</p>
-<p>最近听到最让我开心的一句话</p>
-<p>“给我闺蜜看了 她想帮我把关“</p>
-<p>”你懂吧“</p>
-<p>我他妈直接笑出猪叫。</p>
-<p>能明白范进中(bu)举开心到疯掉的心情了。</p>
-<p>谢谢你呀美阳阳，还有美阳阳的闺蜜，谢谢，<del>这句话给了我很大的力量。</del></p>
-<p>滴嘟滴嘟滴嘟，没力量了。</p>
-<hr>
+          <p>Level: Medium</p>
+<p>Given a binary tree, return the <em>inorder</em> traversal of its nodes’ values.</p>
+<p><strong>Example:</strong></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">Input: [1,null,2,3]</span><br><span class="line">   1</span><br><span class="line">    \</span><br><span class="line">     2</span><br><span class="line">    /</span><br><span class="line">   3</span><br><span class="line"></span><br><span class="line">Output: [1,3,2]</span><br></pre></td></tr></table></figure>
 
-<p>改了下2048，计划加一个上局游戏分数的功能，目前还没有实现。主要是不懂JS，要是Java分分钟写好。</p>
-
+<p><strong>Follow up:</strong> Recursive solution is trivial, could you do it iteratively?</p>
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/2020/04/12/LeetCode-94/#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
       
     </div>
 
@@ -634,7 +689,7 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="_en">
-    <link itemprop="mainEntityOfPage" href="https://blog.lihaiyang.me/2020/08/27/虽迟但到的牛逼/">
+    <link itemprop="mainEntityOfPage" href="https://blog.lihaiyang.me/2020/04/09/LeetCode-124/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.gif">
@@ -648,7 +703,7 @@
       <header class="post-header">
         <h2 class="post-title" itemprop="name headline">
           
-            <a href="/2020/08/27/虽迟但到的牛逼/" class="post-title-link" itemprop="url">虽迟但到的牛逼</a>
+            <a href="/2020/04/09/LeetCode-124/" class="post-title-link" itemprop="url">LeetCode-124 Binary Tree Maximum Path Sum</a>
         </h2>
 
         <div class="post-meta">
@@ -658,7 +713,7 @@
               </span>
               <span class="post-meta-item-text">Posted on</span>
 
-              <time title="Created: 2020-08-27 02:08:14" itemprop="dateCreated datePublished" datetime="2020-08-27T02:08:14+08:00">2020-08-27</time>
+              <time title="Created: 2020-04-09 19:40:09" itemprop="dateCreated datePublished" datetime="2020-04-09T19:40:09+08:00">2020-04-09</time>
             </span>
 
           <br>
@@ -667,7 +722,7 @@
                 <i class="far fa-file-word"></i>
               </span>
                 <span class="post-meta-item-text">Symbols count in article: </span>
-              <span>28</span>
+              <span>1k</span>
             </span>
             <span class="post-meta-item" title="Reading time">
               <span class="post-meta-item-icon">
@@ -686,9 +741,22 @@
     <div class="post-body" itemprop="articleBody">
 
       
-          <p>除了牛逼，无话可说。</p>
-<p>2020-08-27 02:08:14</p>
+          <p>Level: <strong>Hard</strong></p>
+<p>Given a <strong>non-empty</strong> binary tree, find the maximum path sum.</p>
+<p>For this problem, a path is defined as any sequence of nodes from some starting node to any node in the tree along the parent-child connections. The path must contain <strong>at least one node</strong> and does not need to go through the root.</p>
+<p><strong>Example 1:</strong></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">Input: [1,2,3]</span><br><span class="line"></span><br><span class="line">       1</span><br><span class="line">      / \</span><br><span class="line">     2   3</span><br><span class="line"></span><br><span class="line">Output: 6</span><br></pre></td></tr></table></figure>
 
+<p><strong>Example 2:</strong></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">Input: [-10,9,20,null,null,15,7]</span><br><span class="line"></span><br><span class="line">   -10</span><br><span class="line">   / \</span><br><span class="line">  9  20</span><br><span class="line">    /  \</span><br><span class="line">   15   7</span><br><span class="line"></span><br><span class="line">Output: 42</span><br></pre></td></tr></table></figure>
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/2020/04/09/LeetCode-124/#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
       
     </div>
 
@@ -707,7 +775,7 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="_en">
-    <link itemprop="mainEntityOfPage" href="https://blog.lihaiyang.me/2020/08/26/终于弄好了/">
+    <link itemprop="mainEntityOfPage" href="https://blog.lihaiyang.me/2020/04/09/LeetCode-117/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.gif">
@@ -721,7 +789,7 @@
       <header class="post-header">
         <h2 class="post-title" itemprop="name headline">
           
-            <a href="/2020/08/26/终于弄好了/" class="post-title-link" itemprop="url">终于弄好了</a>
+            <a href="/2020/04/09/LeetCode-117/" class="post-title-link" itemprop="url">LeetCode-117 Populating Next Right Pointers in Each Node II</a>
         </h2>
 
         <div class="post-meta">
@@ -731,7 +799,7 @@
               </span>
               <span class="post-meta-item-text">Posted on</span>
 
-              <time title="Created: 2020-08-26 22:43:59" itemprop="dateCreated datePublished" datetime="2020-08-26T22:43:59+08:00">2020-08-26</time>
+              <time title="Created: 2020-04-09 19:37:52" itemprop="dateCreated datePublished" datetime="2020-04-09T19:37:52+08:00">2020-04-09</time>
             </span>
 
           <br>
@@ -740,14 +808,14 @@
                 <i class="far fa-file-word"></i>
               </span>
                 <span class="post-meta-item-text">Symbols count in article: </span>
-              <span>72</span>
+              <span>2.7k</span>
             </span>
             <span class="post-meta-item" title="Reading time">
               <span class="post-meta-item-icon">
                 <i class="far fa-clock"></i>
               </span>
                 <span class="post-meta-item-text">Reading time &asymp;</span>
-              <span>1 mins.</span>
+              <span>2 mins.</span>
             </span>
 
         </div>
@@ -759,10 +827,36 @@
     <div class="post-body" itemprop="articleBody">
 
       
-          <p>呼，长呼一口气。</p>
-<p>果然还是DNS解析服务器的问题，更改了域名， 最长需要24小时才能生效，得等服务器刷新缓存。</p>
-<p>吓我一跳还认为自己配置错了，还好没事。</p>
+          <p>Level: Medium</p>
+<p>Given a binary tree</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">struct Node &#123;</span><br><span class="line">  int val;</span><br><span class="line">  Node *left;</span><br><span class="line">  Node *right;</span><br><span class="line">  Node *next;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
+<p>Populate each next pointer to point to its next right node. If there is no next right node, the next pointer should be set to <code>NULL</code>.</p>
+<p>Initially, all next pointers are set to <code>NULL</code>.</p>
+<p><strong>Follow up:</strong></p>
+<ul>
+<li>You may only use constant extra space.</li>
+<li>Recursive approach is fine, you may assume implicit stack space does not count as extra space for this problem.</li>
+</ul>
+<p><strong>Example 1:</strong></p>
+<p><img src="https://assets.leetcode.com/uploads/2019/02/15/117_sample.png" alt="img"></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">Input: root = [1,2,3,4,5,null,7]</span><br><span class="line">Output: [1,#,2,3,#,4,5,7,#]</span><br><span class="line">Explanation: Given the above binary tree (Figure A), your function should populate each next pointer to point to its next right node, just like in Figure B. The serialized output is in level order as connected by the next pointers, with &apos;#&apos; signifying the end of each level.</span><br></pre></td></tr></table></figure>
+
+
+
+<p><strong>Constraints:</strong></p>
+<ul>
+<li>The number of nodes in the given tree is less than <code>6000</code>.</li>
+<li><code>-100 &lt;= node.val &lt;= 100</code></li>
+</ul>
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/2020/04/09/LeetCode-117/#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
       
     </div>
 
@@ -781,7 +875,7 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="_en">
-    <link itemprop="mainEntityOfPage" href="https://blog.lihaiyang.me/2020/08/26/想考研了/">
+    <link itemprop="mainEntityOfPage" href="https://blog.lihaiyang.me/2020/04/09/LeetCode-116/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.gif">
@@ -795,7 +889,7 @@
       <header class="post-header">
         <h2 class="post-title" itemprop="name headline">
           
-            <a href="/2020/08/26/想考研了/" class="post-title-link" itemprop="url">想考研了</a>
+            <a href="/2020/04/09/LeetCode-116/" class="post-title-link" itemprop="url">LeetCode-116 Populating Next Right Pointers in Each Node</a>
         </h2>
 
         <div class="post-meta">
@@ -805,7 +899,7 @@
               </span>
               <span class="post-meta-item-text">Posted on</span>
 
-              <time title="Created: 2020-08-26 20:58:47" itemprop="dateCreated datePublished" datetime="2020-08-26T20:58:47+08:00">2020-08-26</time>
+              <time title="Created: 2020-04-09 19:37:05" itemprop="dateCreated datePublished" datetime="2020-04-09T19:37:05+08:00">2020-04-09</time>
             </span>
 
           <br>
@@ -814,14 +908,14 @@
                 <i class="far fa-file-word"></i>
               </span>
                 <span class="post-meta-item-text">Symbols count in article: </span>
-              <span>358</span>
+              <span>4.3k</span>
             </span>
             <span class="post-meta-item" title="Reading time">
               <span class="post-meta-item-icon">
                 <i class="far fa-clock"></i>
               </span>
                 <span class="post-meta-item-text">Reading time &asymp;</span>
-              <span>1 mins.</span>
+              <span>4 mins.</span>
             </span>
 
         </div>
@@ -833,15 +927,36 @@
     <div class="post-body" itemprop="articleBody">
 
       
-          <p>和厉害阳认识的第52天</p>
-<p>有点想考研了，提升下自己。考虑杭州电子科技大学，主管是这个学校的。虽然说是双非，但阳阳的浙大我<del>应该考不上</del>（自信点）~~绝对考不上。这几天好好考虑下。</p>
-<p>然后今天和阳阳聊天很开心，只是阳阳从来都不会主动找我，我找她也回的比较慢，是不是我太贪心了？慢慢来吧，感觉情况在一点点变好，至少阳阳不讨厌我。</p>
-<p>嘻嘻。</p>
-<hr>
+          <p>Level: Medium</p>
+<p>You are given a <strong>perfect binary tree</strong> where all leaves are on the same level, and every parent has two children. The binary tree has the following definition:</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">struct Node &#123;</span><br><span class="line">  int val;</span><br><span class="line">  Node *left;</span><br><span class="line">  Node *right;</span><br><span class="line">  Node *next;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
-<p>阳阳居然说自己不好看，不会吧不会吧，毕竟在我心里阳阳可是和斋藤飞鸟一样好看的存在，难道是情人眼里出西施吗。</p>
-<p>阳阳今天主动问我网站了，好现象，嘴角疯狂上扬。不过最近写的有点羞（da）耻（dan）呀，毕竟没打算现在被阳阳看到的，原计划是打算等以后和阳阳确认关系再给她惊喜的，emmm虽说上次就被阳阳知道了。不过既然都问了，还是给阳阳看吧。毕竟喜欢一个人是藏不住的。再说了喜欢阳阳又不是什么丢脸的事情（自豪</p>
+<p>Populate each next pointer to point to its next right node. If there is no next right node, the next pointer should be set to <code>NULL</code>.</p>
+<p>Initially, all next pointers are set to <code>NULL</code>.</p>
+<p><strong>Follow up:</strong></p>
+<ul>
+<li>You may only use constant extra space.</li>
+<li>Recursive approach is fine, you may assume implicit stack space does not count as extra space for this problem.</li>
+</ul>
+<p><strong>Example 1:</strong></p>
+<p><img src="https://assets.leetcode.com/uploads/2019/02/14/116_sample.png" alt="img"></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">Input: root = [1,2,3,4,5,6,7]</span><br><span class="line">Output: [1,#,2,3,#,4,5,6,7,#]</span><br><span class="line">Explanation: Given the above perfect binary tree (Figure A), your function should populate each next pointer to point to its next right node, just like in Figure B. The serialized output is in level order as connected by the next pointers, with &apos;#&apos; signifying the end of each level.</span><br></pre></td></tr></table></figure>
 
+
+
+<p><strong>Constraints:</strong></p>
+<ul>
+<li>The number of nodes in the given tree is less than <code>4096</code>.</li>
+<li><code>-1000 &lt;= node.val &lt;= 1000</code></li>
+</ul>
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/2020/04/09/LeetCode-116/#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
       
     </div>
 
@@ -860,7 +975,7 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="_en">
-    <link itemprop="mainEntityOfPage" href="https://blog.lihaiyang.me/2020/08/25/jk春晚/">
+    <link itemprop="mainEntityOfPage" href="https://blog.lihaiyang.me/2020/04/08/LeetCode-114/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.gif">
@@ -874,7 +989,7 @@
       <header class="post-header">
         <h2 class="post-title" itemprop="name headline">
           
-            <a href="/2020/08/25/jk春晚/" class="post-title-link" itemprop="url">jk春晚</a>
+            <a href="/2020/04/08/LeetCode-114/" class="post-title-link" itemprop="url">LeetCode-114 Flatten Binary Tree to Linked List</a>
         </h2>
 
         <div class="post-meta">
@@ -884,7 +999,7 @@
               </span>
               <span class="post-meta-item-text">Posted on</span>
 
-              <time title="Created: 2020-08-25 20:55:49" itemprop="dateCreated datePublished" datetime="2020-08-25T20:55:49+08:00">2020-08-25</time>
+              <time title="Created: 2020-04-08 20:29:53" itemprop="dateCreated datePublished" datetime="2020-04-08T20:29:53+08:00">2020-04-08</time>
             </span>
 
           <br>
@@ -893,7 +1008,7 @@
                 <i class="far fa-file-word"></i>
               </span>
                 <span class="post-meta-item-text">Symbols count in article: </span>
-              <span>832</span>
+              <span>665</span>
             </span>
             <span class="post-meta-item" title="Reading time">
               <span class="post-meta-item-icon">
@@ -912,25 +1027,21 @@
     <div class="post-body" itemprop="articleBody">
 
       
-          <p>和厉害阳认识的第51天</p>
-<p>今天有好多jk发售呢，特地写了一个备忘录。摘一条微博“8月25日神仙打架，特别是晚上8点钟，两只手根本抢不过来，我愿称之为JK春晚 总结一下有优马，深夜，风铃，胡桃木，燕子，兔缝缝，中牌联名，梗豆，春日即为月25日”</p>
-<p>买买买，到时候送给美阳阳，阳阳喜欢jk，我就买jk送她，希望阳阳能够喜欢。不过由于不知道size，所以只能看感觉买了。</p>
-<p>兔缝缝<br>17：20 今生 下一个定闹钟 没抢到❌<br>20：00 森泽中 S45/平角领结✅<br>20：30 蜜间星 S48/平角领结✅<br>21：00 青泽高 S45/平角领结✅</p>
-<p>深夜幻境<br>20：00 情人节粉格 42/64/平角领结✅</p>
-<p>夏日和风铃<br>13：00 热气球巡礼 M45/平角领结 ✅<br>13：00 泉松海 M45/平角领结 ✅<br>13：00 屿樱时 M42/平角领结 ✅<br>13：00 桢川女子 M47/平角领结 ✅<br>13：00 纱织小姐 M42/平角领结 ✅<br>13：00 三粒扣 长款花灰M ✅<br>其他家都秒没，这家晚上还有货，感觉这家不行。妈的，上当了。</p>
-<p>优马<br>20：00 铁子 没抢到❌<br>20：30 铁子慢团 15分钟慢团1秒没还好没放松警惕 ✅</p>
-<p>胡桃木<br>19：30 岚和湮灭 没抢到❌</p>
-<hr>
+          <p>Level: Medium</p>
+<p>Given a binary tree, flatten it to a linked list in-place.</p>
+<p>For example, given the following tree:</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">    1</span><br><span class="line">   / \</span><br><span class="line">  2   5</span><br><span class="line"> / \   \</span><br><span class="line">3   4   6</span><br></pre></td></tr></table></figure>
 
-<p>update</p>
-<p>总结下有两条没抢到，有点可惜，然后夏日和风铃属实没排面，下次不买了。还有就是阳阳居然一条都不喜欢，白买了。之前还说只要买得多，总能买到阳阳喜欢的。现在看来是不行了，再这样买人都没了。</p>
-<p>然后阳阳说不喜欢国产格，记住了，下次注意。以后记得买日产格，话说还得学下怎么区分国产日产，大概贵的是日产？</p>
-<p>然后今天没约出来阳阳，有点难过。特别是阳阳说还有人要约她，而她正和那个男生聊天的时候特别吃醋。还以为阳阳今天要和别人出去过七夕。自己正在追的女生和别的男人出去过七夕了算什么鬼啊。结果好像没有，有可能去了只是没发朋友圈？不知道。</p>
-<hr>
-
-<p>每日jk小知识</p>
-<p>正版JK制服可以分为日制和国产。其中，日制又分为校供和非校供。校供就是日本高校的校服，非校供则是日本商业品牌推出的制服，Conomi、Eastboy、KURI-ORI等是比较出名的JK制服品牌。</p>
-
+<p>The flattened tree should look like:</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">1</span><br><span class="line"> \</span><br><span class="line">  2</span><br><span class="line">   \</span><br><span class="line">    3</span><br><span class="line">     \</span><br><span class="line">      4</span><br><span class="line">       \</span><br><span class="line">        5</span><br><span class="line">         \</span><br><span class="line">          6</span><br></pre></td></tr></table></figure>
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/2020/04/08/LeetCode-114/#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
       
     </div>
 
@@ -948,7 +1059,7 @@
 
   
   <nav class="pagination">
-    <a class="extend prev" rel="prev" href="/page/2/"><i class="fa fa-angle-left" aria-label="Previous page"></i></a><a class="page-number" href="/">1</a><a class="page-number" href="/page/2/">2</a><span class="page-number current">3</span><a class="page-number" href="/page/4/">4</a><span class="space">&hellip;</span><a class="page-number" href="/page/27/">27</a><a class="extend next" rel="next" href="/page/4/"><i class="fa fa-angle-right" aria-label="Next page"></i></a>
+    <a class="extend prev" rel="prev" href="/page/2/"><i class="fa fa-angle-left" aria-label="Previous page"></i></a><a class="page-number" href="/">1</a><a class="page-number" href="/page/2/">2</a><span class="page-number current">3</span><a class="page-number" href="/page/4/">4</a><span class="space">&hellip;</span><a class="page-number" href="/page/22/">22</a><a class="extend next" rel="next" href="/page/4/"><i class="fa fa-angle-right" aria-label="Next page"></i></a>
   </nav>
 
 
@@ -1014,7 +1125,7 @@
       <div class="site-state-item site-state-posts">
           <a href="/archives/">
         
-          <span class="site-state-item-count">264</span>
+          <span class="site-state-item-count">216</span>
           <span class="site-state-item-name">posts</span>
         </a>
       </div>
@@ -1027,7 +1138,7 @@
       <div class="site-state-item site-state-tags">
             <a href="/tags/">
           
-        <span class="site-state-item-count">46</span>
+        <span class="site-state-item-count">23</span>
         <span class="site-state-item-name">tags</span></a>
       </div>
   </nav>
@@ -1063,12 +1174,12 @@
     <span class="post-meta-item-icon">
       <i class="fa fa-chart-area"></i>
     </span>
-    <span title="Symbols count total">75k</span>
+    <span title="Symbols count total">64k</span>
     <span class="post-meta-divider">|</span>
     <span class="post-meta-item-icon">
       <i class="fa fa-coffee"></i>
     </span>
-    <span title="Reading time total">1:08</span>
+    <span title="Reading time total">59 mins.</span>
 </div>
 
         
