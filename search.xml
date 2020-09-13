@@ -209,13 +209,6 @@
       </tags>
   </entry>
   <entry>
-    <title>2020年-第37周周计划</title>
-    <url>/2020/09/13/2020%E5%B9%B4-%E7%AC%AC37%E5%91%A8%E5%91%A8%E8%AE%A1%E5%88%92/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>周一再整理吧。</p>
-<p>背单词，刷题，这次可要专心点了。</p>
-]]></content>
-  </entry>
-  <entry>
     <title>2020年-第20周周计划</title>
     <url>/2020/05/10/2020%E5%B9%B4-%E7%AC%AC20%E5%91%A8%E5%91%A8%E8%AE%A1%E5%88%92/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>新的一周，希望有新的心情吧，不要再沉浸在郁闷和悲伤里了，还有那么多单词等着呢。</p>
@@ -323,10 +316,10 @@
 ]]></content>
   </entry>
   <entry>
-    <title>500篇特辑</title>
-    <url>/2019/07/03/500%E7%AF%87%E7%89%B9%E8%BE%91/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>并没有什么要说的，抽空把以前太监的博客给更新掉比如&lt;四个&gt;，其实还挺想写的就是懒。</p>
-<p>完。</p>
+    <title>2020年-第37周周计划</title>
+    <url>/2020/09/13/2020%E5%B9%B4-%E7%AC%AC37%E5%91%A8%E5%91%A8%E8%AE%A1%E5%88%92/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>周一再整理吧。</p>
+<p>背单词，刷题，这次可要专心点了。</p>
 ]]></content>
   </entry>
   <entry>
@@ -356,6 +349,27 @@
       <tags>
         <tag>规划</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>500篇特辑</title>
+    <url>/2019/07/03/500%E7%AF%87%E7%89%B9%E8%BE%91/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>并没有什么要说的，抽空把以前太监的博客给更新掉比如&lt;四个&gt;，其实还挺想写的就是懒。</p>
+<p>完。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Japan</title>
+    <url>/2019/04/04/Japan/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>哟嚯，约了朋友去日本玩。</p>
+<p>顺便完成一起去日本的约定。</p>
+<p>得先去办护照，和签证。</p>
+<p>期待！</p>
+<p>未完待续。</p>
+<hr>
+
+<p>update 2019-04-07</p>
+<p>可惜，没有单反。一直想要个单反没舍得买，今年是没机会了/</p>
+]]></content>
   </entry>
   <entry>
     <title>LeetCode-100 Same Tree</title>
@@ -422,20 +436,6 @@
         <tag>Tree</tag>
         <tag>Easy</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Japan</title>
-    <url>/2019/04/04/Japan/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>哟嚯，约了朋友去日本玩。</p>
-<p>顺便完成一起去日本的约定。</p>
-<p>得先去办护照，和签证。</p>
-<p>期待！</p>
-<p>未完待续。</p>
-<hr>
-
-<p>update 2019-04-07</p>
-<p>可惜，没有单反。一直想要个单反没舍得买，今年是没机会了/</p>
-]]></content>
   </entry>
   <entry>
     <title>LeetCode-101 Symmetric Tree Easy</title>
@@ -543,32 +543,34 @@
       </tags>
   </entry>
   <entry>
-    <title>LeetCode-103 Binary Tree Zigzag Level Order Traversal</title>
-    <url>/2020/04/02/LeetCode-103/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>Level: Medium</p>
-<p>Given a binary tree, return the <em>level order</em> traversal of its nodes’ values. (ie, from left to right, level by level).</p>
-<p>For example:<br>Given binary tree <code>[3,9,20,null,null,15,7]</code>,</p>
+    <title>LeetCode-104 Maximum Depth of Binary Tree</title>
+    <url>/2020/04/02/LeetCode-104/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>Maximum Depth of Binary Tree</p>
+<p>Level: Easy</p>
+<p>Given a binary tree, find its maximum depth.</p>
+<p>The maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.</p>
+<p><strong>Note:</strong> A leaf is a node with no children.</p>
+<p><strong>Example:</strong></p>
+<p>Given binary tree <code>[3,9,20,null,null,15,7]</code>,</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">  3</span><br><span class="line"> / \</span><br><span class="line">9  20</span><br><span class="line">  /  \</span><br><span class="line"> 15   7</span><br></pre></td></tr></table></figure>
 
-<p>return its level order traversal as:</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">[</span><br><span class="line">  [3],</span><br><span class="line">  [9,20],</span><br><span class="line">  [15,7]</span><br><span class="line">]</span><br></pre></td></tr></table></figure>
-
+<p>return its depth = 3.</p>
 <a id="more"></a>
 
 <p>思路:</p>
-<p>​    题目的需求跟102题很相似，第一反应就是先照着102写，然后在这个基础之上改改。主要是想着改下面这一段，左改右，右改左之类的。</p>
-<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">if</span> (node.left != <span class="keyword">null</span>) &#123;</span><br><span class="line">    queue.add(node.left);</span><br><span class="line">&#125;</span><br><span class="line"><span class="keyword">if</span> (node.right != <span class="keyword">null</span>) &#123;</span><br><span class="line">    queue.add(node.right);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>​    这题比较简单，用递归实现，中途想像平常的DFS一样直接return，想了想发现不行，然后卡了会。得把左右都算出来，比较一下，深度再加1。</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">/**</span></span><br><span class="line"><span class="comment"> * Definition for a binary tree node.</span></span><br><span class="line"><span class="comment"> * public class TreeNode &#123;</span></span><br><span class="line"><span class="comment"> *     int val;</span></span><br><span class="line"><span class="comment"> *     TreeNode left;</span></span><br><span class="line"><span class="comment"> *     TreeNode right;</span></span><br><span class="line"><span class="comment"> *     TreeNode(int x) &#123; val = x; &#125;</span></span><br><span class="line"><span class="comment"> * &#125;</span></span><br><span class="line"><span class="comment"> */</span></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> </span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">int</span> <span class="title">maxDepth</span><span class="params">(TreeNode root)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">if</span> (root == <span class="keyword">null</span>)&#123;</span><br><span class="line">            <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">int</span> left = <span class="number">0</span>;</span><br><span class="line">        <span class="keyword">int</span> right = <span class="number">0</span>;</span><br><span class="line">        <span class="keyword">if</span> (root.left != <span class="keyword">null</span>)&#123;</span><br><span class="line">            left = maxDepth(root.left);</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">if</span> (root.right != <span class="keyword">null</span>)&#123;</span><br><span class="line">            right = maxDepth(root.right);</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> left&gt;=right?left+<span class="number">1</span>:right+<span class="number">1</span>;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
-<p>而然改了半天，发现做不到题目要求的效果。于是乎又求助评论区。果然在原有的基础上加了个标志位，并且新增了一段</p>
-<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">if</span> (zigzag) &#123;</span><br><span class="line">    level.add(<span class="number">0</span>, node.val);</span><br><span class="line">&#125;</span><br><span class="line"><span class="keyword">else</span> &#123;</span><br><span class="line">    level.add(node.val);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>总体写下来还比较顺，没用idea，页面里纯手写，一次编译运行通过。虽然是个Easy难度的题目，但还是能感受到因为进步带来的小小的成就感。</p>
+<p>提交完，照旧看了下讨论区。发现别人只要一行就实现了，淦。</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">Solution</span> </span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">int</span> <span class="title">maxDepth</span><span class="params">(TreeNode root)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">return</span> root==<span class="keyword">null</span>? <span class="number">0</span> : Math.max(maxDepth(root.left), maxDepth(root.right))+<span class="number">1</span>;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">//https://leetcode.com/problems/maximum-depth-of-binary-tree/discuss/34216/Simple-solution-using-Java</span></span><br><span class="line"><span class="comment">// author:dennyrong</span></span><br></pre></td></tr></table></figure>
 
-<p>这个代码后，就能符合题目的要求了，和我心里的预期是相符的。</p>
-<p>但是没看懂这一段的意义，就去了leetcode cn，希望能找个中文的思路看下。结果让我没想到的是，力扣中国这题的写法居然完全换了一种思路。属实8行。</p>
+<p>看了下，大致 的思路是一样的。三元运算符我也用到了，只不过真没想过用Math.max()这个函数，还是得继续努力呀。</p>
 ]]></content>
       <tags>
         <tag>LeetCode</tag>
         <tag>Tree</tag>
-        <tag>Medium</tag>
+        <tag>Easy</tag>
       </tags>
   </entry>
   <entry>
@@ -614,37 +616,6 @@
         <tag>LeetCode</tag>
         <tag>Tree</tag>
         <tag>Medium</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>LeetCode-104 Maximum Depth of Binary Tree</title>
-    <url>/2020/04/02/LeetCode-104/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>Maximum Depth of Binary Tree</p>
-<p>Level: Easy</p>
-<p>Given a binary tree, find its maximum depth.</p>
-<p>The maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.</p>
-<p><strong>Note:</strong> A leaf is a node with no children.</p>
-<p><strong>Example:</strong></p>
-<p>Given binary tree <code>[3,9,20,null,null,15,7]</code>,</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">  3</span><br><span class="line"> / \</span><br><span class="line">9  20</span><br><span class="line">  /  \</span><br><span class="line"> 15   7</span><br></pre></td></tr></table></figure>
-
-<p>return its depth = 3.</p>
-<a id="more"></a>
-
-<p>思路:</p>
-<p>​    这题比较简单，用递归实现，中途想像平常的DFS一样直接return，想了想发现不行，然后卡了会。得把左右都算出来，比较一下，深度再加1。</p>
-<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">/**</span></span><br><span class="line"><span class="comment"> * Definition for a binary tree node.</span></span><br><span class="line"><span class="comment"> * public class TreeNode &#123;</span></span><br><span class="line"><span class="comment"> *     int val;</span></span><br><span class="line"><span class="comment"> *     TreeNode left;</span></span><br><span class="line"><span class="comment"> *     TreeNode right;</span></span><br><span class="line"><span class="comment"> *     TreeNode(int x) &#123; val = x; &#125;</span></span><br><span class="line"><span class="comment"> * &#125;</span></span><br><span class="line"><span class="comment"> */</span></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> </span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">int</span> <span class="title">maxDepth</span><span class="params">(TreeNode root)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">if</span> (root == <span class="keyword">null</span>)&#123;</span><br><span class="line">            <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">int</span> left = <span class="number">0</span>;</span><br><span class="line">        <span class="keyword">int</span> right = <span class="number">0</span>;</span><br><span class="line">        <span class="keyword">if</span> (root.left != <span class="keyword">null</span>)&#123;</span><br><span class="line">            left = maxDepth(root.left);</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">if</span> (root.right != <span class="keyword">null</span>)&#123;</span><br><span class="line">            right = maxDepth(root.right);</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> left&gt;=right?left+<span class="number">1</span>:right+<span class="number">1</span>;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<p>总体写下来还比较顺，没用idea，页面里纯手写，一次编译运行通过。虽然是个Easy难度的题目，但还是能感受到因为进步带来的小小的成就感。</p>
-<p>提交完，照旧看了下讨论区。发现别人只要一行就实现了，淦。</p>
-<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">Solution</span> </span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">int</span> <span class="title">maxDepth</span><span class="params">(TreeNode root)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">return</span> root==<span class="keyword">null</span>? <span class="number">0</span> : Math.max(maxDepth(root.left), maxDepth(root.right))+<span class="number">1</span>;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">//https://leetcode.com/problems/maximum-depth-of-binary-tree/discuss/34216/Simple-solution-using-Java</span></span><br><span class="line"><span class="comment">// author:dennyrong</span></span><br></pre></td></tr></table></figure>
-
-<p>看了下，大致 的思路是一样的。三元运算符我也用到了，只不过真没想过用Math.max()这个函数，还是得继续努力呀。</p>
-]]></content>
-      <tags>
-        <tag>LeetCode</tag>
-        <tag>Tree</tag>
-        <tag>Easy</tag>
       </tags>
   </entry>
   <entry>
@@ -762,35 +733,6 @@
       </tags>
   </entry>
   <entry>
-    <title>LeetCode-111 Minimum Depth of Binary Tree</title>
-    <url>/2020/04/08/LeetCode-111/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>Level: Easy</p>
-<p>Given a binary tree, find its minimum depth.</p>
-<p>The minimum depth is the number of nodes along the shortest path from the root node down to the nearest leaf node.</p>
-<p><strong>Note:</strong> A leaf is a node with no children.</p>
-<p><strong>Example:</strong></p>
-<p>Given binary tree <code>[3,9,20,null,null,15,7]</code>,</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">  3</span><br><span class="line"> / \</span><br><span class="line">9  20</span><br><span class="line">  /  \</span><br><span class="line"> 15   7</span><br></pre></td></tr></table></figure>
-
-<p>return its minimum depth = 2.</p>
-<a id="more"></a>
-
-<p>自己的解</p>
-<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">/**</span></span><br><span class="line"><span class="comment"> * Definition for a binary tree node.</span></span><br><span class="line"><span class="comment"> * public class TreeNode &#123;</span></span><br><span class="line"><span class="comment"> *     int val;</span></span><br><span class="line"><span class="comment"> *     TreeNode left;</span></span><br><span class="line"><span class="comment"> *     TreeNode right;</span></span><br><span class="line"><span class="comment"> *     TreeNode(int x) &#123; val = x; &#125;</span></span><br><span class="line"><span class="comment"> * &#125;</span></span><br><span class="line"><span class="comment"> */</span></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> </span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">int</span> <span class="title">minDepth</span><span class="params">(TreeNode root)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">int</span> depth = <span class="number">1</span>;</span><br><span class="line">        <span class="keyword">if</span> (root == <span class="keyword">null</span>)&#123;</span><br><span class="line">            <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        </span><br><span class="line">        <span class="keyword">return</span> helper(root,depth);</span><br><span class="line">    &#125;</span><br><span class="line">    </span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">int</span> <span class="title">helper</span><span class="params">(TreeNode root,<span class="keyword">int</span> depth)</span></span>&#123;</span><br><span class="line">        depth ++;</span><br><span class="line">        <span class="keyword">if</span> (root.left != <span class="keyword">null</span>)&#123;</span><br><span class="line">            helper(root.left,depth);</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">if</span>(root.right != <span class="keyword">null</span>)&#123;</span><br><span class="line">            helper(root.right,depth);</span><br><span class="line">        &#125;</span><br><span class="line">        </span><br><span class="line">        <span class="keyword">return</span> depth;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<p>然而是错的。</p>
-<p>正确答案:</p>
-<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">/**</span></span><br><span class="line"><span class="comment"> * Definition for a binary tree node.</span></span><br><span class="line"><span class="comment"> * public class TreeNode &#123;</span></span><br><span class="line"><span class="comment"> *     int val;</span></span><br><span class="line"><span class="comment"> *     TreeNode left;</span></span><br><span class="line"><span class="comment"> *     TreeNode right;</span></span><br><span class="line"><span class="comment"> *     TreeNode(int x) &#123; val = x; &#125;</span></span><br><span class="line"><span class="comment"> * &#125;</span></span><br><span class="line"><span class="comment"> */</span></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> </span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">int</span> <span class="title">minDepth</span><span class="params">(TreeNode root)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">if</span> (root == <span class="keyword">null</span>)&#123;</span><br><span class="line">            <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        </span><br><span class="line">        <span class="keyword">return</span> helper(root);</span><br><span class="line">    &#125;</span><br><span class="line">    </span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">int</span> <span class="title">helper</span><span class="params">(TreeNode root)</span></span>&#123;</span><br><span class="line">	<span class="keyword">if</span> (root.left == <span class="keyword">null</span>)	&#123;</span><br><span class="line">        <span class="keyword">return</span> minDepth(root.right) + <span class="number">1</span>;</span><br><span class="line">    &#125;</span><br><span class="line">	<span class="keyword">if</span> (root.right == <span class="keyword">null</span>) &#123;</span><br><span class="line">        <span class="keyword">return</span> minDepth(root.left) + <span class="number">1</span>;</span><br><span class="line">    &#125;</span><br><span class="line">	<span class="keyword">return</span> Math.min(minDepth(root.left),minDepth(root.right)) + <span class="number">1</span>;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<p>大体框架上是对了，但是细节还是不对，还是很菜。。。</p>
-]]></content>
-      <tags>
-        <tag>LeetCode</tag>
-        <tag>Tree</tag>
-        <tag>Easy</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>LeetCode-113 Path Sum II</title>
     <url>/2020/04/08/LeetCode-113/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>Level: Medium</p>
@@ -860,6 +802,86 @@
 <figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">/**</span></span><br><span class="line"><span class="comment"> * Definition for a binary tree node.</span></span><br><span class="line"><span class="comment"> * public class TreeNode &#123;</span></span><br><span class="line"><span class="comment"> *     int val;</span></span><br><span class="line"><span class="comment"> *     TreeNode left;</span></span><br><span class="line"><span class="comment"> *     TreeNode right;</span></span><br><span class="line"><span class="comment"> *     TreeNode(int x) &#123; val = x; &#125;</span></span><br><span class="line"><span class="comment"> * &#125;</span></span><br><span class="line"><span class="comment"> */</span></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> </span>&#123;</span><br><span class="line">    <span class="keyword">private</span> TreeNode prev = <span class="keyword">null</span>;</span><br><span class="line"></span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">flatten</span><span class="params">(TreeNode root)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">if</span> (root == <span class="keyword">null</span>)&#123;</span><br><span class="line">            <span class="keyword">return</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        flatten(root.right);</span><br><span class="line">        flatten(root.left);</span><br><span class="line">        root.right = prev;</span><br><span class="line">        root.left = <span class="keyword">null</span>;</span><br><span class="line">        prev = root;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
 <p>看见这种特别短的代码就头疼，没搞清楚递归的执行顺序，导致看不懂。今天先不做了，消化一下，没弄懂的地方还很多。</p>
+]]></content>
+      <tags>
+        <tag>LeetCode</tag>
+        <tag>Tree</tag>
+        <tag>Medium</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>LeetCode-111 Minimum Depth of Binary Tree</title>
+    <url>/2020/04/08/LeetCode-111/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>Level: Easy</p>
+<p>Given a binary tree, find its minimum depth.</p>
+<p>The minimum depth is the number of nodes along the shortest path from the root node down to the nearest leaf node.</p>
+<p><strong>Note:</strong> A leaf is a node with no children.</p>
+<p><strong>Example:</strong></p>
+<p>Given binary tree <code>[3,9,20,null,null,15,7]</code>,</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">  3</span><br><span class="line"> / \</span><br><span class="line">9  20</span><br><span class="line">  /  \</span><br><span class="line"> 15   7</span><br></pre></td></tr></table></figure>
+
+<p>return its minimum depth = 2.</p>
+<a id="more"></a>
+
+<p>自己的解</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">/**</span></span><br><span class="line"><span class="comment"> * Definition for a binary tree node.</span></span><br><span class="line"><span class="comment"> * public class TreeNode &#123;</span></span><br><span class="line"><span class="comment"> *     int val;</span></span><br><span class="line"><span class="comment"> *     TreeNode left;</span></span><br><span class="line"><span class="comment"> *     TreeNode right;</span></span><br><span class="line"><span class="comment"> *     TreeNode(int x) &#123; val = x; &#125;</span></span><br><span class="line"><span class="comment"> * &#125;</span></span><br><span class="line"><span class="comment"> */</span></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> </span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">int</span> <span class="title">minDepth</span><span class="params">(TreeNode root)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">int</span> depth = <span class="number">1</span>;</span><br><span class="line">        <span class="keyword">if</span> (root == <span class="keyword">null</span>)&#123;</span><br><span class="line">            <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        </span><br><span class="line">        <span class="keyword">return</span> helper(root,depth);</span><br><span class="line">    &#125;</span><br><span class="line">    </span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">int</span> <span class="title">helper</span><span class="params">(TreeNode root,<span class="keyword">int</span> depth)</span></span>&#123;</span><br><span class="line">        depth ++;</span><br><span class="line">        <span class="keyword">if</span> (root.left != <span class="keyword">null</span>)&#123;</span><br><span class="line">            helper(root.left,depth);</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">if</span>(root.right != <span class="keyword">null</span>)&#123;</span><br><span class="line">            helper(root.right,depth);</span><br><span class="line">        &#125;</span><br><span class="line">        </span><br><span class="line">        <span class="keyword">return</span> depth;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>然而是错的。</p>
+<p>正确答案:</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">/**</span></span><br><span class="line"><span class="comment"> * Definition for a binary tree node.</span></span><br><span class="line"><span class="comment"> * public class TreeNode &#123;</span></span><br><span class="line"><span class="comment"> *     int val;</span></span><br><span class="line"><span class="comment"> *     TreeNode left;</span></span><br><span class="line"><span class="comment"> *     TreeNode right;</span></span><br><span class="line"><span class="comment"> *     TreeNode(int x) &#123; val = x; &#125;</span></span><br><span class="line"><span class="comment"> * &#125;</span></span><br><span class="line"><span class="comment"> */</span></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> </span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">int</span> <span class="title">minDepth</span><span class="params">(TreeNode root)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">if</span> (root == <span class="keyword">null</span>)&#123;</span><br><span class="line">            <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        </span><br><span class="line">        <span class="keyword">return</span> helper(root);</span><br><span class="line">    &#125;</span><br><span class="line">    </span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">int</span> <span class="title">helper</span><span class="params">(TreeNode root)</span></span>&#123;</span><br><span class="line">	<span class="keyword">if</span> (root.left == <span class="keyword">null</span>)	&#123;</span><br><span class="line">        <span class="keyword">return</span> minDepth(root.right) + <span class="number">1</span>;</span><br><span class="line">    &#125;</span><br><span class="line">	<span class="keyword">if</span> (root.right == <span class="keyword">null</span>) &#123;</span><br><span class="line">        <span class="keyword">return</span> minDepth(root.left) + <span class="number">1</span>;</span><br><span class="line">    &#125;</span><br><span class="line">	<span class="keyword">return</span> Math.min(minDepth(root.left),minDepth(root.right)) + <span class="number">1</span>;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>大体框架上是对了，但是细节还是不对，还是很菜。。。</p>
+]]></content>
+      <tags>
+        <tag>LeetCode</tag>
+        <tag>Tree</tag>
+        <tag>Easy</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>LeetCode-117 Populating Next Right Pointers in Each Node II</title>
+    <url>/2020/04/09/LeetCode-117/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>Level: Medium</p>
+<p>Given a binary tree</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">struct Node &#123;</span><br><span class="line">  int val;</span><br><span class="line">  Node *left;</span><br><span class="line">  Node *right;</span><br><span class="line">  Node *next;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>Populate each next pointer to point to its next right node. If there is no next right node, the next pointer should be set to <code>NULL</code>.</p>
+<p>Initially, all next pointers are set to <code>NULL</code>.</p>
+<p><strong>Follow up:</strong></p>
+<ul>
+<li>You may only use constant extra space.</li>
+<li>Recursive approach is fine, you may assume implicit stack space does not count as extra space for this problem.</li>
+</ul>
+<p><strong>Example 1:</strong></p>
+<p><img src="https://assets.leetcode.com/uploads/2019/02/15/117_sample.png" alt="img"></p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Input: root = [1,2,3,4,5,null,7]</span><br><span class="line">Output: [1,#,2,3,#,4,5,7,#]</span><br><span class="line">Explanation: Given the above binary tree (Figure A), your function should populate each next pointer to point to its next right node, just like in Figure B. The serialized output is in level order as connected by the next pointers, with &apos;#&apos; signifying the end of each level.</span><br></pre></td></tr></table></figure>
+
+
+
+<p><strong>Constraints:</strong></p>
+<ul>
+<li>The number of nodes in the given tree is less than <code>6000</code>.</li>
+<li><code>-100 &lt;= node.val &lt;= 100</code></li>
+</ul>
+<a id="more"></a>
+
+<p>思路:</p>
+<p>​    用上一题的层次遍历的话貌似不需要改代码，说干就干，趁着记忆还热乎着，把116的代码码了一遍，由于手打还是出现了一些波折，</p>
+<ol>
+<li>比如<code>Queue&lt;Node&gt; queue = new LinkedList&lt;Node&gt;();</code>少打了前面的<code>&lt;Node&gt;</code>，毕竟之前都是用IDEA，敲后面的<code>new LinkedList&lt;Node&gt;();</code>用快捷键自动生成前面。</li>
+<li>再就是<code>queue.size()</code>少了<code>()</code>,还是同样的理由，之前都是自动补全的代码。</li>
+<li>还有就是<code>Node node = queue.poll();</code>写在了<code>for</code>循环的外面。</li>
+<li>最后就是<code>node.next = queue.peek();</code>不知道左边应该写什么。</li>
+</ol>
+<p>大体上还是OK的，没有出现Runtime Exception，几个编译异常也都及时发现并解决了，没有出现找了很久没发现错哪的问题。</p>
+<p>但是层级遍历的空间复杂度为<img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/34109fe397fdcff370079185bfdb65826cb5565a" alt="O(n)">，并不符合题目的进阶要求。</p>
+<p>层级遍历:</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">/*</span></span><br><span class="line"><span class="comment">// Definition for a Node.</span></span><br><span class="line"><span class="comment">class Node &#123;</span></span><br><span class="line"><span class="comment">    public int val;</span></span><br><span class="line"><span class="comment">    public Node left;</span></span><br><span class="line"><span class="comment">    public Node right;</span></span><br><span class="line"><span class="comment">    public Node next;</span></span><br><span class="line"><span class="comment"></span></span><br><span class="line"><span class="comment">    public Node() &#123;&#125;</span></span><br><span class="line"><span class="comment">    </span></span><br><span class="line"><span class="comment">    public Node(int _val) &#123;</span></span><br><span class="line"><span class="comment">        val = _val;</span></span><br><span class="line"><span class="comment">    &#125;</span></span><br><span class="line"><span class="comment"></span></span><br><span class="line"><span class="comment">    public Node(int _val, Node _left, Node _right, Node _next) &#123;</span></span><br><span class="line"><span class="comment">        val = _val;</span></span><br><span class="line"><span class="comment">        left = _left;</span></span><br><span class="line"><span class="comment">        right = _right;</span></span><br><span class="line"><span class="comment">        next = _next;</span></span><br><span class="line"><span class="comment">    &#125;</span></span><br><span class="line"><span class="comment">&#125;;</span></span><br><span class="line"><span class="comment">*/</span></span><br><span class="line"></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> </span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> Node <span class="title">connect</span><span class="params">(Node root)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">if</span> (root == <span class="keyword">null</span>)&#123;</span><br><span class="line">            <span class="keyword">return</span> <span class="keyword">null</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        </span><br><span class="line">        Queue&lt;Node&gt; queue = <span class="keyword">new</span> LinkedList&lt;Node&gt;();</span><br><span class="line">        queue.offer(root);</span><br><span class="line">        <span class="keyword">while</span> (queue.size() &gt; <span class="number">0</span>)&#123;</span><br><span class="line">            </span><br><span class="line">            <span class="keyword">int</span> size = queue.size();</span><br><span class="line">            <span class="keyword">for</span> (<span class="keyword">int</span> i = <span class="number">0</span>; i &lt; size; i++)&#123;</span><br><span class="line">                Node node = queue.poll();</span><br><span class="line">                <span class="keyword">if</span> (i &lt; size -<span class="number">1</span>)&#123;</span><br><span class="line">                    node.next = queue.peek();</span><br><span class="line">                &#125;</span><br><span class="line">                <span class="keyword">if</span> (node.left != <span class="keyword">null</span>)&#123;</span><br><span class="line">                    queue.add(node.left);</span><br><span class="line">                &#125;</span><br><span class="line">                <span class="keyword">if</span> (node.right != <span class="keyword">null</span>)&#123;</span><br><span class="line">                    queue.add(node.right);</span><br><span class="line">                &#125;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> root;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>空间复杂度为<img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e66384bc40452c5452f33563fe0e27e803b0cc21" alt="O(1)">的方法还没仔细看，感觉挺复杂的，也贴一下吧。</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">Solution</span> </span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">connect</span><span class="params">(TreeLinkNode root)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">if</span> (root == <span class="keyword">null</span>) <span class="keyword">return</span>;</span><br><span class="line">        TreeLinkNode curP = root;</span><br><span class="line">        TreeLinkNode nextDummyHead = <span class="keyword">new</span> TreeLinkNode(<span class="number">0</span>);</span><br><span class="line">        TreeLinkNode p = nextDummyHead;</span><br><span class="line">        <span class="keyword">while</span> (curP != <span class="keyword">null</span>) &#123;</span><br><span class="line">            <span class="keyword">if</span> (curP.left != <span class="keyword">null</span>) &#123;</span><br><span class="line">                p.next = curP.left;</span><br><span class="line">                p = p.next;</span><br><span class="line">            &#125;</span><br><span class="line">            <span class="keyword">if</span> (curP.right != <span class="keyword">null</span>) &#123;</span><br><span class="line">                p.next = curP.right;</span><br><span class="line">                p = p.next;</span><br><span class="line">            &#125;</span><br><span class="line">            <span class="keyword">if</span> (curP.next != <span class="keyword">null</span>) &#123;</span><br><span class="line">                curP = curP.next;</span><br><span class="line">            &#125;</span><br><span class="line">            <span class="keyword">else</span> &#123;</span><br><span class="line">                curP = nextDummyHead.next;</span><br><span class="line">                nextDummyHead.next = <span class="keyword">null</span>;</span><br><span class="line">                p = nextDummyHead;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>链接：<a href="https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/discuss/37828/O(1)-space-O(n)-complexity-Iterative-Solution" target="_blank" rel="noopener">https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/discuss/37828/O(1)-space-O(n)-complexity-Iterative-Solution</a></p>
 ]]></content>
       <tags>
         <tag>LeetCode</tag>
@@ -967,54 +989,31 @@
       </tags>
   </entry>
   <entry>
-    <title>LeetCode-117 Populating Next Right Pointers in Each Node II</title>
-    <url>/2020/04/09/LeetCode-117/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>Level: Medium</p>
-<p>Given a binary tree</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">struct Node &#123;</span><br><span class="line">  int val;</span><br><span class="line">  Node *left;</span><br><span class="line">  Node *right;</span><br><span class="line">  Node *next;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<p>Populate each next pointer to point to its next right node. If there is no next right node, the next pointer should be set to <code>NULL</code>.</p>
-<p>Initially, all next pointers are set to <code>NULL</code>.</p>
-<p><strong>Follow up:</strong></p>
-<ul>
-<li>You may only use constant extra space.</li>
-<li>Recursive approach is fine, you may assume implicit stack space does not count as extra space for this problem.</li>
-</ul>
+    <title>LeetCode-124 Binary Tree Maximum Path Sum</title>
+    <url>/2020/04/09/LeetCode-124/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>Level: <strong>Hard</strong></p>
+<p>Given a <strong>non-empty</strong> binary tree, find the maximum path sum.</p>
+<p>For this problem, a path is defined as any sequence of nodes from some starting node to any node in the tree along the parent-child connections. The path must contain <strong>at least one node</strong> and does not need to go through the root.</p>
 <p><strong>Example 1:</strong></p>
-<p><img src="https://assets.leetcode.com/uploads/2019/02/15/117_sample.png" alt="img"></p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Input: root = [1,2,3,4,5,null,7]</span><br><span class="line">Output: [1,#,2,3,#,4,5,7,#]</span><br><span class="line">Explanation: Given the above binary tree (Figure A), your function should populate each next pointer to point to its next right node, just like in Figure B. The serialized output is in level order as connected by the next pointers, with &apos;#&apos; signifying the end of each level.</span><br></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Input: [1,2,3]</span><br><span class="line"></span><br><span class="line">       1</span><br><span class="line">      / \</span><br><span class="line">     2   3</span><br><span class="line"></span><br><span class="line">Output: 6</span><br></pre></td></tr></table></figure>
 
+<p><strong>Example 2:</strong></p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Input: [-10,9,20,null,null,15,7]</span><br><span class="line"></span><br><span class="line">   -10</span><br><span class="line">   / \</span><br><span class="line">  9  20</span><br><span class="line">    /  \</span><br><span class="line">   15   7</span><br><span class="line"></span><br><span class="line">Output: 42</span><br></pre></td></tr></table></figure>
 
-
-<p><strong>Constraints:</strong></p>
-<ul>
-<li>The number of nodes in the given tree is less than <code>6000</code>.</li>
-<li><code>-100 &lt;= node.val &lt;= 100</code></li>
-</ul>
 <a id="more"></a>
 
-<p>思路:</p>
-<p>​    用上一题的层次遍历的话貌似不需要改代码，说干就干，趁着记忆还热乎着，把116的代码码了一遍，由于手打还是出现了一些波折，</p>
-<ol>
-<li>比如<code>Queue&lt;Node&gt; queue = new LinkedList&lt;Node&gt;();</code>少打了前面的<code>&lt;Node&gt;</code>，毕竟之前都是用IDEA，敲后面的<code>new LinkedList&lt;Node&gt;();</code>用快捷键自动生成前面。</li>
-<li>再就是<code>queue.size()</code>少了<code>()</code>,还是同样的理由，之前都是自动补全的代码。</li>
-<li>还有就是<code>Node node = queue.poll();</code>写在了<code>for</code>循环的外面。</li>
-<li>最后就是<code>node.next = queue.peek();</code>不知道左边应该写什么。</li>
-</ol>
-<p>大体上还是OK的，没有出现Runtime Exception，几个编译异常也都及时发现并解决了，没有出现找了很久没发现错哪的问题。</p>
-<p>但是层级遍历的空间复杂度为<img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/34109fe397fdcff370079185bfdb65826cb5565a" alt="O(n)">，并不符合题目的进阶要求。</p>
-<p>层级遍历:</p>
-<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">/*</span></span><br><span class="line"><span class="comment">// Definition for a Node.</span></span><br><span class="line"><span class="comment">class Node &#123;</span></span><br><span class="line"><span class="comment">    public int val;</span></span><br><span class="line"><span class="comment">    public Node left;</span></span><br><span class="line"><span class="comment">    public Node right;</span></span><br><span class="line"><span class="comment">    public Node next;</span></span><br><span class="line"><span class="comment"></span></span><br><span class="line"><span class="comment">    public Node() &#123;&#125;</span></span><br><span class="line"><span class="comment">    </span></span><br><span class="line"><span class="comment">    public Node(int _val) &#123;</span></span><br><span class="line"><span class="comment">        val = _val;</span></span><br><span class="line"><span class="comment">    &#125;</span></span><br><span class="line"><span class="comment"></span></span><br><span class="line"><span class="comment">    public Node(int _val, Node _left, Node _right, Node _next) &#123;</span></span><br><span class="line"><span class="comment">        val = _val;</span></span><br><span class="line"><span class="comment">        left = _left;</span></span><br><span class="line"><span class="comment">        right = _right;</span></span><br><span class="line"><span class="comment">        next = _next;</span></span><br><span class="line"><span class="comment">    &#125;</span></span><br><span class="line"><span class="comment">&#125;;</span></span><br><span class="line"><span class="comment">*/</span></span><br><span class="line"></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> </span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> Node <span class="title">connect</span><span class="params">(Node root)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">if</span> (root == <span class="keyword">null</span>)&#123;</span><br><span class="line">            <span class="keyword">return</span> <span class="keyword">null</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        </span><br><span class="line">        Queue&lt;Node&gt; queue = <span class="keyword">new</span> LinkedList&lt;Node&gt;();</span><br><span class="line">        queue.offer(root);</span><br><span class="line">        <span class="keyword">while</span> (queue.size() &gt; <span class="number">0</span>)&#123;</span><br><span class="line">            </span><br><span class="line">            <span class="keyword">int</span> size = queue.size();</span><br><span class="line">            <span class="keyword">for</span> (<span class="keyword">int</span> i = <span class="number">0</span>; i &lt; size; i++)&#123;</span><br><span class="line">                Node node = queue.poll();</span><br><span class="line">                <span class="keyword">if</span> (i &lt; size -<span class="number">1</span>)&#123;</span><br><span class="line">                    node.next = queue.peek();</span><br><span class="line">                &#125;</span><br><span class="line">                <span class="keyword">if</span> (node.left != <span class="keyword">null</span>)&#123;</span><br><span class="line">                    queue.add(node.left);</span><br><span class="line">                &#125;</span><br><span class="line">                <span class="keyword">if</span> (node.right != <span class="keyword">null</span>)&#123;</span><br><span class="line">                    queue.add(node.right);</span><br><span class="line">                &#125;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> root;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>遇到的第一个难度为<code>Hard</code>的题，这个单词直接让我放弃了思考，直奔评论区。</p>
+<p>真是他妈的优雅呀</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">Solution</span> </span>&#123;</span><br><span class="line">    <span class="keyword">int</span> max = Integer.MIN_VALUE;</span><br><span class="line">    </span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">int</span> <span class="title">maxPathSum</span><span class="params">(TreeNode root)</span> </span>&#123;</span><br><span class="line">        helper(root);</span><br><span class="line">        <span class="keyword">return</span> max;</span><br><span class="line">    &#125;</span><br><span class="line">    </span><br><span class="line">    <span class="comment">// helper returns the max branch </span></span><br><span class="line">    <span class="comment">// plus current node's value</span></span><br><span class="line">    <span class="function"><span class="keyword">int</span> <span class="title">helper</span><span class="params">(TreeNode root)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">if</span> (root == <span class="keyword">null</span>) <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">        </span><br><span class="line">        <span class="keyword">int</span> left = Math.max(helper(root.left), <span class="number">0</span>);</span><br><span class="line">        <span class="keyword">int</span> right = Math.max(helper(root.right), <span class="number">0</span>);</span><br><span class="line">        </span><br><span class="line">        max = Math.max(max, root.val + left + right);</span><br><span class="line">        </span><br><span class="line">        <span class="keyword">return</span> root.val + Math.max(left, right);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">// 链接：https://leetcode.com/problems/binary-tree-maximum-path-sum/discuss/39875/Elegant-Java-solution</span></span><br></pre></td></tr></table></figure>
 
-<p>空间复杂度为<img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e66384bc40452c5452f33563fe0e27e803b0cc21" alt="O(1)">的方法还没仔细看，感觉挺复杂的，也贴一下吧。</p>
-<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">Solution</span> </span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">connect</span><span class="params">(TreeLinkNode root)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">if</span> (root == <span class="keyword">null</span>) <span class="keyword">return</span>;</span><br><span class="line">        TreeLinkNode curP = root;</span><br><span class="line">        TreeLinkNode nextDummyHead = <span class="keyword">new</span> TreeLinkNode(<span class="number">0</span>);</span><br><span class="line">        TreeLinkNode p = nextDummyHead;</span><br><span class="line">        <span class="keyword">while</span> (curP != <span class="keyword">null</span>) &#123;</span><br><span class="line">            <span class="keyword">if</span> (curP.left != <span class="keyword">null</span>) &#123;</span><br><span class="line">                p.next = curP.left;</span><br><span class="line">                p = p.next;</span><br><span class="line">            &#125;</span><br><span class="line">            <span class="keyword">if</span> (curP.right != <span class="keyword">null</span>) &#123;</span><br><span class="line">                p.next = curP.right;</span><br><span class="line">                p = p.next;</span><br><span class="line">            &#125;</span><br><span class="line">            <span class="keyword">if</span> (curP.next != <span class="keyword">null</span>) &#123;</span><br><span class="line">                curP = curP.next;</span><br><span class="line">            &#125;</span><br><span class="line">            <span class="keyword">else</span> &#123;</span><br><span class="line">                curP = nextDummyHead.next;</span><br><span class="line">                nextDummyHead.next = <span class="keyword">null</span>;</span><br><span class="line">                p = nextDummyHead;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>虽然还不是很懂这两行</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line">max = Math.max(max, root.val + left + right);</span><br><span class="line"></span><br><span class="line"><span class="keyword">return</span> root.val + Math.max(left, right);</span><br></pre></td></tr></table></figure>
 
-<p>链接：<a href="https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/discuss/37828/O(1)-space-O(n)-complexity-Iterative-Solution" target="_blank" rel="noopener">https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/discuss/37828/O(1)-space-O(n)-complexity-Iterative-Solution</a></p>
 ]]></content>
       <tags>
         <tag>LeetCode</tag>
         <tag>Tree</tag>
-        <tag>Medium</tag>
+        <tag>Hard</tag>
       </tags>
   </entry>
   <entry>
@@ -1076,34 +1075,6 @@
         <tag>LeetCode</tag>
         <tag>Tree</tag>
         <tag>Medium</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>LeetCode-124 Binary Tree Maximum Path Sum</title>
-    <url>/2020/04/09/LeetCode-124/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>Level: <strong>Hard</strong></p>
-<p>Given a <strong>non-empty</strong> binary tree, find the maximum path sum.</p>
-<p>For this problem, a path is defined as any sequence of nodes from some starting node to any node in the tree along the parent-child connections. The path must contain <strong>at least one node</strong> and does not need to go through the root.</p>
-<p><strong>Example 1:</strong></p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Input: [1,2,3]</span><br><span class="line"></span><br><span class="line">       1</span><br><span class="line">      / \</span><br><span class="line">     2   3</span><br><span class="line"></span><br><span class="line">Output: 6</span><br></pre></td></tr></table></figure>
-
-<p><strong>Example 2:</strong></p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Input: [-10,9,20,null,null,15,7]</span><br><span class="line"></span><br><span class="line">   -10</span><br><span class="line">   / \</span><br><span class="line">  9  20</span><br><span class="line">    /  \</span><br><span class="line">   15   7</span><br><span class="line"></span><br><span class="line">Output: 42</span><br></pre></td></tr></table></figure>
-
-<a id="more"></a>
-
-<p>遇到的第一个难度为<code>Hard</code>的题，这个单词直接让我放弃了思考，直奔评论区。</p>
-<p>真是他妈的优雅呀</p>
-<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">Solution</span> </span>&#123;</span><br><span class="line">    <span class="keyword">int</span> max = Integer.MIN_VALUE;</span><br><span class="line">    </span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">int</span> <span class="title">maxPathSum</span><span class="params">(TreeNode root)</span> </span>&#123;</span><br><span class="line">        helper(root);</span><br><span class="line">        <span class="keyword">return</span> max;</span><br><span class="line">    &#125;</span><br><span class="line">    </span><br><span class="line">    <span class="comment">// helper returns the max branch </span></span><br><span class="line">    <span class="comment">// plus current node's value</span></span><br><span class="line">    <span class="function"><span class="keyword">int</span> <span class="title">helper</span><span class="params">(TreeNode root)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">if</span> (root == <span class="keyword">null</span>) <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">        </span><br><span class="line">        <span class="keyword">int</span> left = Math.max(helper(root.left), <span class="number">0</span>);</span><br><span class="line">        <span class="keyword">int</span> right = Math.max(helper(root.right), <span class="number">0</span>);</span><br><span class="line">        </span><br><span class="line">        max = Math.max(max, root.val + left + right);</span><br><span class="line">        </span><br><span class="line">        <span class="keyword">return</span> root.val + Math.max(left, right);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">// 链接：https://leetcode.com/problems/binary-tree-maximum-path-sum/discuss/39875/Elegant-Java-solution</span></span><br></pre></td></tr></table></figure>
-
-<p>虽然还不是很懂这两行</p>
-<figure class="highlight java"><table><tr><td class="code"><pre><span class="line">max = Math.max(max, root.val + left + right);</span><br><span class="line"></span><br><span class="line"><span class="keyword">return</span> root.val + Math.max(left, right);</span><br></pre></td></tr></table></figure>
-
-]]></content>
-      <tags>
-        <tag>LeetCode</tag>
-        <tag>Tree</tag>
-        <tag>Hard</tag>
       </tags>
   </entry>
   <entry>
@@ -1265,6 +1236,25 @@
       </tags>
   </entry>
   <entry>
+    <title>LeetCode-199</title>
+    <url>/2020/05/20/LeetCode-199/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>Level: Medium</p>
+<p>Given a binary tree, imagine yourself standing on the <em>right</em> side of it, return the values of the nodes you can see ordered from top to bottom.</p>
+<p><strong>Example:</strong></p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Input: [1,2,3,null,5,null,4]</span><br><span class="line">Output: [1, 3, 4]</span><br><span class="line">Explanation:</span><br><span class="line"></span><br><span class="line">   1            &lt;---</span><br><span class="line"> /   \</span><br><span class="line">2     3         &lt;---</span><br><span class="line"> \     \</span><br><span class="line">  5     4       &lt;---</span><br></pre></td></tr></table></figure>
+
+<a id="more"></a>
+
+<p>思路:</p>
+<p>​        听起来好像很简单，但是</p>
+]]></content>
+      <tags>
+        <tag>LeetCode</tag>
+        <tag>Tree</tag>
+        <tag>Medium</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>LeetCode-226</title>
     <url>/2020/05/28/LeetCode-226/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>Level: Easy</p>
@@ -1310,25 +1300,6 @@
 <p>代码:</p>
 <figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">/**</span></span><br><span class="line"><span class="comment"> * Definition for a binary tree node.</span></span><br><span class="line"><span class="comment"> * public class TreeNode &#123;</span></span><br><span class="line"><span class="comment"> *     int val;</span></span><br><span class="line"><span class="comment"> *     TreeNode left;</span></span><br><span class="line"><span class="comment"> *     TreeNode right;</span></span><br><span class="line"><span class="comment"> *     TreeNode() &#123;&#125;</span></span><br><span class="line"><span class="comment"> *     TreeNode(int val) &#123; this.val = val; &#125;</span></span><br><span class="line"><span class="comment"> *     TreeNode(int val, TreeNode left, TreeNode right) &#123;</span></span><br><span class="line"><span class="comment"> *         this.val = val;</span></span><br><span class="line"><span class="comment"> *         this.left = left;</span></span><br><span class="line"><span class="comment"> *         this.right = right;</span></span><br><span class="line"><span class="comment"> *     &#125;</span></span><br><span class="line"><span class="comment"> * &#125;</span></span><br><span class="line"><span class="comment"> */</span></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> </span>&#123;</span><br><span class="line">    <span class="keyword">int</span> count = <span class="number">0</span>;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">int</span> <span class="title">countNodes</span><span class="params">(TreeNode root)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">if</span> (root == <span class="keyword">null</span>)&#123;</span><br><span class="line">            <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        countNodes(root.left);</span><br><span class="line">        count ++;</span><br><span class="line">        countNodes(root.right);</span><br><span class="line">        <span class="keyword">return</span> count;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
-]]></content>
-      <tags>
-        <tag>LeetCode</tag>
-        <tag>Tree</tag>
-        <tag>Medium</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>LeetCode-199</title>
-    <url>/2020/05/20/LeetCode-199/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>Level: Medium</p>
-<p>Given a binary tree, imagine yourself standing on the <em>right</em> side of it, return the values of the nodes you can see ordered from top to bottom.</p>
-<p><strong>Example:</strong></p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Input: [1,2,3,null,5,null,4]</span><br><span class="line">Output: [1, 3, 4]</span><br><span class="line">Explanation:</span><br><span class="line"></span><br><span class="line">   1            &lt;---</span><br><span class="line"> /   \</span><br><span class="line">2     3         &lt;---</span><br><span class="line"> \     \</span><br><span class="line">  5     4       &lt;---</span><br></pre></td></tr></table></figure>
-
-<a id="more"></a>
-
-<p>思路:</p>
-<p>​        听起来好像很简单，但是</p>
 ]]></content>
       <tags>
         <tag>LeetCode</tag>
@@ -1500,18 +1471,6 @@
       </tags>
   </entry>
   <entry>
-    <title>deadline</title>
-    <url>/2018/12/19/deadline/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>明天就是最后一天了啊摔，怎么办。</p>
-]]></content>
-      <categories>
-        <category>我独自生活</category>
-      </categories>
-      <tags>
-        <tag>我独自生活</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>LeetCode-99 Recover Binary Search Tree</title>
     <url>/2020/04/12/LeetCode-99/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>Level: <strong>Hard</strong></p>
@@ -1632,9 +1591,9 @@
       </tags>
   </entry>
   <entry>
-    <title>emmm明天还要加班</title>
-    <url>/2018/12/07/emmm%E6%98%8E%E5%A4%A9%E8%BF%98%E8%A6%81%E5%8A%A0%E7%8F%AD/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>虽然是自己要去的。。。</p>
+    <title>deadline</title>
+    <url>/2018/12/19/deadline/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>明天就是最后一天了啊摔，怎么办。</p>
 ]]></content>
       <categories>
         <category>我独自生活</category>
@@ -1644,10 +1603,13 @@
       </tags>
   </entry>
   <entry>
-    <title>一个人一个人</title>
-    <url>/2018/07/07/%E4%B8%80%E4%B8%AA%E4%BA%BA%E4%B8%80%E4%B8%AA%E4%BA%BA/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>我一点都不无聊，咿呀咿呀哟～</p>
+    <title>emmm明天还要加班</title>
+    <url>/2018/12/07/emmm%E6%98%8E%E5%A4%A9%E8%BF%98%E8%A6%81%E5%8A%A0%E7%8F%AD/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>虽然是自己要去的。。。</p>
 ]]></content>
+      <categories>
+        <category>我独自生活</category>
+      </categories>
       <tags>
         <tag>我独自生活</tag>
       </tags>
@@ -1672,9 +1634,59 @@
 ]]></content>
   </entry>
   <entry>
+    <title>LeetCode-103 Binary Tree Zigzag Level Order Traversal</title>
+    <url>/2020/04/02/LeetCode-103/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>Level: Medium</p>
+<p>Given a binary tree, return the <em>level order</em> traversal of its nodes’ values. (ie, from left to right, level by level).</p>
+<p>For example:<br>Given binary tree <code>[3,9,20,null,null,15,7]</code>,</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">  3</span><br><span class="line"> / \</span><br><span class="line">9  20</span><br><span class="line">  /  \</span><br><span class="line"> 15   7</span><br></pre></td></tr></table></figure>
+
+<p>return its level order traversal as:</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">[</span><br><span class="line">  [3],</span><br><span class="line">  [9,20],</span><br><span class="line">  [15,7]</span><br><span class="line">]</span><br></pre></td></tr></table></figure>
+
+<a id="more"></a>
+
+<p>思路:</p>
+<p>​    题目的需求跟102题很相似，第一反应就是先照着102写，然后在这个基础之上改改。主要是想着改下面这一段，左改右，右改左之类的。</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">if</span> (node.left != <span class="keyword">null</span>) &#123;</span><br><span class="line">    queue.add(node.left);</span><br><span class="line">&#125;</span><br><span class="line"><span class="keyword">if</span> (node.right != <span class="keyword">null</span>) &#123;</span><br><span class="line">    queue.add(node.right);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>而然改了半天，发现做不到题目要求的效果。于是乎又求助评论区。果然在原有的基础上加了个标志位，并且新增了一段</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">if</span> (zigzag) &#123;</span><br><span class="line">    level.add(<span class="number">0</span>, node.val);</span><br><span class="line">&#125;</span><br><span class="line"><span class="keyword">else</span> &#123;</span><br><span class="line">    level.add(node.val);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>这个代码后，就能符合题目的要求了，和我心里的预期是相符的。</p>
+<p>但是没看懂这一段的意义，就去了leetcode cn，希望能找个中文的思路看下。结果让我没想到的是，力扣中国这题的写法居然完全换了一种思路。属实8行。</p>
+]]></content>
+      <tags>
+        <tag>LeetCode</tag>
+        <tag>Tree</tag>
+        <tag>Medium</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>一个人一个人</title>
+    <url>/2018/07/07/%E4%B8%80%E4%B8%AA%E4%BA%BA%E4%B8%80%E4%B8%AA%E4%BA%BA/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>我一点都不无聊，咿呀咿呀哟～</p>
+]]></content>
+      <tags>
+        <tag>我独自生活</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>一个人失眠</title>
     <url>/2018/11/08/%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%A4%B1%E7%9C%A0/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><del>全世界失眠</del>，才怪</p>
+]]></content>
+      <categories>
+        <category>我独自生活</category>
+      </categories>
+      <tags>
+        <tag>我独自生活</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>一个人的时候</title>
+    <url>/2018/11/18/%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E6%97%B6%E5%80%99/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>我是狮子座，可惜我是白羊座诶♈️</p>
 ]]></content>
       <categories>
         <category>我独自生活</category>
@@ -1722,33 +1734,9 @@
       </tags>
   </entry>
   <entry>
-    <title>一个人的时候</title>
-    <url>/2018/11/18/%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E6%97%B6%E5%80%99/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>我是狮子座，可惜我是白羊座诶♈️</p>
-]]></content>
-      <categories>
-        <category>我独自生活</category>
-      </categories>
-      <tags>
-        <tag>我独自生活</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>不想说话</title>
     <url>/2019/01/18/%E4%B8%8D%E6%83%B3%E8%AF%B4%E8%AF%9D/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
-  </entry>
-  <entry>
-    <title>买东西会让我开心点</title>
-    <url>/2018/10/25/%E4%B9%B0%E4%B8%9C%E8%A5%BF%E4%BC%9A%E8%AE%A9%E6%88%91%E5%BC%80%E5%BF%83%E7%82%B9/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>何以解忧</p>
-]]></content>
-      <categories>
-        <category>我独自生活</category>
-      </categories>
-      <tags>
-        <tag>我独自生活</tag>
-      </tags>
   </entry>
   <entry>
     <title>不爽</title>
@@ -1775,6 +1763,18 @@
       </tags>
   </entry>
   <entry>
+    <title>买东西会让我开心点</title>
+    <url>/2018/10/25/%E4%B9%B0%E4%B8%9C%E8%A5%BF%E4%BC%9A%E8%AE%A9%E6%88%91%E5%BC%80%E5%BF%83%E7%82%B9/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>何以解忧</p>
+]]></content>
+      <categories>
+        <category>我独自生活</category>
+      </categories>
+      <tags>
+        <tag>我独自生活</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>买买买</title>
     <url>/2018/10/14/%E4%B9%B0%E4%B9%B0%E4%B9%B0/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>喜欢的游戏快要发售了，买买买！</p>
@@ -1785,6 +1785,20 @@
       <categories>
         <category>我独自生活</category>
       </categories>
+      <tags>
+        <tag>我独自生活</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>事实也是如此</title>
+    <url>/2019/05/19/%E4%BA%8B%E5%AE%9E%E4%B9%9F%E6%98%AF%E5%A6%82%E6%AD%A4/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
+  </entry>
+  <entry>
+    <title>人生啊</title>
+    <url>/2018/09/01/%E4%BA%BA%E7%94%9F%E5%95%8A/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>我寂寞寂寞就好</p>
+]]></content>
       <tags>
         <tag>我独自生活</tag>
       </tags>
@@ -1818,17 +1832,19 @@
 ]]></content>
   </entry>
   <entry>
-    <title>事实也是如此</title>
-    <url>/2019/05/19/%E4%BA%8B%E5%AE%9E%E4%B9%9F%E6%98%AF%E5%A6%82%E6%AD%A4/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
-  </entry>
-  <entry>
-    <title>人生啊</title>
-    <url>/2018/09/01/%E4%BA%BA%E7%94%9F%E5%95%8A/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>我寂寞寂寞就好</p>
+    <title>今年也不太顺利呢</title>
+    <url>/2020/05/13/%E4%BB%8A%E5%B9%B4%E4%B9%9F%E4%B8%8D%E5%A4%AA%E9%A1%BA%E5%88%A9%E5%91%A2/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>还以为过了本命年会好一点呢，结果朋友要被裁退了，房子也马上到期了，他可能会回家，那之后说不定之后又是我一个人了。</p>
+<p>虽说之前也过过一个人的日子，习惯了之后也能忍受吧。只不过由奢入俭难，由俭入奢易。一开始就一个人，和习惯了两个人之后突然变成一个人，还是不一样的。</p>
+<p>这几年事还真多，想过个安生日子怎么就这么难。就想和女朋友同居，一起养只猫养只狗什么的，下班了做做饭，平常逛逛街。</p>
+<p>又要开始找房子搬家了，贼烦。18年搬了3次家，这辈子都不想一个人搬家了。</p>
+<p>唉，一个人有些压力属实难顶，有时候很想要一个拥抱。</p>
+<p>“为何记不得上一次是谁给的拥抱”<br>“在什么时候”</p>
+<p>长太息以掩涕兮，哀民生之多艰。</p>
+<p>太难了。</p>
 ]]></content>
       <tags>
-        <tag>我独自生活</tag>
+        <tag>难</tag>
       </tags>
   </entry>
   <entry>
@@ -1848,22 +1864,6 @@
 ]]></content>
       <tags>
         <tag>计划</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>今年也不太顺利呢</title>
-    <url>/2020/05/13/%E4%BB%8A%E5%B9%B4%E4%B9%9F%E4%B8%8D%E5%A4%AA%E9%A1%BA%E5%88%A9%E5%91%A2/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>还以为过了本命年会好一点呢，结果朋友要被裁退了，房子也马上到期了，他可能会回家，那之后说不定之后又是我一个人了。</p>
-<p>虽说之前也过过一个人的日子，习惯了之后也能忍受吧。只不过由奢入俭难，由俭入奢易。一开始就一个人，和习惯了两个人之后突然变成一个人，还是不一样的。</p>
-<p>这几年事还真多，想过个安生日子怎么就这么难。就想和女朋友同居，一起养只猫养只狗什么的，下班了做做饭，平常逛逛街。</p>
-<p>又要开始找房子搬家了，贼烦。18年搬了3次家，这辈子都不想一个人搬家了。</p>
-<p>唉，一个人有些压力属实难顶，有时候很想要一个拥抱。</p>
-<p>“为何记不得上一次是谁给的拥抱”<br>“在什么时候”</p>
-<p>长太息以掩涕兮，哀民生之多艰。</p>
-<p>太难了。</p>
-]]></content>
-      <tags>
-        <tag>难</tag>
       </tags>
   </entry>
   <entry>
@@ -1914,16 +1914,6 @@
       </tags>
   </entry>
   <entry>
-    <title>出门散心</title>
-    <url>/2020/06/24/%E5%87%BA%E9%97%A8%E6%95%A3%E5%BF%83/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>朋友约我去深圳，之后可能断更一两天。</p>
-]]></content>
-      <tags>
-        <tag>日常</tag>
-        <tag>不开心</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>出去逛逛街</title>
     <url>/2018/12/05/%E5%87%BA%E5%8E%BB%E9%80%9B%E9%80%9B%E8%A1%97/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>给发小买两件衣服</p>
@@ -1933,6 +1923,16 @@
       </categories>
       <tags>
         <tag>我独自生活</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>出门散心</title>
+    <url>/2020/06/24/%E5%87%BA%E9%97%A8%E6%95%A3%E5%BF%83/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>朋友约我去深圳，之后可能断更一两天。</p>
+]]></content>
+      <tags>
+        <tag>日常</tag>
+        <tag>不开心</tag>
       </tags>
   </entry>
   <entry>
@@ -1970,18 +1970,6 @@
       </tags>
   </entry>
   <entry>
-    <title>加班了一会</title>
-    <url>/2018/12/22/%E5%8A%A0%E7%8F%AD%E4%BA%86%E4%B8%80%E4%BC%9A/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>倒是去公司了，不过只待了几个小时，</p>
-]]></content>
-      <categories>
-        <category>我独自生活</category>
-      </categories>
-      <tags>
-        <tag>我独自生活</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>刘德华-练习</title>
     <url>/2020/09/02/%E5%88%98%E5%BE%B7%E5%8D%8E-%E7%BB%83%E4%B9%A0/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote class="blockquote-center">
@@ -1999,9 +1987,44 @@
           </div>
 
 
-    <div id="aplayer-IoWbYsZm" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="554191989" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"></div>]]></content>
+    <div id="aplayer-PDumCUxv" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="554191989" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"></div>]]></content>
       <tags>
         <tag>听歌</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>别是一番滋味在心头</title>
+    <url>/2018/07/24/%E5%88%AB%E6%98%AF%E4%B8%80%E7%95%AA%E6%BB%8B%E5%91%B3%E5%9C%A8%E5%BF%83%E5%A4%B4/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>睡吧</p>
+]]></content>
+      <tags>
+        <tag>我独自生活</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>初恋这件小事</title>
+    <url>/2018/09/17/%E5%88%9D%E6%81%8B%E8%BF%99%E4%BB%B6%E5%B0%8F%E4%BA%8B/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>上初中那会，因为有暗恋的人，但是又没敢表白，所以没能谈一段恋爱，因为我喜欢一个人的时候，心里实在装不下其他人的位置了。</p>
+<p>等到了上高中那会，班上的英语课代表喜欢我，对我很好，好到直男的我都感受到了。但是因为对她没有感觉，就一直装傻充愣着，装到她闺蜜都受不了了，对我说，她都这么明显了你还不懂吗。可惜当时的我只是把她对我的喜欢，当作一种炫耀的资本，伤害到了她。</p>
+<p>等到了大学的时候，我特别憧憬能谈一段校园恋爱，我从刚进校园就开始憧憬着谈个女朋友，一直嚷嚷到大四。期间虽然也有女生喜欢我，但我没有答应，因为我对她实在没感觉，如果我不是初恋还在的话，或许会答应她吧。</p>
+<p>在我的青春里，没有过电视或电影里的那些剧情，所以我看那些电影从来都没有感触。也正是因为我没有在青春期的时候谈恋爱，等我长大了。初恋还在，我就觉得既然初恋还在，那我就好好珍惜吧。找一个最爱的人，好好的对她，好好的谈一场恋爱。在我心里初恋的地位就是这么神圣，或许以后会遇见别的女生，但初恋是心里永远也抹不去的的存在。</p>
+<p>2018/09/18 update</p>
+<p>没啦，没啦，不再更新啦。</p>
+]]></content>
+      <tags>
+        <tag>我独自生活</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>加班了一会</title>
+    <url>/2018/12/22/%E5%8A%A0%E7%8F%AD%E4%BA%86%E4%B8%80%E4%BC%9A/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>倒是去公司了，不过只待了几个小时，</p>
+]]></content>
+      <categories>
+        <category>我独自生活</category>
+      </categories>
+      <tags>
+        <tag>我独自生活</tag>
       </tags>
   </entry>
   <entry>
@@ -2017,18 +2040,9 @@
       </tags>
   </entry>
   <entry>
-    <title>别是一番滋味在心头</title>
-    <url>/2018/07/24/%E5%88%AB%E6%98%AF%E4%B8%80%E7%95%AA%E6%BB%8B%E5%91%B3%E5%9C%A8%E5%BF%83%E5%A4%B4/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>睡吧</p>
-]]></content>
-      <tags>
-        <tag>我独自生活</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>卡了两天了</title>
-    <url>/2018/12/26/%E5%8D%A1%E4%BA%86%E4%B8%A4%E5%A4%A9%E4%BA%86/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>进度太慢了呀，看来周末又要加班，不过好像周末本来就要加班，hhh</p>
+    <title>加班到转钟</title>
+    <url>/2018/11/22/%E5%8A%A0%E7%8F%AD%E5%88%B0%E8%BD%AC%E9%92%9F/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>好累</p>
 ]]></content>
       <categories>
         <category>我独自生活</category>
@@ -2038,9 +2052,9 @@
       </tags>
   </entry>
   <entry>
-    <title>加班到转钟</title>
-    <url>/2018/11/22/%E5%8A%A0%E7%8F%AD%E5%88%B0%E8%BD%AC%E9%92%9F/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>好累</p>
+    <title>卡了两天了</title>
+    <url>/2018/12/26/%E5%8D%A1%E4%BA%86%E4%B8%A4%E5%A4%A9%E4%BA%86/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>进度太慢了呀，看来周末又要加班，不过好像周末本来就要加班，hhh</p>
 ]]></content>
       <categories>
         <category>我独自生活</category>
@@ -2062,32 +2076,12 @@
       </tags>
   </entry>
   <entry>
-    <title>又说错话</title>
-    <url>/2019/08/17/%E5%8F%88%E8%AF%B4%E9%94%99%E8%AF%9D/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
-  </entry>
-  <entry>
     <title>去了医院</title>
     <url>/2019/02/22/%E5%8E%BB%E4%BA%86%E5%8C%BB%E9%99%A2/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>带状孢疹</p>
 <a id="more"></a>
 
 <p>是真他娘的疼啊</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>又又又又失眠了</title>
-    <url>/2019/07/21/%E5%8F%88%E5%8F%88%E5%8F%88%E5%8F%88%E5%A4%B1%E7%9C%A0%E4%BA%86/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>快四点了。</p>
-<p>还好是周末，第二天不用上班。</p>
-<p>真痛苦呀。</p>
-<br>
-
-<a id="more"></a>
-
-
-    <div id="aplayer-AUfDWvSx" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="27684881" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"></div>
-
 ]]></content>
   </entry>
   <entry>
@@ -2103,10 +2097,52 @@
       </tags>
   </entry>
   <entry>
+    <title>又又又又失眠了</title>
+    <url>/2019/07/21/%E5%8F%88%E5%8F%88%E5%8F%88%E5%8F%88%E5%A4%B1%E7%9C%A0%E4%BA%86/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>快四点了。</p>
+<p>还好是周末，第二天不用上班。</p>
+<p>真痛苦呀。</p>
+<br>
+
+<a id="more"></a>
+
+
+    <div id="aplayer-dnKXwLpW" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="27684881" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"></div>
+
+]]></content>
+  </entry>
+  <entry>
+    <title>又说错话</title>
+    <url>/2019/08/17/%E5%8F%88%E8%AF%B4%E9%94%99%E8%AF%9D/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
+  </entry>
+  <entry>
     <title>双十一</title>
     <url>/2018/11/11/%E5%8F%8C%E5%8D%81%E4%B8%80/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>大家都买买买，</p>
 <p>其实双十一是光棍节呀。</p>
+]]></content>
+      <categories>
+        <category>我独自生活</category>
+      </categories>
+      <tags>
+        <tag>我独自生活</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>发布会搞快点</title>
+    <url>/2020/09/06/%E5%8F%91%E5%B8%83%E4%BC%9A%E6%90%9E%E5%BF%AB%E7%82%B9/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>想买个Apple Watch</p>
+]]></content>
+      <tags>
+        <tag>日常</tag>
+        <tag>厉害阳</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>变成艺术家</title>
+    <url>/2018/10/27/%E5%8F%98%E6%88%90%E8%89%BA%E6%9C%AF%E5%AE%B6/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>感觉艺术家都不是正常人，难道我要变成艺术家了，哈哈哈。</p>
 ]]></content>
       <categories>
         <category>我独自生活</category>
@@ -2125,28 +2161,6 @@
       </categories>
       <tags>
         <tag>我独自生活</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>变成艺术家</title>
-    <url>/2018/10/27/%E5%8F%98%E6%88%90%E8%89%BA%E6%9C%AF%E5%AE%B6/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>感觉艺术家都不是正常人，难道我要变成艺术家了，哈哈哈。</p>
-]]></content>
-      <categories>
-        <category>我独自生活</category>
-      </categories>
-      <tags>
-        <tag>我独自生活</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>发布会搞快点</title>
-    <url>/2020/09/06/%E5%8F%91%E5%B8%83%E4%BC%9A%E6%90%9E%E5%BF%AB%E7%82%B9/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>想买个Apple Watch</p>
-]]></content>
-      <tags>
-        <tag>日常</tag>
-        <tag>厉害阳</tag>
       </tags>
   </entry>
   <entry>
@@ -2170,18 +2184,6 @@
 ]]></content>
       <tags>
         <tag>吉他</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>哇哦</title>
-    <url>/2018/12/01/%E5%93%87%E5%93%A6/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>今天居然一觉睡到了下午，最近看来是真的累了。</p>
-]]></content>
-      <categories>
-        <category>我独自生活</category>
-      </categories>
-      <tags>
-        <tag>我独自生活</tag>
       </tags>
   </entry>
   <entry>
@@ -2214,10 +2216,13 @@
       </tags>
   </entry>
   <entry>
-    <title>哈哈</title>
-    <url>/2018/07/28/%E5%93%88%E5%93%88/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>这感觉真棒</p>
+    <title>哇哦</title>
+    <url>/2018/12/01/%E5%93%87%E5%93%A6/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>今天居然一觉睡到了下午，最近看来是真的累了。</p>
 ]]></content>
+      <categories>
+        <category>我独自生活</category>
+      </categories>
       <tags>
         <tag>我独自生活</tag>
       </tags>
@@ -2226,6 +2231,15 @@
     <title>哇，晕车真难受</title>
     <url>/2018/08/23/%E5%93%87%EF%BC%8C%E6%99%95%E8%BD%A6%E7%9C%9F%E9%9A%BE%E5%8F%97/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>这一个星期，晕车就没好过哦。每天回家要死一样，难受。</p>
+]]></content>
+      <tags>
+        <tag>我独自生活</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>哈哈</title>
+    <url>/2018/07/28/%E5%93%88%E5%93%88/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>这感觉真棒</p>
 ]]></content>
       <tags>
         <tag>我独自生活</tag>
@@ -2288,22 +2302,6 @@
       </tags>
   </entry>
   <entry>
-    <title>四个</title>
-    <url>/2019/05/09/%E5%9B%9B%E4%B8%AA/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>我决定开一个系列叫 “BIU说”。BIU就是我，但是听起来又像“不要说”，算是一语双关吧。</p>
-<p>这是系列的第一篇，谈一谈我喜欢过的那些姑娘。</p>
-<a id="more"></a>
-
-<p>四个，这是我从小到大喜欢过女生的数量。</p>
-<p>故事还得从小学说起了。5年级，我遇见了一见钟情的女生。那种感觉我现在都还记的。感觉时间停止了，大脑一片空白，然后整个世界充满了茫茫的一片白光， 我唯一能看见的就是她，也只有她。有点类似人在遇到危险时，因为肾上腺素，感到周围的一切都变慢了的的情况。当然啦，比这种要美好得多。</p>
-<p>但是很可惜，直到毕业我都没有和她说过一句话，甚至连她的名字都不知道。为此，年幼的我整整难过了一个暑假。</p>
-<p>待更。。。</p>
-]]></content>
-      <tags>
-        <tag>BIU说</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>啊，失眠了</title>
     <url>/2019/01/06/%E5%95%8A%EF%BC%8C%E5%A4%B1%E7%9C%A0%E4%BA%86/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>打哈欠</p>
@@ -2312,6 +2310,22 @@
 <p>都不知道昨天几点睡着的，可能4点，可能5点。</p>
 <p>心里莫名烦躁呢。</p>
 ]]></content>
+      <categories>
+        <category>我独自生活</category>
+      </categories>
+      <tags>
+        <tag>我独自生活</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>喝醉了</title>
+    <url>/2019/02/02/%E5%96%9D%E9%86%89%E4%BA%86/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
+  </entry>
+  <entry>
+    <title>嗝～</title>
+    <url>/2018/11/29/%E5%97%9D%EF%BD%9E/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
       <categories>
         <category>我独自生活</category>
       </categories>
@@ -2329,31 +2343,19 @@
       </tags>
   </entry>
   <entry>
-    <title>嗝～</title>
-    <url>/2018/11/29/%E5%97%9D%EF%BD%9E/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
-      <categories>
-        <category>我独自生活</category>
-      </categories>
-      <tags>
-        <tag>我独自生活</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>喝醉了</title>
-    <url>/2019/02/02/%E5%96%9D%E9%86%89%E4%BA%86/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
-  </entry>
-  <entry>
-    <title>坑爹呢</title>
-    <url>/2018/11/12/%E5%9D%91%E7%88%B9%E5%91%A2/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>之前加班就为了现在能轻松点，结果结果又跟我分了新的东西。</p>
+    <title>四个</title>
+    <url>/2019/05/09/%E5%9B%9B%E4%B8%AA/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>我决定开一个系列叫 “BIU说”。BIU就是我，但是听起来又像“不要说”，算是一语双关吧。</p>
+<p>这是系列的第一篇，谈一谈我喜欢过的那些姑娘。</p>
+<a id="more"></a>
+
+<p>四个，这是我从小到大喜欢过女生的数量。</p>
+<p>故事还得从小学说起了。5年级，我遇见了一见钟情的女生。那种感觉我现在都还记的。感觉时间停止了，大脑一片空白，然后整个世界充满了茫茫的一片白光， 我唯一能看见的就是她，也只有她。有点类似人在遇到危险时，因为肾上腺素，感到周围的一切都变慢了的的情况。当然啦，比这种要美好得多。</p>
+<p>但是很可惜，直到毕业我都没有和她说过一句话，甚至连她的名字都不知道。为此，年幼的我整整难过了一个暑假。</p>
+<p>待更。。。</p>
 ]]></content>
-      <categories>
-        <category>我独自生活</category>
-      </categories>
       <tags>
-        <tag>我独自生活</tag>
+        <tag>BIU说</tag>
       </tags>
   </entry>
   <entry>
@@ -2363,6 +2365,18 @@
 <a id="more"></a>
 
 <p>相亲，结婚</p>
+]]></content>
+      <categories>
+        <category>我独自生活</category>
+      </categories>
+      <tags>
+        <tag>我独自生活</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>坑爹呢</title>
+    <url>/2018/11/12/%E5%9D%91%E7%88%B9%E5%91%A2/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>之前加班就为了现在能轻松点，结果结果又跟我分了新的东西。</p>
 ]]></content>
       <categories>
         <category>我独自生活</category>
@@ -2382,15 +2396,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>头晕加晕车</title>
-    <url>/2018/08/20/%E5%A4%B4%E6%99%95%E5%8A%A0%E6%99%95%E8%BD%A6/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>真的难受，差点吐了，睡觉。</p>
-]]></content>
-      <tags>
-        <tag>我独自生活</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>失眠了</title>
     <url>/2018/09/23/%E5%A4%B1%E7%9C%A0%E4%BA%86/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>上班怎么办哦，以前失眠好歹是在大学里。</p>
@@ -2400,6 +2405,15 @@
       </categories>
       <tags>
         <tag>难受</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>头晕加晕车</title>
+    <url>/2018/08/20/%E5%A4%B4%E6%99%95%E5%8A%A0%E6%99%95%E8%BD%A6/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>真的难受，差点吐了，睡觉。</p>
+]]></content>
+      <tags>
+        <tag>我独自生活</tag>
       </tags>
   </entry>
   <entry>
@@ -2451,15 +2465,27 @@
       </tags>
   </entry>
   <entry>
+    <title>好想买游戏机</title>
+    <url>/2018/08/12/%E5%A5%BD%E6%83%B3%E4%B9%B0%E6%B8%B8%E6%88%8F%E6%9C%BA/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>其实有好多想买的东西，只能推后了。</p>
+]]></content>
+      <tags>
+        <tag>我独自生活</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>好想哭一场</title>
     <url>/2019/07/30/%E5%A5%BD%E6%83%B3%E5%93%AD%E4%B8%80%E5%9C%BA/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
   </entry>
   <entry>
-    <title>好想买游戏机</title>
-    <url>/2018/08/12/%E5%A5%BD%E6%83%B3%E4%B9%B0%E6%B8%B8%E6%88%8F%E6%9C%BA/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>其实有好多想买的东西，只能推后了。</p>
+    <title>好想家</title>
+    <url>/2018/11/20/%E5%A5%BD%E6%83%B3%E5%AE%B6/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>明年回去好了</p>
 ]]></content>
+      <categories>
+        <category>我独自生活</category>
+      </categories>
       <tags>
         <tag>我独自生活</tag>
       </tags>
@@ -2474,18 +2500,6 @@
     <url>/2018/10/10/%E5%B0%8F%E7%9B%AE%E6%A0%87/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><del>定个小目标，生日的时候送自己一台单反，要对自己好一点了。</del></p>
 <p>你在想屁吃</p>
-]]></content>
-      <categories>
-        <category>我独自生活</category>
-      </categories>
-      <tags>
-        <tag>我独自生活</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>好想家</title>
-    <url>/2018/11/20/%E5%A5%BD%E6%83%B3%E5%AE%B6/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>明年回去好了</p>
 ]]></content>
       <categories>
         <category>我独自生活</category>
@@ -2557,39 +2571,9 @@
 ]]></content>
   </entry>
   <entry>
-    <title>得复习了</title>
-    <url>/2020/09/12/%E5%BE%97%E5%A4%8D%E4%B9%A0%E4%BA%86/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>看了下记录，上次刷题还是6月份了，差不多都忘记了，单词也得背起来了。这次的事情给自己敲了个警钟，哈哈，果然还是在感情方面太稚嫩了，连小女生也比不过，吃了没谈过恋爱的亏呀。不过自己在情绪控制上做的还不错，好在本来就是一个性格比较温柔的人，倒也不会很生气，也没有骂女生，不然就太丑陋了。</p>
-<p>以后还是把重心放在工作上吧，然后感情方面还是找个喜欢自己的女生吧，虽然之前让她对我死心了，也不知道还能不能追回来，这次十一回去约出来见见吧，说不定还能挽回一下。</p>
-<p><img src="/images/TXH.jpeg" alt="TXH"></p>
-<p>经过这次我明白了以后要好好珍惜喜欢自己的人，因为自己喜欢的可能不算人。</p>
-<p>然后以前对自己的约束，是不是可以放开了，之前也对自己说过，这次是最后一次喜欢人，比自己想象中最差的结果还要差呢，不愧是我。</p>
-<p>记得之前写过一篇博客叫黑化，后来删了。那就黑化了吧，找个老司机带带，刚刚群里有人说我看不起喜欢玩的女生，之前可能有点吧。现在是一点都没有了，这种才是女菩萨，没有喜欢玩的女生，我们男生哪有女生玩呢，是吧。</p>
-<p>以前的我实在是太傻了，活该25岁还是处男，还被21岁的妹妹们笑话。叫朋友带我去大保健吧，然后下个soul之类的软件，看能不能约几个喜欢玩的女菩萨。</p>
-<p>终于还是活成了曾经的自己最讨厌的人啊，我以为我不会的，谁知道呢，以前哪会想到有今天，或许这就是人生吧，哈哈。</p>
-<p>10点了，睡觉。</p>
-<hr>
-
-<p>如果7年前我答应了TXH，一切会不会不一样呢，那么我现在也不会在杭州吧，更不会遇见吴玥阳，更更不会有今天的事情发生。人生果然很奇妙呢，不过就像TXH说的，可惜没如果，安静的接受这一切吧，过去的种种选择，造就了现在的我。按照平行宇宙的理论，会不会有一个时空的我当初选择了TXH，那个时空的我会过的比现在的我要幸福吧，祝福他，不对，祝福那个时空的我，你做了一个很对的选择，哪像今天的我惶惶如丧家之犬。</p>
-<p>看来以后做决定得小心点了。</p>
-]]></content>
-  </entry>
-  <entry>
     <title>弱智JPA</title>
     <url>/2018/12/29/%E5%BC%B1%E6%99%BAJPA/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>技术选型错了，贼头疼。</p>
-]]></content>
-      <categories>
-        <category>我独自生活</category>
-      </categories>
-      <tags>
-        <tag>我独自生活</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>得做一个规划了</title>
-    <url>/2018/12/28/%E5%BE%97%E5%81%9A%E4%B8%80%E4%B8%AA%E8%A7%84%E5%88%92%E4%BA%86/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>明年一个人得过的有计划一点了，今年虽然也计划过，但是被一些事情给打断了，明年自己一个人，没人打扰，应该能好好执行。</p>
 ]]></content>
       <categories>
         <category>我独自生活</category>
@@ -2611,27 +2595,34 @@
       </tags>
   </entry>
   <entry>
-    <title>怎样</title>
-    <url>/2018/10/06/%E6%80%8E%E6%A0%B7/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote class="blockquote-center">
-            <i class="fa fa-quote-left"></i>
-            <p>如果我们现在还在一起会是怎样<br>我们是不是还是深爱着对方</p>
-<p>──怎样 戴佩妮</p>
-
-            <i class="fa fa-quote-right"></i>
-          </blockquote>
-
-<a id="more"></a>
-
-<div class="note info">
-            <p>我这里天快要黑了<br>那里呢<br>我这里天气凉凉的<br>那里呢</p><p>我这里一切都变了<br>我变的懂事了<br>我又开始写日记了<br>而那你呢</p><p>我这里天快要亮了<br>那里呢<br>我这里天气很炎热<br>那里呢</p><p>我这里一切都变了<br>我变的不哭了<br>我把照片也收起了<br>而那你呢</p><p>如果我们现在还在一起会是怎样<br>我们是不是还是深爱着对方<br>像开始时那样<br>握着手就算天快亮</p><p>我们现在还在一起会是怎样<br>我们是不是还是隐瞒着对方<br>像结束时那样<br>明知道你没有错<br>还硬要我原谅</p><p>我这里天快要亮了<br>那里呢<br>我这里天气很炎热<br>那里呢</p><p>我这里一切都变了<br>我变的不哭了<br>我把照片也收起了<br>而那你呢</p><p>如果我们现在还在一起会是怎样<br>我们是不是还是深爱着对方<br>像开始时那样<br>握着手就算天快亮</p><p>我们现在还在一起会是怎样<br>我们是不是还是隐瞒着对方<br>像结束时那样<br>明知道你没有错<br>还硬要我原谅</p><p>如果我们现在还在一起会是怎样<br>我们是不是还是深爱着对方<br>像开始时那样<br>握着手就算天快亮</p><p>我们现在还在一起会是怎样<br>我们是不是还是隐瞒着对方<br>像结束时那样<br>明知道你没有错<br>还硬要我原谅</p><p>我不会原谅<br>我怎么原谅</p><p>──怎样 戴佩妮</p>
-          </div>]]></content>
+    <title>得做一个规划了</title>
+    <url>/2018/12/28/%E5%BE%97%E5%81%9A%E4%B8%80%E4%B8%AA%E8%A7%84%E5%88%92%E4%BA%86/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>明年一个人得过的有计划一点了，今年虽然也计划过，但是被一些事情给打断了，明年自己一个人，没人打扰，应该能好好执行。</p>
+]]></content>
       <categories>
-        <category>听歌</category>
+        <category>我独自生活</category>
       </categories>
       <tags>
-        <tag>听歌</tag>
+        <tag>我独自生活</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>得复习了</title>
+    <url>/2020/09/12/%E5%BE%97%E5%A4%8D%E4%B9%A0%E4%BA%86/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>看了下记录，上次刷题还是6月份了，差不多都忘记了，单词也得背起来了。这次的事情给自己敲了个警钟，哈哈，果然还是在感情方面太稚嫩了，连小女生也比不过，吃了没谈过恋爱的亏呀。不过自己在情绪控制上做的还不错，好在本来就是一个性格比较温柔的人，倒也不会很生气，也没有骂女生，不然就太丑陋了。</p>
+<p>以后还是把重心放在工作上吧，然后感情方面还是找个喜欢自己的女生吧，虽然之前让她对我死心了，也不知道还能不能追回来，这次十一回去约出来见见吧，说不定还能挽回一下。</p>
+<p><img src="/images/TXH.jpeg" alt="TXH"></p>
+<p>经过这次我明白了以后要好好珍惜喜欢自己的人，因为自己喜欢的可能不算人。</p>
+<p>然后以前对自己的约束，是不是可以放开了，之前也对自己说过，这次是最后一次喜欢人，比自己想象中最差的结果还要差呢，不愧是我。</p>
+<p>记得之前写过一篇博客叫黑化，后来删了。那就黑化了吧，找个老司机带带，刚刚群里有人说我看不起喜欢玩的女生，之前可能有点吧。现在是一点都没有了，这种才是女菩萨，没有喜欢玩的女生，我们男生哪有女生玩呢，是吧。</p>
+<p>以前的我实在是太傻了，活该25岁还是处男，还被21岁的妹妹们笑话。叫朋友带我去大保健吧，然后下个soul之类的软件，看能不能约几个喜欢玩的女菩萨。</p>
+<p>终于还是活成了曾经的自己最讨厌的人啊，我以为我不会的，谁知道呢，以前哪会想到有今天，或许这就是人生吧，哈哈。</p>
+<p>10点了，睡觉。</p>
+<hr>
+
+<p>如果7年前我答应了TXH，一切会不会不一样呢，那么我现在也不会在杭州吧，更不会遇见吴玥阳，更更不会有今天的事情发生。人生果然很奇妙呢，不过就像TXH说的，可惜没如果，安静的接受这一切吧，过去的种种选择，造就了现在的我。按照平行宇宙的理论，会不会有一个时空的我当初选择了TXH，那个时空的我会过的比现在的我要幸福吧，祝福他，不对，祝福那个时空的我，你做了一个很对的选择，哪像今天的我惶惶如丧家之犬。</p>
+<p>看来以后做决定得小心点了。</p>
+]]></content>
   </entry>
   <entry>
     <title>快乐周末</title>
@@ -2664,6 +2655,29 @@
       </categories>
       <tags>
         <tag>我独自生活</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>怎样</title>
+    <url>/2018/10/06/%E6%80%8E%E6%A0%B7/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote class="blockquote-center">
+            <i class="fa fa-quote-left"></i>
+            <p>如果我们现在还在一起会是怎样<br>我们是不是还是深爱着对方</p>
+<p>──怎样 戴佩妮</p>
+
+            <i class="fa fa-quote-right"></i>
+          </blockquote>
+
+<a id="more"></a>
+
+<div class="note info">
+            <p>我这里天快要黑了<br>那里呢<br>我这里天气凉凉的<br>那里呢</p><p>我这里一切都变了<br>我变的懂事了<br>我又开始写日记了<br>而那你呢</p><p>我这里天快要亮了<br>那里呢<br>我这里天气很炎热<br>那里呢</p><p>我这里一切都变了<br>我变的不哭了<br>我把照片也收起了<br>而那你呢</p><p>如果我们现在还在一起会是怎样<br>我们是不是还是深爱着对方<br>像开始时那样<br>握着手就算天快亮</p><p>我们现在还在一起会是怎样<br>我们是不是还是隐瞒着对方<br>像结束时那样<br>明知道你没有错<br>还硬要我原谅</p><p>我这里天快要亮了<br>那里呢<br>我这里天气很炎热<br>那里呢</p><p>我这里一切都变了<br>我变的不哭了<br>我把照片也收起了<br>而那你呢</p><p>如果我们现在还在一起会是怎样<br>我们是不是还是深爱着对方<br>像开始时那样<br>握着手就算天快亮</p><p>我们现在还在一起会是怎样<br>我们是不是还是隐瞒着对方<br>像结束时那样<br>明知道你没有错<br>还硬要我原谅</p><p>如果我们现在还在一起会是怎样<br>我们是不是还是深爱着对方<br>像开始时那样<br>握着手就算天快亮</p><p>我们现在还在一起会是怎样<br>我们是不是还是隐瞒着对方<br>像结束时那样<br>明知道你没有错<br>还硬要我原谅</p><p>我不会原谅<br>我怎么原谅</p><p>──怎样 戴佩妮</p>
+          </div>]]></content>
+      <categories>
+        <category>听歌</category>
+      </categories>
+      <tags>
+        <tag>听歌</tag>
       </tags>
   </entry>
   <entry>
@@ -2716,22 +2730,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>想要幸福</title>
-    <url>/2019/01/14/%E6%83%B3%E8%A6%81%E5%B9%B8%E7%A6%8F/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>都这么自律了</p>
-<a id="more"></a>
-
-<p>标准好男人，怎么就得不到幸福呢。</p>
-<p>难道真的要变成坏男人，才会有女生死心塌地的喜欢吗。</p>
-]]></content>
-      <categories>
-        <category>我独自生活</category>
-      </categories>
-      <tags>
-        <tag>我独自生活</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>想喝奶茶</title>
     <url>/2019/06/04/%E6%83%B3%E5%96%9D%E5%A5%B6%E8%8C%B6/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>对自己好抠，奶茶都舍不得买。。。</p>
@@ -2743,29 +2741,22 @@
 ]]></content>
   </entry>
   <entry>
-    <title>想购物的冲动</title>
-    <url>/2018/08/19/%E6%83%B3%E8%B4%AD%E7%89%A9%E7%9A%84%E5%86%B2%E5%8A%A8/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>哈哈哈，凭借我强大的意志力克制住了。还是要好好赚钱呀，妈妈买东西，自己不能乱花钱哦。</p>
-]]></content>
-      <tags>
-        <tag>我独自生活</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>想早点离开</title>
     <url>/2019/02/24/%E6%83%B3%E6%97%A9%E7%82%B9%E7%A6%BB%E5%BC%80/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
   </entry>
   <entry>
-    <title>初恋这件小事</title>
-    <url>/2018/09/17/%E5%88%9D%E6%81%8B%E8%BF%99%E4%BB%B6%E5%B0%8F%E4%BA%8B/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>上初中那会，因为有暗恋的人，但是又没敢表白，所以没能谈一段恋爱，因为我喜欢一个人的时候，心里实在装不下其他人的位置了。</p>
-<p>等到了上高中那会，班上的英语课代表喜欢我，对我很好，好到直男的我都感受到了。但是因为对她没有感觉，就一直装傻充愣着，装到她闺蜜都受不了了，对我说，她都这么明显了你还不懂吗。可惜当时的我只是把她对我的喜欢，当作一种炫耀的资本，伤害到了她。</p>
-<p>等到了大学的时候，我特别憧憬能谈一段校园恋爱，我从刚进校园就开始憧憬着谈个女朋友，一直嚷嚷到大四。期间虽然也有女生喜欢我，但我没有答应，因为我对她实在没感觉，如果我不是初恋还在的话，或许会答应她吧。</p>
-<p>在我的青春里，没有过电视或电影里的那些剧情，所以我看那些电影从来都没有感触。也正是因为我没有在青春期的时候谈恋爱，等我长大了。初恋还在，我就觉得既然初恋还在，那我就好好珍惜吧。找一个最爱的人，好好的对她，好好的谈一场恋爱。在我心里初恋的地位就是这么神圣，或许以后会遇见别的女生，但初恋是心里永远也抹不去的的存在。</p>
-<p>2018/09/18 update</p>
-<p>没啦，没啦，不再更新啦。</p>
+    <title>想要幸福</title>
+    <url>/2019/01/14/%E6%83%B3%E8%A6%81%E5%B9%B8%E7%A6%8F/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>都这么自律了</p>
+<a id="more"></a>
+
+<p>标准好男人，怎么就得不到幸福呢。</p>
+<p>难道真的要变成坏男人，才会有女生死心塌地的喜欢吗。</p>
 ]]></content>
+      <categories>
+        <category>我独自生活</category>
+      </categories>
       <tags>
         <tag>我独自生活</tag>
       </tags>
@@ -2786,21 +2777,12 @@
       </tags>
   </entry>
   <entry>
-    <title>感冒了</title>
-    <url>/2019/05/04/%E6%84%9F%E5%86%92%E4%BA%86/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
-  </entry>
-  <entry>
-    <title>感觉要黑化了</title>
-    <url>/2020/08/12/%E6%84%9F%E8%A7%89%E8%A6%81%E9%BB%91%E5%8C%96%E4%BA%86/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>三个月前的自己</p>
-<p>《<a href="/2020/05/13/想跑步了/" title="想跑步了">想跑步了</a>》</p>
-<p><del>真的是累了，之后就好好赚钱，谈什么感情。</del></p>
-<p><del>加油，阿彪，不要轻言放弃。</del></p>
-<p>一个月前的自己真傻，还在摇摆不定，现在好了，意志坚定。</p>
+    <title>想购物的冲动</title>
+    <url>/2018/08/19/%E6%83%B3%E8%B4%AD%E7%89%A9%E7%9A%84%E5%86%B2%E5%8A%A8/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>哈哈哈，凭借我强大的意志力克制住了。还是要好好赚钱呀，妈妈买东西，自己不能乱花钱哦。</p>
 ]]></content>
       <tags>
-        <tag>黑化</tag>
+        <tag>我独自生活</tag>
       </tags>
   </entry>
   <entry>
@@ -2829,10 +2811,9 @@
       </tags>
   </entry>
   <entry>
-    <title>我是傻逼</title>
-    <url>/2020/08/10/%E6%88%91%E6%98%AF%E5%82%BB%E9%80%BC/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>这条置顶一下，虽然是8月份写的，现在看也很有意义。</p>
-]]></content>
+    <title>感冒了</title>
+    <url>/2019/05/04/%E6%84%9F%E5%86%92%E4%BA%86/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
   </entry>
   <entry>
     <title>懵</title>
@@ -2841,6 +2822,38 @@
 ]]></content>
       <tags>
         <tag>我独自生活</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我是一个念旧的人</title>
+    <url>/2018/09/24/%E6%88%91%E6%98%AF%E4%B8%80%E4%B8%AA%E5%BF%B5%E6%97%A7%E7%9A%84%E4%BA%BA/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>旧的人，旧的事，旧的东西，我总是特别喜欢，因为里面包含了满满的回忆。</p>
+<p>初中朋友送我的生日礼物，现在都还在呢。</p>
+]]></content>
+      <categories>
+        <category>难过</category>
+      </categories>
+      <tags>
+        <tag>难过</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我是傻逼</title>
+    <url>/2020/08/10/%E6%88%91%E6%98%AF%E5%82%BB%E9%80%BC/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>这条置顶一下，虽然是8月份写的，现在看也很有意义。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>感觉要黑化了</title>
+    <url>/2020/08/12/%E6%84%9F%E8%A7%89%E8%A6%81%E9%BB%91%E5%8C%96%E4%BA%86/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>三个月前的自己</p>
+<p>《<a href="/2020/05/13/想跑步了/" title="想跑步了">想跑步了</a>》</p>
+<p><del>真的是累了，之后就好好赚钱，谈什么感情。</del></p>
+<p><del>加油，阿彪，不要轻言放弃。</del></p>
+<p>一个月前的自己真傻，还在摇摆不定，现在好了，意志坚定。</p>
+]]></content>
+      <tags>
+        <tag>黑化</tag>
       </tags>
   </entry>
   <entry>
@@ -2868,19 +2881,6 @@
       </tags>
   </entry>
   <entry>
-    <title>我是一个念旧的人</title>
-    <url>/2018/09/24/%E6%88%91%E6%98%AF%E4%B8%80%E4%B8%AA%E5%BF%B5%E6%97%A7%E7%9A%84%E4%BA%BA/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>旧的人，旧的事，旧的东西，我总是特别喜欢，因为里面包含了满满的回忆。</p>
-<p>初中朋友送我的生日礼物，现在都还在呢。</p>
-]]></content>
-      <categories>
-        <category>难过</category>
-      </categories>
-      <tags>
-        <tag>难过</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>我要睡懒觉</title>
     <url>/2018/07/27/%E6%88%91%E8%A6%81%E7%9D%A1%E6%87%92%E8%A7%89/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>感觉回到了高中时期，每天起早贪黑的，我明天要睡个懒觉～</p>
@@ -2893,6 +2893,18 @@
     <title>折腾了一天</title>
     <url>/2018/12/17/%E6%8A%98%E8%85%BE%E4%BA%86%E4%B8%80%E5%A4%A9/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>还是没有解决，头都是疼的。</p>
+]]></content>
+      <categories>
+        <category>我独自生活</category>
+      </categories>
+      <tags>
+        <tag>我独自生活</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>无聊的一天</title>
+    <url>/2018/11/26/%E6%97%A0%E8%81%8A%E7%9A%84%E4%B8%80%E5%A4%A9/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>一行代码也没敲</p>
 ]]></content>
       <categories>
         <category>我独自生活</category>
@@ -2947,18 +2959,6 @@
       </tags>
   </entry>
   <entry>
-    <title>无聊的一天</title>
-    <url>/2018/11/26/%E6%97%A0%E8%81%8A%E7%9A%84%E4%B8%80%E5%A4%A9/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>一行代码也没敲</p>
-]]></content>
-      <categories>
-        <category>我独自生活</category>
-      </categories>
-      <tags>
-        <tag>我独自生活</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>明天上线咯</title>
     <url>/2018/11/21/%E6%98%8E%E5%A4%A9%E4%B8%8A%E7%BA%BF%E5%92%AF/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>希望一切顺利吧，但是又有新的任务呢。</p>
@@ -2968,6 +2968,20 @@
       </categories>
       <tags>
         <tag>我独自生活</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>明天去接人</title>
+    <url>/2018/12/03/%E6%98%8E%E5%A4%A9%E5%8E%BB%E6%8E%A5%E4%BA%BA/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>啦啦啦，开心</p>
+]]></content>
+      <categories>
+        <category>我独自生活</category>
+      </categories>
+      <tags>
+        <tag>我独自生活</tag>
+        <tag>相遇</tag>
+        <tag>发小</tag>
       </tags>
   </entry>
   <entry>
@@ -3013,6 +3027,15 @@
       </tags>
   </entry>
   <entry>
+    <title>有个特别想写的</title>
+    <url>/2019/02/18/%E6%9C%89%E4%B8%AA%E7%89%B9%E5%88%AB%E6%83%B3%E5%86%99%E7%9A%84/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>留到重要的日子吧，比如生日再写。</p>
+<a id="more"></a>
+
+<p>今天很开心，偶然的想起一段尘封的往事。得好好构思一下，再润润色，争取写的优美一些。</p>
+]]></content>
+  </entry>
+  <entry>
     <title>有点累</title>
     <url>/2018/10/15/%E6%9C%89%E7%82%B9%E7%B4%AF/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>好久没买鞋了，想买双鞋犒劳自己。</p>
@@ -3037,15 +3060,6 @@
       <tags>
         <tag>我独自生活</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>有个特别想写的</title>
-    <url>/2019/02/18/%E6%9C%89%E4%B8%AA%E7%89%B9%E5%88%AB%E6%83%B3%E5%86%99%E7%9A%84/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>留到重要的日子吧，比如生日再写。</p>
-<a id="more"></a>
-
-<p>今天很开心，偶然的想起一段尘封的往事。得好好构思一下，再润润色，争取写的优美一些。</p>
-]]></content>
   </entry>
   <entry>
     <title>服了快递</title>
@@ -3078,27 +3092,6 @@
       </tags>
   </entry>
   <entry>
-    <title>江南皮革厂倒闭了</title>
-    <url>/2018/06/20/%E6%B1%9F%E5%8D%97%E7%9A%AE%E9%9D%A9%E5%8E%82%E5%80%92%E9%97%AD%E4%BA%86/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>公司倒闭了，要准备简历开始复习找工作啦，打破了我原有的计划，而且时间是比较仓促，对自己来说也是一道坎吧，希望跨过去之后一些顺利。</p>
-]]></content>
-      <tags>
-        <tag>我独自生活</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>沉默</title>
-    <url>/2018/10/19/%E6%B2%89%E9%BB%98/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>沉默是今晚的。。。傻彪</p>
-]]></content>
-      <categories>
-        <category>我独自生活</category>
-      </categories>
-      <tags>
-        <tag>我独自生活</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>比上不足比下有余</title>
     <url>/2020/08/15/%E6%AF%94%E4%B8%8A%E4%B8%8D%E8%B6%B3%E6%AF%94%E4%B8%8B%E6%9C%89%E4%BD%99/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>今天发工资咯，小小的开心一下。</p>
@@ -3112,9 +3105,30 @@
       </tags>
   </entry>
   <entry>
+    <title>江南皮革厂倒闭了</title>
+    <url>/2018/06/20/%E6%B1%9F%E5%8D%97%E7%9A%AE%E9%9D%A9%E5%8E%82%E5%80%92%E9%97%AD%E4%BA%86/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>公司倒闭了，要准备简历开始复习找工作啦，打破了我原有的计划，而且时间是比较仓促，对自己来说也是一道坎吧，希望跨过去之后一些顺利。</p>
+]]></content>
+      <tags>
+        <tag>我独自生活</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>没什么目标了</title>
     <url>/2018/10/23/%E6%B2%A1%E4%BB%80%E4%B9%88%E7%9B%AE%E6%A0%87%E4%BA%86/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>早上期待中午，中午期待下班，哈哈哈。</p>
+]]></content>
+      <categories>
+        <category>我独自生活</category>
+      </categories>
+      <tags>
+        <tag>我独自生活</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>沉默</title>
+    <url>/2018/10/19/%E6%B2%89%E9%BB%98/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>沉默是今晚的。。。傻彪</p>
 ]]></content>
       <categories>
         <category>我独自生活</category>
@@ -3153,6 +3167,11 @@
       </tags>
   </entry>
   <entry>
+    <title>烦死了</title>
+    <url>/2019/02/03/%E7%83%A6%E6%AD%BB%E4%BA%86/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
+  </entry>
+  <entry>
     <title>爬起来写博客</title>
     <url>/2018/08/09/%E7%88%AC%E8%B5%B7%E6%9D%A5%E5%86%99%E5%8D%9A%E5%AE%A2/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>差点忘记写博客，还好没有过十二点，赶紧从床上爬起来。感觉明天起不来的样子了， 还好明天就周五了，周末可以休息。不用过周末休息没事做诶。</p>
@@ -3162,18 +3181,13 @@
       </tags>
   </entry>
   <entry>
-    <title>明天去接人</title>
-    <url>/2018/12/03/%E6%98%8E%E5%A4%A9%E5%8E%BB%E6%8E%A5%E4%BA%BA/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>啦啦啦，开心</p>
+    <title>爱在黎明破晓前</title>
+    <url>/2019/08/11/%E7%88%B1%E5%9C%A8%E9%BB%8E%E6%98%8E%E7%A0%B4%E6%99%93%E5%89%8D/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>以前对爱情期待的时候看了好多的爱情片，印象比较深刻的就是这部《<a href="https://movie.douban.com/subject/1296339/" target="_blank" rel="noopener">爱在黎明破晓前</a>》。</p>
+<p>其实是个三部曲还有《爱在午夜黄昏后》《爱在午夜降临前》。</p>
+<p>讲个两个陌生人相遇，相爱，分开，再相遇的故事。</p>
+<p>两个互不相识的人相爱，真的很美好。</p>
 ]]></content>
-      <categories>
-        <category>我独自生活</category>
-      </categories>
-      <tags>
-        <tag>我独自生活</tag>
-        <tag>相遇</tag>
-        <tag>发小</tag>
-      </tags>
   </entry>
   <entry>
     <title>爱情</title>
@@ -3196,20 +3210,6 @@
       <tags>
         <tag>我独自生活</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>烦死了</title>
-    <url>/2019/02/03/%E7%83%A6%E6%AD%BB%E4%BA%86/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
-  </entry>
-  <entry>
-    <title>爱在黎明破晓前</title>
-    <url>/2019/08/11/%E7%88%B1%E5%9C%A8%E9%BB%8E%E6%98%8E%E7%A0%B4%E6%99%93%E5%89%8D/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>以前对爱情期待的时候看了好多的爱情片，印象比较深刻的就是这部《<a href="https://movie.douban.com/subject/1296339/" target="_blank" rel="noopener">爱在黎明破晓前</a>》。</p>
-<p>其实是个三部曲还有《爱在午夜黄昏后》《爱在午夜降临前》。</p>
-<p>讲个两个陌生人相遇，相爱，分开，再相遇的故事。</p>
-<p>两个互不相识的人相爱，真的很美好。</p>
-]]></content>
   </entry>
   <entry>
     <title>特地回来写博客</title>
@@ -3242,19 +3242,7 @@
 <a id="more"></a>
 
 
-    <div id="aplayer-SmMpcFqi" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="190778" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"></div>]]></content>
-  </entry>
-  <entry>
-    <title>盼望着盼望着</title>
-    <url>/2018/11/05/%E7%9B%BC%E6%9C%9B%E7%9D%80%E7%9B%BC%E6%9C%9B%E7%9D%80/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>我到底在盼望着什么呢</p>
-]]></content>
-      <categories>
-        <category>我独自生活</category>
-      </categories>
-      <tags>
-        <tag>我独自生活</tag>
-      </tags>
+    <div id="aplayer-hyPmBpTX" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="190778" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"></div>]]></content>
   </entry>
   <entry>
     <title>疼了一天</title>
@@ -3275,9 +3263,38 @@
       </tags>
   </entry>
   <entry>
-    <title>睡觉</title>
-    <url>/2019/02/06/%E7%9D%A1%E8%A7%89/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
+    <title>盼望着盼望着</title>
+    <url>/2018/11/05/%E7%9B%BC%E6%9C%9B%E7%9D%80%E7%9B%BC%E6%9C%9B%E7%9D%80/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>我到底在盼望着什么呢</p>
+]]></content>
+      <categories>
+        <category>我独自生活</category>
+      </categories>
+      <tags>
+        <tag>我独自生活</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>看房</title>
+    <url>/2018/06/26/%E7%9C%8B%E6%88%BF/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>约了8点去看房，希望今天能敲定这件事，然后这周搬家，接下来一心一意找工作。</p>
+<p>看完房回来更新。</p>
+]]></content>
+      <tags>
+        <tag>我独自生活</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>真的要加班了</title>
+    <url>/2018/12/21/%E7%9C%9F%E7%9A%84%E8%A6%81%E5%8A%A0%E7%8F%AD%E4%BA%86/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>不知道下周能不能搞定呢。</p>
+]]></content>
+      <categories>
+        <category>我独自生活</category>
+      </categories>
+      <tags>
+        <tag>我独自生活</tag>
+      </tags>
   </entry>
   <entry>
     <title>睡吧</title>
@@ -3292,6 +3309,23 @@
       </tags>
   </entry>
   <entry>
+    <title>睡觉</title>
+    <url>/2019/02/06/%E7%9D%A1%E8%A7%89/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
+  </entry>
+  <entry>
+    <title>碰到了问题</title>
+    <url>/2018/12/25/%E7%A2%B0%E5%88%B0%E4%BA%86%E9%97%AE%E9%A2%98/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>select * 没问题，但是select字段就会报错，哪怕只查询了一个字段，确认了名字和类型都是对的，不知道是哪里有问题。</p>
+]]></content>
+      <categories>
+        <category>我独自生活</category>
+      </categories>
+      <tags>
+        <tag>我独自生活</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>破手机</title>
     <url>/2019/05/26/%E7%A0%B4%E6%89%8B%E6%9C%BA/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>登登登，登个不停。</p>
@@ -3300,9 +3334,9 @@
 ]]></content>
   </entry>
   <entry>
-    <title>真的要加班了</title>
-    <url>/2018/12/21/%E7%9C%9F%E7%9A%84%E8%A6%81%E5%8A%A0%E7%8F%AD%E4%BA%86/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>不知道下周能不能搞定呢。</p>
+    <title>种草了</title>
+    <url>/2018/10/31/%E7%A7%8D%E8%8D%89%E4%BA%86/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>pad还是手表呢，都挺贵的，暂时只能买一个呢。</p>
 ]]></content>
       <categories>
         <category>我独自生活</category>
@@ -3325,30 +3359,6 @@
 <p>澳大利亚：好像对华人不太友好。政策收紧，EOI分数要求越来越高。</p>
 <p>希望能有个一起努力的女朋友，不知道txh愿不愿意移民。配偶英语不错也能加分。</p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>碰到了问题</title>
-    <url>/2018/12/25/%E7%A2%B0%E5%88%B0%E4%BA%86%E9%97%AE%E9%A2%98/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>select * 没问题，但是select字段就会报错，哪怕只查询了一个字段，确认了名字和类型都是对的，不知道是哪里有问题。</p>
-]]></content>
-      <categories>
-        <category>我独自生活</category>
-      </categories>
-      <tags>
-        <tag>我独自生活</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>种草了</title>
-    <url>/2018/10/31/%E7%A7%8D%E8%8D%89%E4%BA%86/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>pad还是手表呢，都挺贵的，暂时只能买一个呢。</p>
-]]></content>
-      <categories>
-        <category>我独自生活</category>
-      </categories>
-      <tags>
-        <tag>我独自生活</tag>
-      </tags>
   </entry>
   <entry>
     <title>移民计划</title>
@@ -3427,18 +3437,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>第一次上线</title>
-    <url>/2018/10/18/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%8A%E7%BA%BF/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>可能明天会更忙？</p>
-]]></content>
-      <categories>
-        <category>我独自生活</category>
-      </categories>
-      <tags>
-        <tag>我独自生活</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>答应不爱你</title>
     <url>/2018/10/07/%E7%AD%94%E5%BA%94%E4%B8%8D%E7%88%B1%E4%BD%A0/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote class="blockquote-center">
@@ -3462,9 +3460,16 @@
       </tags>
   </entry>
   <entry>
-    <title>自闭</title>
-    <url>/2020/09/10/%E8%87%AA%E9%97%AD/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
+    <title>第一次上线</title>
+    <url>/2018/10/18/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%8A%E7%BA%BF/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>可能明天会更忙？</p>
+]]></content>
+      <categories>
+        <category>我独自生活</category>
+      </categories>
+      <tags>
+        <tag>我独自生活</tag>
+      </tags>
   </entry>
   <entry>
     <title>累死了</title>
@@ -3474,22 +3479,6 @@
       <tags>
         <tag>我独自生活</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>舔狗不得好死</title>
-    <url>/2020/09/13/%E8%88%94%E7%8B%97%E4%B8%8D%E5%BE%97%E5%A5%BD%E6%AD%BB/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><img src="/images/%E8%88%94%E7%8B%9703.png" alt="舔狗03"></p>
-<p><del>虽然被耍了，被喷了，还是不舍得删好友呢，唉。</del></p>
-<p>删掉了，这条明天再删吧，等DNS解析失效之后。</p>
-]]></content>
-      <tags>
-        <tag>舔狗</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>行</title>
-    <url>/2018/05/06/%E8%A1%8C/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
   </entry>
   <entry>
     <title>脑海里响了一天的旋律</title>
@@ -3503,23 +3492,30 @@
       </tags>
   </entry>
   <entry>
+    <title>自闭</title>
+    <url>/2020/09/10/%E8%87%AA%E9%97%AD/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
+  </entry>
+  <entry>
+    <title>舔狗不得好死</title>
+    <url>/2020/09/13/%E8%88%94%E7%8B%97%E4%B8%8D%E5%BE%97%E5%A5%BD%E6%AD%BB/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><img src="/images/%E8%88%94%E7%8B%9703.png" alt="舔狗03"></p>
+<p><del>虽然被耍了，被喷了，还是不舍得删好友呢，唉。</del></p>
+<p>删掉了，这条明天再删吧，等DNS解析失效之后。</p>
+]]></content>
+      <tags>
+        <tag>舔狗</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>虽然不想面对</title>
     <url>/2019/08/15/%E8%99%BD%E7%84%B6%E4%B8%8D%E6%83%B3%E9%9D%A2%E5%AF%B9/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
   </entry>
   <entry>
-    <title>见到了发小</title>
-    <url>/2018/12/04/%E8%A7%81%E5%88%B0%E4%BA%86%E5%8F%91%E5%B0%8F/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>一起吃了顿饭，很开心。</p>
-]]></content>
-      <categories>
-        <category>我独自生活</category>
-      </categories>
-      <tags>
-        <tag>我独自生活</tag>
-        <tag>相遇</tag>
-        <tag>发小</tag>
-      </tags>
+    <title>行</title>
+    <url>/2018/05/06/%E8%A1%8C/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
   </entry>
   <entry>
     <title>补一天</title>
@@ -3546,6 +3542,45 @@
       </tags>
   </entry>
   <entry>
+    <title>见到了发小</title>
+    <url>/2018/12/04/%E8%A7%81%E5%88%B0%E4%BA%86%E5%8F%91%E5%B0%8F/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>一起吃了顿饭，很开心。</p>
+]]></content>
+      <categories>
+        <category>我独自生活</category>
+      </categories>
+      <tags>
+        <tag>我独自生活</tag>
+        <tag>相遇</tag>
+        <tag>发小</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>解决了</title>
+    <url>/2018/12/27/%E8%A7%A3%E5%86%B3%E4%BA%86/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>之后照着原本的逻辑写就好啦</p>
+]]></content>
+      <categories>
+        <category>我独自生活</category>
+      </categories>
+      <tags>
+        <tag>我独自生活</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>记一件傻逼的事情</title>
+    <url>/2018/09/18/%E8%AE%B0%E4%B8%80%E4%BB%B6%E5%82%BB%E9%80%BC%E7%9A%84%E4%BA%8B%E6%83%85/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>哈哈哈，刚刚拿着泡面和电热水壶去厕所，然后出来把水烧好，同学去上厕所，在马桶盖上发现了我的泡面。</p>
+<p>哈哈哈哈哈哈哈哈哈哈哈</p>
+]]></content>
+      <categories>
+        <category>傻逼</category>
+      </categories>
+      <tags>
+        <tag>我是傻逼</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>记事本</title>
     <url>/2018/10/01/%E8%AE%B0%E4%BA%8B%E6%9C%AC/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote class="blockquote-center">
@@ -3564,7 +3599,7 @@
           </div>
 
 
-    <div id="aplayer-hOmtwEnl" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="190062" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"></div>
+    <div id="aplayer-bupZLcyM" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="190062" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"></div>
 
 ]]></content>
       <categories>
@@ -3572,41 +3607,6 @@
       </categories>
       <tags>
         <tag>听歌</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>记一件傻逼的事情</title>
-    <url>/2018/09/18/%E8%AE%B0%E4%B8%80%E4%BB%B6%E5%82%BB%E9%80%BC%E7%9A%84%E4%BA%8B%E6%83%85/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>哈哈哈，刚刚拿着泡面和电热水壶去厕所，然后出来把水烧好，同学去上厕所，在马桶盖上发现了我的泡面。</p>
-<p>哈哈哈哈哈哈哈哈哈哈哈</p>
-]]></content>
-      <categories>
-        <category>傻逼</category>
-      </categories>
-      <tags>
-        <tag>我是傻逼</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>看房</title>
-    <url>/2018/06/26/%E7%9C%8B%E6%88%BF/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>约了8点去看房，希望今天能敲定这件事，然后这周搬家，接下来一心一意找工作。</p>
-<p>看完房回来更新。</p>
-]]></content>
-      <tags>
-        <tag>我独自生活</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>解决了</title>
-    <url>/2018/12/27/%E8%A7%A3%E5%86%B3%E4%BA%86/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>之后照着原本的逻辑写就好啦</p>
-]]></content>
-      <categories>
-        <category>我独自生活</category>
-      </categories>
-      <tags>
-        <tag>我独自生活</tag>
       </tags>
   </entry>
   <entry>
@@ -3627,6 +3627,12 @@
       </tags>
   </entry>
   <entry>
+    <title>起风了</title>
+    <url>/2019/08/09/%E8%B5%B7%E9%A3%8E%E4%BA%86/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>台风要来了，第一次经历台风呢。</p>
+]]></content>
+  </entry>
+  <entry>
     <title>过了次黑五</title>
     <url>/2018/11/24/%E8%BF%87%E4%BA%86%E6%AC%A1%E9%BB%91%E4%BA%94/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>不买点什么浑身难受。</p>
@@ -3639,10 +3645,13 @@
       </tags>
   </entry>
   <entry>
-    <title>起风了</title>
-    <url>/2019/08/09/%E8%B5%B7%E9%A3%8E%E4%BA%86/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>台风要来了，第一次经历台风呢。</p>
+    <title>还是做好自己吧</title>
+    <url>/2020/08/14/%E8%BF%98%E6%98%AF%E5%81%9A%E5%A5%BD%E8%87%AA%E5%B7%B1%E5%90%A7/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>平常心，平常心。</p>
 ]]></content>
+      <tags>
+        <tag>日常</tag>
+      </tags>
   </entry>
   <entry>
     <title>迷茫</title>
@@ -3650,6 +3659,32 @@
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>工作会有变动吗？什么时候能有感情生活？十一要不要约初中同学聚一聚？什么时候去看房子？</p>
 <p>不知不觉心里攒了很多事事情呢，难怪最近有点压力。</p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>退后</title>
+    <url>/2018/10/02/%E9%80%80%E5%90%8E/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote class="blockquote-center">
+            <i class="fa fa-quote-left"></i>
+            <p>我知道我们都没有错</p>
+<p>只是放手会比较好过</p>
+<p>──周杰伦 退后</p>
+
+            <i class="fa fa-quote-right"></i>
+          </blockquote>
+
+<a id="more"></a>
+
+<div class="note info">
+            <p>天空灰的像哭过</p><p>离开你以后</p><p>并没有 更自由</p><p>酸酸的空气</p><p>嗅出我们的距离</p><p>一幕锥心的结局</p><p>像呼吸般无法停息</p><p>抽屉泛黄的日记</p><p>榨干了回忆</p><p>那笑容 是夏季</p><p>你我的过去被顺时针的忘记</p><p>缺氧过后的爱情</p><p>粗心的眼泪是多余</p><p>我知道你我都没有错</p><p>只是忘了怎么退后</p><p>信誓旦旦给了承诺</p><p>却被时间扑了空</p><p>我知道我们都没有错</p><p>只是放手会比较好过</p><p>最美的爱情回忆里待续</p><p>天空灰的像哭过</p><p>离开你以后</p><p>并没有 更自由</p><p>酸酸的空气</p><p>嗅出我们的距离</p><p>一幕锥心的结局</p><p>像呼吸般无法停息</p><p>抽屉泛黄的日记</p><p>榨干了回忆</p><p>那笑容 是夏季</p><p>你我的过去被顺时针的忘记</p><p>缺氧过后的爱情</p><p>粗心的眼泪是多余</p><p>我知道你我都没有错</p><p>只是忘了怎么退后</p><p>信誓旦旦给了承诺</p><p>却被时间扑了空</p><p>我知道我们都没有错</p><p>只是放手会比较好过</p><p>最美的爱情回忆里待续</p><p>我知道你我都没有错</p><p>只是忘了怎么退后</p><p>信誓旦旦给了承诺</p><p>却被时间扑了空</p><p>我知道我们都没有错</p><p>只是放手会比较好过</p><p>最美的爱情回忆里待续</p><p>──周杰伦 退后</p>
+          </div>
+
+]]></content>
+      <categories>
+        <category>听歌</category>
+      </categories>
+      <tags>
+        <tag>听歌</tag>
+      </tags>
   </entry>
   <entry>
     <title>送妈妈的礼物清单</title>
@@ -3669,15 +3704,6 @@
       </categories>
       <tags>
         <tag>我独自生活</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>还是做好自己吧</title>
-    <url>/2020/08/14/%E8%BF%98%E6%98%AF%E5%81%9A%E5%A5%BD%E8%87%AA%E5%B7%B1%E5%90%A7/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>平常心，平常心。</p>
-]]></content>
-      <tags>
-        <tag>日常</tag>
       </tags>
   </entry>
   <entry>
@@ -3705,6 +3731,15 @@
       </tags>
   </entry>
   <entry>
+    <title>键盘坏掉了</title>
+    <url>/2018/08/04/%E9%94%AE%E7%9B%98%E5%9D%8F%E6%8E%89%E4%BA%86/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>哭，电脑有几个键失灵了，很难受诶，都不知道去哪修，修的话也没电脑用，难受。</p>
+]]></content>
+      <tags>
+        <tag>我独自生活</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>难得下班早</title>
     <url>/2018/10/30/%E9%9A%BE%E5%BE%97%E4%B8%8B%E7%8F%AD%E6%97%A9/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>心累</p>
@@ -3717,27 +3752,9 @@
       </tags>
   </entry>
   <entry>
-    <title>键盘坏掉了</title>
-    <url>/2018/08/04/%E9%94%AE%E7%9B%98%E5%9D%8F%E6%8E%89%E4%BA%86/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>哭，电脑有几个键失灵了，很难受诶，都不知道去哪修，修的话也没电脑用，难受。</p>
-]]></content>
-      <tags>
-        <tag>我独自生活</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>难得的休息</title>
     <url>/2018/07/21/%E9%9A%BE%E5%BE%97%E7%9A%84%E4%BC%91%E6%81%AF/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>希望周一有好消息，期待又担心。</p>
-]]></content>
-      <tags>
-        <tag>我独自生活</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>面试第一天</title>
-    <url>/2018/07/16/%E9%9D%A2%E8%AF%95%E7%AC%AC%E4%B8%80%E5%A4%A9/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>开始面试的第一天，总的来说还可以啦，下午的电话面试过了。然后也把一周的面试安排好啦，大概有7场的样子，满满当当的。希望这周能面上吧，实在是不想找工作啦。</p>
 ]]></content>
       <tags>
         <tag>我独自生活</tag>
@@ -3804,6 +3821,15 @@
       </tags>
   </entry>
   <entry>
+    <title>面试第一天</title>
+    <url>/2018/07/16/%E9%9D%A2%E8%AF%95%E7%AC%AC%E4%B8%80%E5%A4%A9/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>开始面试的第一天，总的来说还可以啦，下午的电话面试过了。然后也把一周的面试安排好啦，大概有7场的样子，满满当当的。希望这周能面上吧，实在是不想找工作啦。</p>
+]]></content>
+      <tags>
+        <tag>我独自生活</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>面试第三天</title>
     <url>/2018/07/18/%E9%9D%A2%E8%AF%95%E7%AC%AC%E4%B8%89%E5%A4%A9/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>海康面试感觉有戏哦，希望能够进去吧！</p>
@@ -3813,18 +3839,18 @@
       </tags>
   </entry>
   <entry>
-    <title>面试第五天</title>
-    <url>/2018/07/20/%E9%9D%A2%E8%AF%95%E7%AC%AC%E4%BA%94%E5%A4%A9/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>有两个offer了，开心呢。</p>
+    <title>面试第二天</title>
+    <url>/2018/07/17/%E9%9D%A2%E8%AF%95%E7%AC%AC%E4%BA%8C%E5%A4%A9/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>今天是面试的第二天啦，有些经验上的东西确实需要时间去积累，不是光看书就能学会的。还是经验太少了，不然面试的时候会更加的从容吧。明天是最重要的一场面试呢，要是能面上就好了，工资多福利好，加班也多。</p>
 ]]></content>
       <tags>
         <tag>我独自生活</tag>
       </tags>
   </entry>
   <entry>
-    <title>面试第二天</title>
-    <url>/2018/07/17/%E9%9D%A2%E8%AF%95%E7%AC%AC%E4%BA%8C%E5%A4%A9/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>今天是面试的第二天啦，有些经验上的东西确实需要时间去积累，不是光看书就能学会的。还是经验太少了，不然面试的时候会更加的从容吧。明天是最重要的一场面试呢，要是能面上就好了，工资多福利好，加班也多。</p>
+    <title>面试第五天</title>
+    <url>/2018/07/20/%E9%9D%A2%E8%AF%95%E7%AC%AC%E4%BA%94%E5%A4%A9/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>有两个offer了，开心呢。</p>
 ]]></content>
       <tags>
         <tag>我独自生活</tag>
@@ -3924,32 +3950,6 @@
       </categories>
       <tags>
         <tag>难过</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>退后</title>
-    <url>/2018/10/02/%E9%80%80%E5%90%8E/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote class="blockquote-center">
-            <i class="fa fa-quote-left"></i>
-            <p>我知道我们都没有错</p>
-<p>只是放手会比较好过</p>
-<p>──周杰伦 退后</p>
-
-            <i class="fa fa-quote-right"></i>
-          </blockquote>
-
-<a id="more"></a>
-
-<div class="note info">
-            <p>天空灰的像哭过</p><p>离开你以后</p><p>并没有 更自由</p><p>酸酸的空气</p><p>嗅出我们的距离</p><p>一幕锥心的结局</p><p>像呼吸般无法停息</p><p>抽屉泛黄的日记</p><p>榨干了回忆</p><p>那笑容 是夏季</p><p>你我的过去被顺时针的忘记</p><p>缺氧过后的爱情</p><p>粗心的眼泪是多余</p><p>我知道你我都没有错</p><p>只是忘了怎么退后</p><p>信誓旦旦给了承诺</p><p>却被时间扑了空</p><p>我知道我们都没有错</p><p>只是放手会比较好过</p><p>最美的爱情回忆里待续</p><p>天空灰的像哭过</p><p>离开你以后</p><p>并没有 更自由</p><p>酸酸的空气</p><p>嗅出我们的距离</p><p>一幕锥心的结局</p><p>像呼吸般无法停息</p><p>抽屉泛黄的日记</p><p>榨干了回忆</p><p>那笑容 是夏季</p><p>你我的过去被顺时针的忘记</p><p>缺氧过后的爱情</p><p>粗心的眼泪是多余</p><p>我知道你我都没有错</p><p>只是忘了怎么退后</p><p>信誓旦旦给了承诺</p><p>却被时间扑了空</p><p>我知道我们都没有错</p><p>只是放手会比较好过</p><p>最美的爱情回忆里待续</p><p>我知道你我都没有错</p><p>只是忘了怎么退后</p><p>信誓旦旦给了承诺</p><p>却被时间扑了空</p><p>我知道我们都没有错</p><p>只是放手会比较好过</p><p>最美的爱情回忆里待续</p><p>──周杰伦 退后</p>
-          </div>
-
-]]></content>
-      <categories>
-        <category>听歌</category>
-      </categories>
-      <tags>
-        <tag>听歌</tag>
       </tags>
   </entry>
 </search>
