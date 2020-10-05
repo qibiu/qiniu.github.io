@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.lihaiyang.me/"/>
-  <updated>2020-09-30T12:53:05.842Z</updated>
+  <updated>2020-10-05T17:58:09.168Z</updated>
   <id>https://blog.lihaiyang.me/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>杰伦和侯佩岑</title>
+    <link href="https://blog.lihaiyang.me/2020/10/06/%E6%9D%B0%E4%BC%A6%E5%92%8C%E4%BE%AF%E4%BD%A9%E5%B2%91/"/>
+    <id>https://blog.lihaiyang.me/2020/10/06/杰伦和侯佩岑/</id>
+    <published>2020-10-05T17:57:17.000Z</published>
+    <updated>2020-10-05T17:58:09.168Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+      <category term="杰伦" scheme="https://blog.lihaiyang.me/tags/%E6%9D%B0%E4%BC%A6/"/>
+    
+      <category term="侯佩岑" scheme="https://blog.lihaiyang.me/tags/%E4%BE%AF%E4%BD%A9%E5%B2%91/"/>
+    
+      <category term="周杰伦" scheme="https://blog.lihaiyang.me/tags/%E5%91%A8%E6%9D%B0%E4%BC%A6/"/>
+    
+      <category term="Jay" scheme="https://blog.lihaiyang.me/tags/Jay/"/>
+    
+      <category term="七七" scheme="https://blog.lihaiyang.me/tags/%E4%B8%83%E4%B8%83/"/>
+    
+  </entry>
   
   <entry>
     <title>不想找女朋友了</title>
@@ -454,25 +483,6 @@
       <category term="Tree" scheme="https://blog.lihaiyang.me/tags/Tree/"/>
     
       <category term="Medium" scheme="https://blog.lihaiyang.me/tags/Medium/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>倒霉的一天</title>
-    <link href="https://blog.lihaiyang.me/2020/05/26/%E5%80%92%E9%9C%89%E7%9A%84%E4%B8%80%E5%A4%A9/"/>
-    <id>https://blog.lihaiyang.me/2020/05/26/倒霉的一天/</id>
-    <published>2020-05-26T00:54:56.000Z</published>
-    <updated>2020-05-26T00:55:44.987Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
     
   </entry>
   
