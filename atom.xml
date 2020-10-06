@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.lihaiyang.me/"/>
-  <updated>2020-10-05T18:04:35.117Z</updated>
+  <updated>2020-10-06T16:50:14.400Z</updated>
   <id>https://blog.lihaiyang.me/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>臭七七</title>
+    <link href="https://blog.lihaiyang.me/2020/10/07/%E8%87%AD%E4%B8%83%E4%B8%83/"/>
+    <id>https://blog.lihaiyang.me/2020/10/07/臭七七/</id>
+    <published>2020-10-06T16:49:37.000Z</published>
+    <updated>2020-10-06T16:50:14.400Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+      <category term="七七" scheme="https://blog.lihaiyang.me/tags/%E4%B8%83%E4%B8%83/"/>
+    
+  </entry>
   
   <entry>
     <title>杰伦和侯佩岑</title>
@@ -456,33 +477,6 @@
       <category term="Tree" scheme="https://blog.lihaiyang.me/tags/Tree/"/>
     
       <category term="Easy" scheme="https://blog.lihaiyang.me/tags/Easy/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>LeetCode-222</title>
-    <link href="https://blog.lihaiyang.me/2020/05/28/LeetCode-222/"/>
-    <id>https://blog.lihaiyang.me/2020/05/28/LeetCode-222/</id>
-    <published>2020-05-28T07:05:07.000Z</published>
-    <updated>2020-06-08T01:15:59.393Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Level: Medium&lt;/p&gt;
-&lt;p&gt;Given a &lt;strong&gt;complete&lt;/strong&gt; binary tree, count the number of nodes.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Definition of a complete binary tree from &lt;a href=&quot;http://en.wikipedia.org/wiki/Binary_tree#Types_of_binary_trees&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Wikipedia&lt;/a&gt;:&lt;/strong&gt;&lt;br&gt;In a complete binary tree every level, except possibly the last, is completely filled, and all nodes in the last level are as far left as possible. It can have between 1 and 2h nodes inclusive at the last level h.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Input: &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   / \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  2   3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; / \  /&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4  5 6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Output: 6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-    
-    </summary>
-    
-    
-      <category term="LeetCode" scheme="https://blog.lihaiyang.me/tags/LeetCode/"/>
-    
-      <category term="Tree" scheme="https://blog.lihaiyang.me/tags/Tree/"/>
-    
-      <category term="Medium" scheme="https://blog.lihaiyang.me/tags/Medium/"/>
     
   </entry>
   
