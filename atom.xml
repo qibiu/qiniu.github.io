@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.lihaiyang.me/"/>
-  <updated>2020-10-18T13:03:49.349Z</updated>
+  <updated>2020-10-19T16:07:11.679Z</updated>
   <id>https://blog.lihaiyang.me/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>生日快乐</title>
+    <link href="https://blog.lihaiyang.me/2020/10/20/%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90/"/>
+    <id>https://blog.lihaiyang.me/2020/10/20/生日快乐/</id>
+    <published>2020-10-19T16:00:35.000Z</published>
+    <updated>2020-10-19T16:07:11.679Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>约定的吃饭</title>
@@ -473,31 +492,6 @@
     
     </summary>
     
-    
-  </entry>
-  
-  <entry>
-    <title>LeetCode-199</title>
-    <link href="https://blog.lihaiyang.me/2020/05/20/LeetCode-199/"/>
-    <id>https://blog.lihaiyang.me/2020/05/20/LeetCode-199/</id>
-    <published>2020-05-20T08:47:31.000Z</published>
-    <updated>2020-05-20T10:49:05.683Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Level: Medium&lt;/p&gt;
-&lt;p&gt;Given a binary tree, imagine yourself standing on the &lt;em&gt;right&lt;/em&gt; side of it, return the values of the nodes you can see ordered from top to bottom.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Input: [1,2,3,null,5,null,4]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Output: [1, 3, 4]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Explanation:&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   1            &amp;lt;---&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; /   \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2     3         &amp;lt;---&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; \     \&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  5     4       &amp;lt;---&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-    
-    </summary>
-    
-    
-      <category term="LeetCode" scheme="https://blog.lihaiyang.me/tags/LeetCode/"/>
-    
-      <category term="Tree" scheme="https://blog.lihaiyang.me/tags/Tree/"/>
-    
-      <category term="Medium" scheme="https://blog.lihaiyang.me/tags/Medium/"/>
     
   </entry>
   
